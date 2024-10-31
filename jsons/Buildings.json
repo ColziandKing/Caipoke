@@ -1,20 +1,4 @@
 [
-  {
-		"name": "Battering Ram",
-		"uniqueTo": "Jerusalem",
-		"replaces": "Hoplite",
-		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
-		"movement": 3,
-		"strength": 15,
-		"cost": 85,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Hwach'a",
-		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
-		"[-1] Sight", "Can only attack [City] units"],
-		"promotions":  ["Cover I","Cover II"],
-		"attackSound": "throw"
-	},
 	{ 
 		"name": "Palengke",
 		"replaces": "Market",
