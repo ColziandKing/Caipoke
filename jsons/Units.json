@@ -9,4 +9,39 @@
 			"Requires at least [3] population"],
 		"hurryCostModifier": 20
 	},
+  {
+		"name": "Battering Ram",
+		"uniqueTo": "Jerusalem",
+		"replaces": "Longswordsman",
+		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
+		"movement": 3,
+		"strength": 15,
+		"cost": 105,
+		"requiredTech": "Theology",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units"],
+		"promotions":  ["Cover I","Cover II"],
+		"attackSound": "throw"
+	},
+    {
+        "name": "Crusader",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Colziand",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 17,
+        "cost": 105,
+        "requiredTech": "Theology",
+        "uniques": [
+            "May enter foreign tiles without open borders",
+            "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+            "Earn [200]% of killed [Military] unit's [Strength] as [Faith]"
+        ],
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "attackSound": "metalhit"
+    },
 ]
