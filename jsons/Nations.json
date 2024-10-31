@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Colziand",
+		"leaderName": "Raymond Sheen Caballero",
+		"adjective": ["Kolzians"],
+          	"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	  	"favoredReligion": "Christianity",
+	  
+		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
+                "startIntroPart2": "Honored kingly Colziand, the people have long admired the steady hand of governance you wield. Will you conquer all those who oppose you, or strive for peaceful relations? Quote: 'It is much more blessed to give, than to receive.' Will you once more rule the world for the Lord's will be done?",
+	  	
+		"declaringWar": "Hence, Forth!",
+		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
+		"defeated": "Colziand is its people, me, and Him.",
+		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
+		"neutralHello": "Oh greeting high above",
+		"hateHello": "You speak in pride, I don't wanna hear it",
+		"tradeRequest": "It appears that you have a golden interest of our goods",
+		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Ravdon Mond", "Sabert Zhang", 
+			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
+		"outerColor": [255,128,0],
+		"innerColor": [255,255,0], 
+		"uniqueName": "Domain Rule",
+		"uniques": ["Starts with [Aesthetics] adopted","[+2525 Gold] from [All] tiles [in all cities]","Gain a free [Palengke] [in all cities]",
+			    "Military Units gifted from City-States start with [+1000] XP", "Cannot build [Scout] units","Starts with [Order] adopted",
+    "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [World] adopted","Starts with [Recorded History] adopted",
+    "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
+    "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Exploration] adopted","Starts with [Honor] adopted"],
+		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
+	},
+]
