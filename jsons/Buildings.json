@@ -1,4 +1,16 @@
 [
+	{
+		"name": "Communia Polithea",
+		"culture": 2,
+		"food": 2,
+		"cost": 140,
+		"hurryCostModifier": 40,
+		"requiredTech": "The Wheel",
+		"maintenance": 1,
+		"uniques": ["Limited to [1] per Civilization","Free Social Policy",
+			"[+100]% unhappiness from the number of cities", "[+100]% Unhappiness from [Population] [in all cities]",
+			"[1] free [Settler] units appear","Destroyed when the city is captured"]
+	},
 	{ 
 		"name": "Palengke",
 		"replaces": "Market",
