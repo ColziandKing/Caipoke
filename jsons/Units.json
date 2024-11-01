@@ -1,23 +1,20 @@
 [
-    {
-        "name": "Settler",
-        "unitType": "Civilian",
-        "movement": 2,
-        "cost": 106,
-	"requiredTech": "Future Tech",
-        "uniques": [
-            "Founds a new city <by consuming this unit>",
-            "Excess Food converted to Production when under construction",
-            "Requires at least [2] population"
-        ],
-        "hurryCostModifier": 20
-    },
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"requiredTech": "The Wheel",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
     {
         "name": "Pioneer",
         "uniqueTo": "America",
         "replaces": "Settler",
         "unitType": "Scout",
-	"requiredTech": "Future Tech",
+		"requiredTech": "The Wheel",
         "movement": 2,
         "strength": 5,
         "cost": 106,
@@ -35,7 +32,7 @@
         "replaces": "Settler",
         "uniqueTo": "Mexico",
         "unitType": "Civilian",
-	"requiredTech": "Future Tech",
+		"requiredTech": "The Wheel",
         "movement": 2,
         "cost": 106,
         "uniques": [
@@ -46,7 +43,7 @@
     },
   {
 		"name": "Battering Ram",
-		"uniqueTo": "Jerusalem",
+		"uniqueTo": "Colziand",
 		"replaces": "Longswordsman",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"movement": 3,
@@ -60,23 +57,4 @@
 		"promotions":  ["Cover I","Cover II"],
 		"attackSound": "throw"
 	},
-    {
-        "name": "Crusader",
-        "replaces": "Longswordsman",
-        "uniqueTo": "Colziand",
-        "unitType": "Sword",
-        "movement": 2,
-        "strength": 17,
-        "cost": 105,
-        "requiredTech": "Theology",
-        "uniques": [
-            "May enter foreign tiles without open borders",
-            "[+20]% Strength <when fighting in [Foreign Land] tiles>",
-            "Earn [200]% of killed [Military] unit's [Strength] as [Faith]"
-        ],
-        "upgradesTo": "Musketman",
-        "obsoleteTech": "Gunpowder",
-        "requiredResource": "Iron",
-        "attackSound": "metalhit"
-    },
 ]
