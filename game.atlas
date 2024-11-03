@@ -1,61 +1,388 @@
-ReligIcons.png
-size: 2048, 128
+game.png
+size: 2048, 512
 format: RGBA8888
-filter: MipMapLinearLinear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-PolicyIcons/Fortune Wheel
+PolicyIcons/Consulates
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1466, 436
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Christianity
+PolicyIcons/Elite Forces
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1582, 436
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Sharia
+PolicyIcons/Patriotic War
   rotate: false
-  xy: 760, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1872, 436
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Promised Land
+PolicyIcons/Universal Healthcare
   rotate: false
-  xy: 868, 4
+  xy: 1930, 436
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Volunteer Army
+  rotate: false
+  xy: 1988, 436
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Workers' Faculties
+  rotate: false
+  xy: 700, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Young Pioneers
+  rotate: false
+  xy: 758, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+game9.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Covert Action
+  rotate: false
+  xy: 220, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 
-game4.png
+PolIcons.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+PolicyIcons/Secularity
+  rotate: false
+  xy: 1338, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Socialist Realism
+  rotate: false
+  xy: 1396, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+game8.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ReligionIcons/Catholicism
+PolicyIcons/Academy of Sciences
   rotate: false
-  xy: 700, 100
-  size: 100, 100
-  orig: 100, 100
+  xy: 636, 1669
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Lightning Warfare
+PolicyIcons/Artistic Genius
   rotate: false
-  xy: 500, 600
-  size: 100, 100
-  orig: 100, 100
+  xy: 220, 15
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-ReligionIcons/Uncivism
+PolicyIcons/Avant Garde
   rotate: false
-  xy: 700, 600
-  size: 100, 100
-  orig: 100, 100
+  xy: 278, 15
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Capitalism
+  rotate: false
+  xy: 944, 685
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Clausewitz's Legacy
+  rotate: false
+  xy: 942, 627
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Colonialism
+  rotate: false
+  xy: 1002, 685
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Communism
+  rotate: false
+  xy: 1000, 627
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Centers
+  rotate: false
+  xy: 1058, 619
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Diplomacy
+  rotate: false
+  xy: 1118, 677
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Exchange
+  rotate: false
+  xy: 1116, 619
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Entrepreneurship
+  rotate: false
+  xy: 1856, 708
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Fine Arts
+  rotate: false
+  xy: 1914, 708
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Five-Year Plan
+  rotate: false
+  xy: 1944, 786
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Flourishing of the Arts
+  rotate: false
+  xy: 798, 352
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Healthcare
+  rotate: false
+  xy: 861, 454
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Hero of the People
+  rotate: false
+  xy: 861, 396
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Iron Curtain
+  rotate: false
+  xy: 1356, 691
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Maritime Infrastructure
+  rotate: false
+  xy: 856, 280
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Media Culture
+  rotate: false
+  xy: 856, 222
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercenary Army
+  rotate: false
+  xy: 856, 164
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Merchant Confederacy
+  rotate: false
+  xy: 856, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Merchant Navy
+  rotate: false
+  xy: 856, 48
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mobilization
+  rotate: false
+  xy: 798, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nationalism
+  rotate: false
+  xy: 1972, 670
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Naval Tradition
+  rotate: false
+  xy: 919, 454
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Navigation School
+  rotate: false
+  xy: 919, 396
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/New Deal
+  rotate: false
+  xy: 915, 338
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Party Leadership
+  rotate: false
+  xy: 914, 280
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Iron Fist
+  rotate: false
+  xy: 914, 222
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Socialism
+  rotate: false
+  xy: 914, 222
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Philanthropy
+  rotate: false
+  xy: 914, 164
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Planned Economy
+  rotate: false
+  xy: 914, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious Tolerance
+  rotate: false
+  xy: 914, 48
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Scholasticism
+  rotate: false
+  xy: 977, 454
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Silk Road
+  rotate: false
+  xy: 977, 396
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Skyscrapers
+  rotate: false
+  xy: 973, 338
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Third Alternative
+  rotate: false
+  xy: 972, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Treasure Fleets
+  rotate: false
+  xy: 972, 48
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/United Front
+  rotate: false
+  xy: 394, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Urbanization
+  rotate: false
+  xy: 452, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Wagon Trains
+  rotate: false
+  xy: 1240, 691
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Five-Year Plan
+  rotate: false
+  xy: 1298, 691
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 
@@ -78,7 +405,7 @@ PolicyIcons/Resettlements
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Five-Year Plan
+PolicyIcons/Civil Service
   rotate: false
   xy: 1413, 1058
   size: 50, 50
@@ -88,13 +415,6 @@ PolicyIcons/Five-Year Plan
 PolicyIcons/Legalism
   rotate: false
   xy: 1485, 1116
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Their Finest Hour
-  rotate: false
-  xy: 1458, 1174
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -197,14 +517,14 @@ PolicyIcons/Spaceflight Pioneers
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Frontier
+PolicyIcons/Exploration
   rotate: false
   xy: 832, 570
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Dictatorship of the Proletariat
+PolicyIcons/Feudalism
   rotate: false
   xy: 832, 512
   size: 50, 50
@@ -232,7 +552,7 @@ PolicyIcons/Games and Recreation
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/World
+PolicyIcons/Global Warming Mitigation
   rotate: false
   xy: 1048, 734
   size: 50, 50
@@ -400,7 +720,7 @@ PolicyIcons/Rapid Deployment
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Recorded History
+PolicyIcons/Recorded History
   rotate: false
   xy: 1529, 1058
   size: 50, 50
@@ -489,5 +809,66 @@ PolicyIcons/Venture Politics
   xy: 1006, 500
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+ReligIcons.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+PolicyIcons/Fortune Wheel
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Christianity
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sharia
+  rotate: false
+  xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Promised Land
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Catholicism
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Lightning Warfare
+  rotate: false
+  xy: 500, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Uncivism
+  rotate: false
+  xy: 700, 600
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
