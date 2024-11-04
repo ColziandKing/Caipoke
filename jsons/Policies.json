@@ -14,7 +14,7 @@
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Happiness] per [10] population [in all cities]"
                 ],
-                "row": 1,
+                "row": 2,
                 "column": 1
             },
             {
@@ -32,7 +32,7 @@
                     "[+2 Culture] from every [Hermitage]",
                     "[+2 Culture] from every [National Intelligence Agency]"
                 ],
-                "row": 1,
+                "row": 2,
                 "column": 3
             },
             {
@@ -50,7 +50,7 @@
                     "[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
 		"requires": ["Aristocracy"],
-                "row": 2,
+                "row": 3,
                 "column": 1
             },
             {
@@ -60,7 +60,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "requires": ["Legalism"],
-                "row": 2,
+                "row": 3,
                 "column": 3
             },
             {
@@ -69,7 +69,7 @@
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
                 "requires": ["Legalism"],
-                "row": 2,
+                "row": 3,
                 "column": 5
             },
             {
@@ -227,7 +227,7 @@
                     "[+2 Happiness] from every [Courthouse]"
                 ],
                 "requires": ["Warrior Code"],
-                "row": 2,
+                "row": 3,
                 "column": 1
             },
             {
@@ -241,7 +241,7 @@
                     "[+100]% Production when constructing [Military Academy] buildings [in all cities]"
                 ],
                 "requires": ["Military Tradition"],
-                "row": 2,
+                "row": 3,
                 "column": 3
             },
 		{
@@ -251,7 +251,7 @@
                     "[+10] HP when healing <for [Military] units>"
                 ],
                 "requires": ["Discipline"],
-                "row": 2,
+                "row": 3,
                 "column": 5
             },
             {
@@ -323,7 +323,7 @@
 					"[+100]% Strength for cities <with a garrison> <when defending>"
 				],
                 		"requires": ["Mandate Of Heaven","Theocracy"],
-				"row": 2,
+				"row": 3,
 				"column": 3
 			},
             {
@@ -388,7 +388,7 @@
                     "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
                 ],
                 "requires": ["Merchant Confederacy"],
-                "row": 2,
+                "row": 3,
                 "column": 1
             },
             {
@@ -408,7 +408,7 @@
                     "[-25]% City-State Influence degradation"
                 ],
                 "requires": ["Merchant Confederacy"],
-                "row": 2,
+                "row": 3,
                 "column": 5
             },
             {
@@ -439,22 +439,23 @@
                     "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 1
+                "column": 4
             },
 		{
                 "name": "Economic Union",
                 "uniques": [
                     "[+25]% [Gold] [in all cities]",
                 ],
-                "row": 1,
-                "column": 3
+                "requires": ["Silk Road"],
+                "row": 2,
+                "column": 5
             },
 		{
 				"name": "Mercenary Army",
 				"uniques": ["May buy [Landsknecht] units with [Gold] for [3] times their normal Production cost",
 						"May buy [Foreign Legion] units with [Gold] for [5] times their normal Production cost"],
-				"row": 1,
-				"column": 5
+				"row": 2,
+				"column": 2
 			},
             {
                 "name": "Entrepreneurship",
@@ -463,8 +464,8 @@
                     "[-25]% maintenance cost for buildings [in all cities]",
                     "Provides [2] [Trade Route]"
                 ],
-                "requires": ["Silk Road","Economic Union"],
-                "row": 2,
+                "requires": ["Silk Road"],
+                "row": 3,
                 "column": 1
             },
             {
@@ -479,8 +480,8 @@
                     "[+2 Science] from every [Bank]",
                     "[+2 Science] from every [Stock Exchange]"
                 ],
-                "requires": ["Silk Road"],
-                "row": 2,
+                "requires": ["Silk Road","Economic Union"],
+                "row": 3,
                 "column": 3
             },
             {
@@ -490,7 +491,7 @@
                     "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]"
                 ],
                 "requires": ["Economic Union","Silk Road"],
-                "row": 2,
+                "row": 3,
                 "column": 5
             },
             {
