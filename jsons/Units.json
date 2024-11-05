@@ -9,6 +9,21 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Katipunero",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo":"Philippines",
+		"movement": 2,
+		"strength": 28,
+		"cost": 180,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": [],
+		"promotions":["Woodsman","Medic II"],
+		"attackSound": "shot"
+	},
     {
         "name": "Pioneer",
         "uniqueTo": "America",
