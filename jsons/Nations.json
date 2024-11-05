@@ -72,7 +72,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Hello! What do you want?",
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
-		"outerColor": [255,255,255],
+		"outerColor": [57,189,191],
 		"innerColor": [255,255,0],
 		"uniqueName": "Sovereign Tagalog Nation",
 		"uniques": ["[+2 Production] from every [Farm]","[+2 Food] from every [Terrace farm]"],
