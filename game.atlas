@@ -115,7 +115,7 @@ NationIcons/Greece
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Hungary
+NationIcons/Santo Domingo
   rotate: false
   xy: 1284, 112
   size: 100, 101
@@ -661,7 +661,7 @@ NationIcons/Persia
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Phoenicia
+NationIcons/Ife
   rotate: false
   xy: 4, 647
   size: 100, 100
