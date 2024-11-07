@@ -63,13 +63,14 @@
 		"cost": 77,
 		"gold": 2,
 		"uniques": [
-			"[+1 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
-			"[+2 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
-			"[+3 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
-			"[+1 Food] from every [Plantation] <after discovering [Replaceable Parts]>",
-			"[+1 Production] from every [Hacienda] <before adopting [Mercantilism]>",
-			"[+2 Production] from every [Hacienda] <before adopting [Mercantilism]>",
-			"[+3 Production] from every [Hacienda] <before adopting [Mercantilism]>",
+			"[+1 Food] [in capital] <after discovering [Replaceable Parts]>",
+			"[+2 Food] [in capital] <after discovering [Replaceable Parts]>",
+			"[+3 Food] [in capital] <after discovering [Replaceable Parts]>",
+			"[+1 Food] [in capital] <before discovering [Replaceable Parts]>",
+			"[+1 Production] [in capital] <after discovering [Replaceable Parts]>",
+			"[+2 Production] [in capital] <after discovering [Replaceable Parts]>",
+			"[+3 Production] [in capital] <after discovering [Replaceable Parts]>",
+			"[+1 Production] [in capital] <before discovering [Replaceable Parts]>",
 		]
 	},
 	{
@@ -93,8 +94,8 @@
 		"cost": 57,
 		"techRequired": "Pottery",
 		"uniques": [
-			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
-			"[+2 Gold] from every [Luxury resource] <after discovering [Navigation]>",
+			"[+1 Food, +1 Production] [in capital] <after discovering [Civil Service]>",
+			"[+2 Gold] [in capital] <after discovering [Navigation]>",
 		]
 	},
 	{
