@@ -18,8 +18,11 @@
 		"replaces": "Amphitheater",
 		"uniqueTo": "The Maori",
 		"cost": 150,
-		"requiredBuilding": "Theatre Square District",
+		"culture": 3,
+		"requiredBuilding": "Monument",
 		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"specialistSlots": {"Artist": 1},
 		"uniques": [
 			"[+1 Culture, +1 Faith] from [Forest] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Jungle] tiles [in this city]",
@@ -35,9 +38,13 @@
 		"replaces": "Market",
 		"uniqueTo": "Mali",
 		"cost": 57,
+		"gold": 2,
 		"greatPersonPoints": {
 			"Great Merchant": 1
 		},
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
 		"maintenance": 1,
 		"requiredTech": "Currency",
 		"uniques": [
