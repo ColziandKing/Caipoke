@@ -1,12 +1,147 @@
 [
 	{
+		"name": "Khevsur",
+		"uniqueTo": "Georgia",
+		"replaces": "Pikeman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 56,
+		"cost": 160,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"upgradesTo": "Musketman",
+		"uniques": [
+			"Double movement in [Hill]",
+			"[+47]% Strength <when fighting in [Hill] tiles>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Llanero",
+		"uniqueTo": "Gran Colombia",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 93,
+		"cost": 330,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Computers",
+		"requiredResource": "Horses",
+		"upgradesTo": "Helicopter",
+		"uniques": [
+			"[+40]% Strength <when adjacent to a [Llanero] unit>",
+			"[-60]% maintenance costs"
+		],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Mandekalu Ghazi",
+		"uniqueTo": "Mali",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 72,
+		"cost": 220,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"requiredResource": "Iron",
+		"upgradesTo": "Cavalry",
+		"uniques": [
+			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]","Can move after attacking","No defensive terrain bonus"
+		],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Saka Horse Archer",
+		"uniqueTo": "Scythia",
+		"replaces": "Horseman",
+		"unitType": "Ranged",
+		"movement": 4,
+		"range": 1,
+		"strength": 17,
+		"rangedStrength": 24,
+		"cost": 58,
+		"requiredTech": "Horseback Riding",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"uniques": [
+			"Can move after attacking","No defensive terrain bonus"
+		],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Horse Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 15,
+		"rangedStrength": 22,
+		"cost": 56,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Okihtcitaw",
+		"uniqueTo": "The Cree",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 20,
+		"cost": 40,
+		"obsoleteTech": "Scientific Theory",
+		"promotions": [
+			"Ignore terrain cost","Medic"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Toa",
+		"uniqueTo": "The Maori",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 39,
+		"cost": 120,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Longswordsman",
+		"uniques": [
+			"Can build [Fort] improvements on tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Malon Raider",
+		"uniqueTo": "The Mapuche",
+		"unitType": "Mounted",
+		"replaces": "Musketman",
+		"movement": 4,
+		"strength": 72,
+		"cost": 230,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": [
+			"[+33]% Strength <when fighting in [Foreign Land] tiles>",
+			"No movement cost to pillage"
+		],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"requiredTech": "Future Tech",
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [3] population"],
 		"hurryCostModifier": 20
 	},
 	{
