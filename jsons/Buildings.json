@@ -96,10 +96,6 @@
 		"uniques": [
 			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
 			"[+2 Gold] from every [Luxury resource] <after discovering [Navigation]>",
-			"[+1 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
-			"[+2 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
-			"[+3 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
-			"[+1 Food] from every [Bonus resource] <after adopting [Mercantilism]>",
 		]
 	},
 	{
