@@ -26,9 +26,9 @@
 		"strength": 93,
 		"cost": 330,
 		"requiredTech": "Military Science",
-		"obsoleteTech": "Computers",
+		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
-		"upgradesTo": "Helicopter",
+		"upgradesTo": "Landship",
 		"uniques": [
 			"[+40]% Strength <when adjacent to a [Llanero] unit>",
 			"[-60]% maintenance costs"
