@@ -66,7 +66,7 @@
 			"[+1 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
 			"[+2 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
 			"[+3 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
-			"[+1 Food] for each adjacent [Plantation] <after discovering [Replaceable Parts]>",
+			"[+1 Food] from every [Plantation] <after discovering [Replaceable Parts]>",
 			"[+1 Production] from every [Hacienda] <before adopting [Mercantilism]>",
 			"[+2 Production] from every [Hacienda] <before adopting [Mercantilism]>",
 			"[+3 Production] from every [Hacienda] <before adopting [Mercantilism]>",
@@ -96,9 +96,9 @@
 		"uniques": [
 			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
 			"[+2 Gold] from every [Luxury resource] <after discovering [Navigation]>",
-			"[+1 Food] from every <before adopting [Mercantilism]>",
-			"[+2 Food] from every <before adopting [Mercantilism]>",
-			"[+3 Food] from every <before adopting [Mercantilism]>",
+			"[+1 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
+			"[+2 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
+			"[+3 Food] from every [Bonus resource] <before adopting [Mercantilism]>",
 			"[+1 Food] from every [Bonus resource] <after adopting [Mercantilism]>",
 		]
 	},
