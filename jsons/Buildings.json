@@ -77,7 +77,6 @@
 		"faith": 1,
 		"gold": 3,
 		"techRequired": "Animal Husbandry",
-		],
 		"uniques": [
 			"[+1 Faith] from every [Pasture]",
 			"[+1 Faith] from every [Pasture] <after discovering [Horseback Riding]>",
@@ -88,41 +87,20 @@
 		"uniqueTo": "The Cree",
 		"production": 1,
 		"gold": 2,
-		"turnsToBuild": 7,
 		"techRequired": "Pottery",
-		"terrainsCanBeBuiltOn": [
-			"Grassland",
-			"Plains",
-			"Desert",
-			"Hill",
-			"Tundra",
-			"Snow"
-		],
 		"uniques": [
-			"[+1 Food, +1 Production] <after adopting [Civil Service]>",
-			"[+2 Gold] for each adjacent [Luxury resource] <after discovering [Navigation]>",
-			"[+1 Food] <with [2] to [3] neighboring [Bonus resource] tiles> <before adopting [Mercantilism]>",
-			"[+2 Food] <with [4] to [5] neighboring [Bonus resource] tiles> <before adopting [Mercantilism]>",
-			"[+3 Food] <with [6] to [6] neighboring [Bonus resource] tiles> <before adopting [Mercantilism]>",
-			"[+1 Food] for each adjacent [Bonus resource] <after adopting [Mercantilism]>",
-			"Cannot be built on [All] tiles <with [1] to [6] neighboring [Mekewap] tiles>",
-			"Cannot be built on [All] tiles <with [0] to [0] neighboring [Bonus resource] tiles>",
-			"Cannot be built on [All] tiles <with [0] to [0] neighboring [Luxury resource] tiles>",
+			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
+			"[+2 Gold] from every [Luxury resource] <after discovering [Navigation]>",
+			"[+1 Food] from every <before adopting [Mercantilism]>",
+			"[+2 Food] from every <before adopting [Mercantilism]>",
+			"[+3 Food] from every <before adopting [Mercantilism]>",
+			"[+1 Food] from every [Bonus resource] <after adopting [Mercantilism]>",
 		]
 	},
 	{
 		"name": "Chemamull",
 		"uniqueTo": "The Mapuche",
 		"production": 1,
-		"turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": [
-			"Grassland",
-			"Plains",
-			"Desert",
-			"Hill",
-			"Tundra",
-			"Snow"
-		],
 		"uniques": [
 			"[+2 Culture] from every [Natural Wonder]",
 			"[+1 Culture] from every [Mountain]",
