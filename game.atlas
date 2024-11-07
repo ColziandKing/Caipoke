@@ -3,7 +3,56 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementIcons/Mekewap
+UnitIcons/Khevsur
+  rotate: false
+  xy: 220, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Llanero
+  rotate: false
+  xy: 436, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mandekalu Ghazi
+  rotate: false
+  xy: 328, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Saka Horse Archer
+  rotate: false
+  xy: 220, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Okihtcitaw
+  rotate: false
+  xy: 976, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Malon Raider
+  rotate: false
+  xy: 112, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Toa
+  rotate: false
+  xy: 1840, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mekewap
   rotate: false
   xy: 1300, 1188
   size: 92, 100
@@ -17,7 +66,7 @@ TileSets/HexaRealm/Tiles/Mekewap
   orig: 32, 28
   offset: 0, 0
   index: -1
-ImprovementIcons/Kurgan
+BuildingIcons/Kurgan
   rotate: false
   xy: 112, 1620
   size: 100, 100
@@ -647,28 +696,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementIcons/Chemamull
+BuildingIcons/Chemamull
   rotate: false
   xy: 880, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Suguba District
+BuildingIcons/Suguba
   rotate: false
   xy: 528, 85
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Suguba
+BuildingIcons/Kurgan
   rotate: false
   xy: 528, 85
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Hacienda
+BuildingIcons/Hacienda
   rotate: false
   xy: 1933, 441
   size: 100, 100
