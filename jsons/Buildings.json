@@ -31,7 +31,7 @@
 		],
 	},
 	{
-		"name": "Suguba District",
+		"name": "Suguba",
 		"replaces": "Market",
 		"uniqueTo": "Mali",
 		"cost": 57,
@@ -43,8 +43,8 @@
 		"uniques": [
 			"Unsellable",
 			"Never destroyed when the city is captured",
-"[Gold] cost of purchasing [All] buildings [-20]% [in this city]",
-"[Faith] cost of purchasing [All] units [-20]% [in this city]"
+"[Gold] cost of purchasing [All] buildings [-20]%",
+"[Faith] cost of purchasing [All] units [-20]%"
 		],
 	},
 	{
