@@ -17,7 +17,7 @@
 		"name": "Marae",
 		"replaces": "Amphitheater",
 		"uniqueTo": "The Maori",
-		"cost": 150,
+        "hurryCostModifier": 25,
 		"culture": 3,
 		"requiredBuilding": "Monument",
 		"maintenance": 0,
@@ -58,6 +58,7 @@
 		"name": "Hacienda",
 		"uniqueTo": "Gran Colombia",
 		"production": 1,
+        "hurryCostModifier": 25,
 		"gold": 2,
 		"uniques": [
 			"[+1 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
@@ -75,7 +76,8 @@
 		"uniqueTo": "Scythia",
 		"faith": 1,
 		"gold": 3,
-		"techRequired": "Animal Husbandry",
+        "hurryCostModifier": 25,
+		"requiredTech": "Animal Husbandry",
 		"uniques": [
 			"[+1 Faith] from every [Pasture]",
 			"[+1 Faith] from every [Pasture] <after discovering [Horseback Riding]>",
@@ -86,6 +88,7 @@
 		"uniqueTo": "The Cree",
 		"production": 1,
 		"gold": 2,
+        "hurryCostModifier": 25,
 		"techRequired": "Pottery",
 		"uniques": [
 			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
@@ -100,6 +103,7 @@
 		"name": "Chemamull",
 		"uniqueTo": "The Mapuche",
 		"production": 1,
+        "hurryCostModifier": 25,
 		"uniques": [
 			"[+2 Culture] from every [Natural Wonder]",
 			"[+1 Culture] from every [Mountain]",
