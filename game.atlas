@@ -3,6 +3,34 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ImprovementIcons/Chemamull
+  rotate: false
+  xy: 880, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suguba District
+  rotate: false
+  xy: 528, 85
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Suguba
+  rotate: false
+  xy: 528, 85
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hacienda
+  rotate: false
+  xy: 1933, 441
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/America
   rotate: false
   xy: 1808, 1517
@@ -605,6 +633,48 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ImprovementIcons/Mekewap
+  rotate: false
+  xy: 1300, 1188
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mekewap
+  rotate: false
+  xy: 566, 268
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kurgan
+  rotate: false
+  xy: 112, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Kurgan
+  rotate: false
+  xy: 508, 198
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hacienda
+  rotate: false
+  xy: 760, 584
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Chemamull
+  rotate: false
+  xy: 1472, 1232
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
 NationIcons/Kongo
   rotate: false
   xy: 220, 1836
