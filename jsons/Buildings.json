@@ -30,7 +30,8 @@
 			"[+1 Culture, +1 Faith] from [Oasis] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Atoll] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Flood plains] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Natural Wonder] tiles without [Mountain] [in this city]"
+			"[+1 Culture, +1 Faith] from [Natural Wonder] tiles without [Mountain] [in this city]",
+		"requiredTech": "Drama and Poetry"
 		],
 	},
 	{
@@ -59,6 +60,7 @@
 		"uniqueTo": "Gran Colombia",
 		"production": 1,
         "hurryCostModifier": 25,
+		"cost": 77,
 		"gold": 2,
 		"uniques": [
 			"[+1 Food] from every [Plantation] <before discovering [Replaceable Parts]>",
@@ -89,6 +91,7 @@
 		"production": 1,
 		"gold": 2,
         "hurryCostModifier": 25,
+		"cost": 57,
 		"techRequired": "Pottery",
 		"uniques": [
 			"[+1 Food, +1 Production] <after discovering [Civil Service]>",
@@ -103,6 +106,7 @@
 		"name": "Chemamull",
 		"uniqueTo": "The Mapuche",
 		"production": 1,
+		"cost": 57,
         "hurryCostModifier": 25,
 		"uniques": [
 			"[+2 Culture] from every [Natural Wonder]",
