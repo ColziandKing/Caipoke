@@ -710,7 +710,7 @@ BuildingIcons/Suguba
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kurgan
+BuildingIcons/Hacienda
   rotate: false
   xy: 528, 85
   size: 100, 100
