@@ -1,5 +1,53 @@
 [
 	{
+		"name": "Tsikhe",
+		"replaces": "Walls",
+		"uniqueTo": "Georgia",
+		"cost": 260,
+		"faith": 4,
+		"cityStrength": 24,
+		"cityHealth": 200,
+		"uniques": [
+			"[+4 Faith] [in this city] <during a Golden Age>",
+			"Cannot be purchased"
+		],
+		"requiredTech": "Masonry"
+	},
+{
+		"name": "Marae",
+		"replaces": "Amphitheater",
+		"uniqueTo": "The Maori",
+		"cost": 150,
+		"requiredBuilding": "Theatre Square District",
+		"maintenance": 0,
+		"uniques": [
+			"[+1 Culture, +1 Faith] from [Forest] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Jungle] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Marsh] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Oasis] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Atoll] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Flood plains] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Natural Wonder] tiles without [Mountain] [in this city]"
+		],
+	},
+	{
+		"name": "Suguba District",
+		"replaces": "Market",
+		"uniqueTo": "Mali",
+		"cost": 57,
+		"greatPersonPoints": {
+			"Great Merchant": 1
+		},
+		"maintenance": 1,
+		"requiredTech": "Currency",
+		"uniques": [
+			"Unsellable",
+			"Never destroyed when the city is captured",
+"[Gold] cost of purchasing [All] buildings [-20]% [in this city]",
+"[Faith] cost of purchasing [All] units [-20]% [in this city]"
+		],
+	},
+	{
         "name": "IRRI",
         "science": 3,
         "percentStatBonus": {"science": 25, "food": 10},
