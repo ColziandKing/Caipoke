@@ -1,5 +1,176 @@
 [
 	{
+		"name": "Champa",
+		"leaderName": "Chế Bồng Nga",
+		"adjective": ["Cham"],
+		"startBias": ["Jungle","Grassland","Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Greetings, Po Binasuor, last great king of Champa! Your enemies have never ceased to tremble at your legend! An Austronesian people, the Cham came to occupy a key position on the Indochinese coast mediating international sea trade with China. Yet, lacking the fertile rice fields of their neighbors, Champa grew to exploit these lucrative waters and developed a unique plunder based economy, gaining notoriety throughout the region for piracy. Champa would represent a melting-pot of Southeast Asia, introducing technology from China, trading with Indonesian merchants, intermarrying with the Khmer kings, and building unforgettable temples to the gods of ancient India. Yet, seemingly always at war, Champa fell, broken and desolate, to conquerors from the north.",
+		"startIntroPart2": "Red King, it was you who reunited the tattered remains of your people and, outnumbered six to one, almost claimed victory over your bitter enemies, the Dai Viet! Will you now return to recalim your lost homeland? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "We tolerated you way longer than we should, and now we demand you pay with your blood.",
+		"attacked": "We will ensure you will remember the day you turned on us.",
+		"defeated":  "So that's how it all ends. That is not how I've imagined my last moments.",
+		"introduction":  "I am the Red King of Champa, Chế Bồng Nga! Are you here to trade?",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You dare to joke in my presence!?","Don't make me laugh!"],
+		"hateYes": ["I must accept, even if i don't like you.","Fine."],
+		
+		"afterPeace": "I hope this won't happen again and even if it does - We've learned a lesson!",
+		"tradeRequest": "Will this work or do I need to propose you a better deal?",
+
+		"outerColor": [	78, 154, 230],
+		"innerColor": [	204, 56, 53],
+		"uniqueName": "Traders of the Shore",
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]"],
+		"cities": ["Indrapura","My So'n","Vijaya","Mang Ly","Lam Ap Pho","Amaravati","Kauthara","Panduranga",
+			"Thi Li Bi Nai","Trivakramapura","Balonga","Hamu Lithit","Dong Hoi","Aya Ru","Bingi",
+			"Hve","Kon Tum","Yang Prong","Daknan","Kandarpapura","Eatran","Vishnupura","Tuy Hoa"]
+	},
+			{
+		"name": "Republic of Genoa",
+		"leaderName": "Simone Boccanegra",
+		"adjective": ["Genoese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Live long and prosper, Simone Boccanegra, Doge of mighty Genoa! Your reign was marked by an intense cliud of intrigue and subterfuge. Genoa, one of the contending powers for domination of the Mediterranean, was ruled by an aristocratic elite. Once elected Doge, you disposed of the established upper class in a revolutionary upheaval that would forever change Genoa's political landscape. Entrenched in a long war with Venice, that would eventually be lost, you fought off would-be assassins and rivals for five long years before being forced to resign. But your successors were less tenacious as you, and soon enough you came back to power. Your rule would last another seven years, before a poisoning attempt was finally successful.",
+		"startIntroPart2": "Revolutionari Doge, your people are once again surrounded by enemies plotting Genoa's demise. Will you see through the ploys of your many rivals, and once again establish Genoa as a force to be reckoned with? Will you seize control of the seas, and establish dominance over the trade routes of this new world? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I think we might have conflicting interests, actually - I am certain!",
+		"attacked": "I hope you studied that thoroughly, because there will be no mercy.",
+		"defeated": "I must leave... Farewell.",
+		"introduction": "You stand in front of Simone Boccanera, the doge of Republic of Genoa. Would you mind a cup of wine? Or two?",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["..."],
+		"hateYes": ["We must accept."],
+		
+		"afterPeace": "Hopefully that little war did not impact our economic relations much.",
+		"tradeRequest": "What is your proposal?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		"uniqueName": "The Spark of the Renaissance",
+		"uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>"],
+		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Monaco","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
+	},
+			{
+		"name": "Macrobia",
+		"leaderName": "Sayid",
+		"adjective": ["Macrobian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You have had your chance, now prepare for war!",
+		"attacked": "You DARE declare war on us? We shall make you suffer!",
+		"defeated":  "So that is how it all ends. I've never expected to end as a slave!",
+		"introduction":  "Who are you? I bet You are here to admire our wealth.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": "Don't waste much of my time!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		
+		"afterPeace": "We shall now pray for the better, I mean more profitable, days!",
+		"tradeRequest": "I bring you an excellent offer!",
+
+		"outerColor": [	84, 215, 247],
+		"innerColor": [	255, 255, 255],
+		"uniqueName": "Shackles of Gold",
+		"uniqueText": "Earns [Gold] for killing enemy land units", 
+		"uniques": ["Earn [75]% of killed [Land] unit's [Strength] as [Gold]"],
+		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
+		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
+	},
+		{
+		"name": "The Olmec",
+		"leaderName": "U Kix Chan",
+		"adjective": ["Olmec"],
+		"startBias": ["Jungle","Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Oh mighty and righteous U Kix Chan, King of Palenque and son of the Lady White Quetzal, your people prostrate themselves in awe and reverence! A skilled and ingenious people, the Olmec emerged along the Coatzacoalcos river basin in what is today the southern Mexican Gulf Coast. Quick to exploit the natural wonders of their surroundings, they developed new technologies - boiling rubber from tree sap - and carved colossal monuments from the basalt boulders of the Tuxtlas Mountains. From this cradle, Mesoamerican civilization would flourish: as the Maya would rise in the Yucatan to the east and the Aztecs in the Valley of Mexico to the west, the true legacy of the Olmec would be the indelible mark left on these great empires to come.",
+		"startIntroPart2": "Ancient King, history has not been kind to your land. Foreign crowns have crossed the sea to kill your children and ravage their civilizations. The people of Mesoamerica now pray to their ancestors for guidance. Will you return to restore the glory of your culture and legacy? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
+		"attacked": "Is it bravery or stupidity?",
+		"defeated":  "That's the greatest sacrifice I can offer You!",
+		"introduction":  "Were you send by the great Serpent?",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!"],
+		"hateYes": ["Let it be."],
+		
+		"afterPeace": "What such bloodhirsty beast might want?",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [	91, 176, 156],
+		"innerColor": [ 40, 94, 68],
+		"uniqueName": "Feathered Serpent",
+		"uniqueText": "May buy National Wonders with [Faith].",
+		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
+		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
+	},
+			{
+		"name": "Nok",
+		"leaderName": "Olori",
+		"adjective": ["Nok"],
+		"startBias": ["Jungle","Iron"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Welcome, King Olori, leader of the Nok culture, architect of the cradle of North African civilization! For millennia, your people endured a hunter-gather existance, isolated from other peoples. It was not until the turn of the first millennium BC that your people discovered iron from the north, enabling them to craft their dominion of what is northern Nigeria today: pottery, architecture and artist expression thrived. But it was not to last, as overpopulation, coupled with rapid climate shifts, spelled the end of your culture. Your people persisted, however, forming the formidable Benin, Nri, Yoruba and Hausa kingdoms and ethnic groups lasting into the modern day.",
+		"startIntroPart2": "Olori, your people feel their culture has been vandalised and forgotten, and seek a new chapter in west African history that will return to its artistic roots, forging a culture that will embrace new technology. Can you craft their legacy once again? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You must be destroyed!",
+		"attacked": "Oh, I see. I did not expect anything else from you.",
+		"defeated":  "We might die, but our culture is eternal.",
+		"introduction":  "Welcome to our lands. May there be peace among us!",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "Oh?",
+		"tradeRequest": "Do you like it?",
+
+		"outerColor": [	189, 182, 125],
+		"innerColor": [	82, 70, 55],
+		"uniqueName": "African Treasures",
+		"uniqueText": "All cities provide 1 copy of [Terracotta] luxury resource. +1 [Science] from every Iron.",
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]"],
+		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
+	},
+	{
 		"name": "Georgia",
 		"leaderName": "Tamar",
 		"adjective": [
