@@ -1,4 +1,19 @@
 # Calipole
+
+BuildingIcons/Magnificient Temples
+  rotate: false
+  xy: 836, 600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Siege Elephant
+  rotate: false
+  xy: 836, 1108
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 ZZx one building gor all mods if so?
 {
 		"name": "Tsikhe",
