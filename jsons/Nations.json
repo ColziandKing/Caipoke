@@ -28,7 +28,7 @@
 		"innerColor": [	232, 170, 158],
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
-		"uniqueText": "Can't train Settlers. All military units have + 25% more strength when attacking cities, but suffer -25% penalty when defending against cities. +25% [Production] when constructing military units in capital. Gains a free [Great General] upon researching Bronze Working and Steel",
+		"uniqueText": "All military units have + 25% more strength when attacking cities, but suffer -25% penalty when defending against cities. +25% [Production] when constructing military units in capital. Gains a free [Great General] upon researching Bronze Working and Steel",
 		"uniques": ["[Military] units gain the [March] promotion","[+25]% Production when constructing [Military] units [in capital]","Receive free [Great General] when you discover [Bronze Working]","Receive free [Great General] when you discover [Steel]"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
@@ -199,7 +199,7 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of [Terracotta] luxury resource. +1 [Science] from every Iron.",
+		"uniqueText": "All cities provide 1 copy of [Porcelain] luxury resource. +1 [Science] from every Iron.",
 		"uniques": ["Gain a free [Porcelain] [in all cities]","[+1 Science] from every [Iron]"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
