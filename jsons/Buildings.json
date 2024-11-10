@@ -1,4 +1,84 @@
 [
+	//relf
+	{
+        "name": "Cathedral",
+        "culture": 5,
+        "uniques": [
+            "Unbuildable","Unsellable","Provides [2] [Jewelry]","Destroyed when the city is captured",
+            "Only available <when religion is enabled>"
+        ]
+    },
+	{
+		"name": "Monastery",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"Doubles Gold given to enemy if city is captured","Unbuildable",
+			"Hidden when religion is disabled","Unsellable"
+		]
+	},
+    {
+        "name": "Mosque",
+        "culture": 1,
+        "faith": 3,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable","Unsellable","Provides [2] [Porcelain]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Pagoda",
+        "culture": 1,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "[10]% Food is carried over after population increases [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Gurdwara",
+        "culture": 1,
+        "faith": 3,
+        "science": 3,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable","Unsellable","[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Synagogue",
+        "culture": 1,
+        "faith": 2,
+        "production": 1,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Vihara",
+        "faith": 1,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "[+15]% [Gold] [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Mandir",
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "[+1 Food, +1 Production] from [Luxury resource] tiles [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+	//yss
 	{
 		"name": "Slave Market",
 		"replaces": "Market",
