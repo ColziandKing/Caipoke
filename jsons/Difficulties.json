@@ -207,7 +207,7 @@
         "policyCostModifier": 1,
         "unhappinessModifier": 1,
         "barbarianBonus": 0,
-        "playerBonusStartingUnits": ["Scout","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Great General","Great General","Great General"],
+        "playerBonusStartingUnits": ["Scout","Mechanized Infantry","Mechanized Infantry","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Great General","Great General","Great General"],
         "aiCityGrowthModifier": 1.6, // that is to say it'll take them 1.6 times as long to grow the city
         "aiUnitCostModifier": 1.75,
         "aiBuildingCostModifier": 1.6,
