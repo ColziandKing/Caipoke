@@ -10,7 +10,6 @@
     },
 	{
 		"name": "Monastery",
-		"cost": 0,
 		"culture": 2,
 		"faith": 2,
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
