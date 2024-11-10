@@ -3,7 +3,7 @@
         "name": "Tradition",
         "era": "Ancient era",
         "uniques": [
-            "[+3 Culture] from every [Palace]",
+            "[+3 Culture] from every [Palace]", "Free Social Policy",
             "[-25]% Culture cost of natural border growth [in all cities]",
             "Unlocks building the Hanging Gardens"
         ],
@@ -87,7 +87,7 @@
         "name": "Liberty",
         "era": "Classical era",
         "uniques": [
-            "[+1 Culture] [in all cities]",
+            "[+1 Culture] [in all cities]", "Free Social Policy",
 		"Only available <after adopting [Rationalism]>", "Unlocks building the Pyramids"
         ],
         "policies": [
@@ -184,7 +184,7 @@
         "name": "Honor",
         "era": "Ancient era",
         "uniques": [
-            "[+33]% Strength <vs [Barbarian] units>",
+            "[+33]% Strength <vs [Barbarian] units>", "Free Social Policy",
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
             "Unlocks building the Statue of Zeus"
         ],
@@ -272,7 +272,7 @@
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+1 Culture, +1 Faith] [in capital]",
+            "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy",
             "Unlocks building the Hagia Sophia"
         ],
         "policies": [
@@ -354,7 +354,7 @@
     {
         "name": "Patronage",
         "era": "Medieval era",
-        "uniques": [
+        "uniques": ["Free Social Policy",
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]"
         ],
@@ -429,7 +429,7 @@
     {
         "name": "Commerce",
         "uniques": [
-            "[Great Merchant] is earned [33]% faster",
+            "[Great Merchant] is earned [33]% faster", "Free Social Policy",
             "Comment [Unlocks [Big Ben]]"
         ],
         "era": "Medieval era",
@@ -513,7 +513,7 @@
 	
     {
         "name": "Exploration",
-        "uniques": [
+        "uniques": [ "Free Social Policy",
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1] Sight <for [{Military} {Water}] units>",
             "Comment [Unlocks [The Louvre]]",
@@ -602,7 +602,7 @@
 	{
         "name": "Aesthetics",
         "era": "Classical era",
-        "uniques": [
+        "uniques": [ "Free Social Policy",
             "[Great Artist] is earned [25]% faster",
             "[Great Writer] is earned [25]% faster",
             "[Great Musician] is earned [25]% faster",
@@ -702,7 +702,7 @@
     {
         "name": "Rationalism",
         "era": "Renaissance era",
-        "uniques": [
+        "uniques": [ "Free Social Policy",
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]"
         ],
