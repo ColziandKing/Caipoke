@@ -258,7 +258,7 @@
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
-		"requiredTech": "Railroad",
+		"requiredTech": "Railroads",
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
