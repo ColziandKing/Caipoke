@@ -285,7 +285,7 @@
         "uniqueTo": "America",
         "replaces": "Settler",
         "unitType": "Scout",
-		"requiredTech": "The Wheel",
+		"requiredTech": "Railroads",
         "movement": 2,
         "strength": 5,
         "cost": 106,
@@ -303,7 +303,7 @@
         "replaces": "Settler",
         "uniqueTo": "Mexico",
         "unitType": "Civilian",
-		"requiredTech": "The Wheel",
+		"requiredTech": "Railroads",
         "movement": 2,
         "cost": 106,
         "uniques": [
