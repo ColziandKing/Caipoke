@@ -1208,7 +1208,7 @@
                     "[+25]% Production when constructing [Military] units [in all cities]",
                     "New [Military] units start with [15] Experience [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["Militarism","Lightning Warfare"],
+                "requires": ["Militarism","Blitzkrieg"],
                 "row": 3,
                 "column": 1
             },
@@ -1217,7 +1217,7 @@
                 "uniques": [
                     "[+20]% [Culture] [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["Fascism","Police State","Lightning Warfare"],
+                "requires": ["Fascism","Police State","Blitzkrieg"],
                 "row": 3,
                 "column": 3
             },
