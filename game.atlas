@@ -837,13 +837,6 @@ PolicyIcons/Scholasticism
   index: -1
 PolicyIcons/Silk Road
   rotate: false
-  xy: 1452, 532
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-PolicyIcons/Economic Union
-  rotate: false
   xy: 977, 396
   size: 50, 50
   orig: 50, 50
@@ -1275,7 +1268,7 @@ PolicyIcons/Feudalism
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Economic Union
+PolicyIcons/Silk Road
   rotate: false
   xy: 890, 570
   size: 50, 50
