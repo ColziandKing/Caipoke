@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Britain",
+		"name": "Great Britain",
 		"leaderName": "Edmund Blackadder",
-		"adjective": ["English"],
+		"adjective": ["Brit"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 
@@ -21,16 +21,15 @@
     
 		"outerColor": [160, 160, 160],
 		"innerColor": [0, 0, 0],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's",
-		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>",
-               			"[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>","[+5]% [Science] <when between [20] and [200] Happiness>"],
+		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+5]% [Science] <when between [20] and [50] Happiness>"],
     
-		"cities": ["London","Liverpool",
-			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
-			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
-			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
-        "spyNames": ["Baldrick", "Lord Percy Percy", "Capt. Darling", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+		"cities": ["London","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
+			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
+			"Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Mumbles","Leeds",
+			"Sheffield","Salisbury","Colchester","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["Baldrick", "Percy Percy", "George", "Melchett", "Darling", "Flashheart", "Bob", "Nursie", "Queenie", "Miggins"]
     },
 	{
 		"name": "Epirus",
