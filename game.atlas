@@ -1,10 +1,3 @@
-ResourceIcons/Recorded History
-  rotate: false
-  xy: 1529, 1058
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 
 game11.png
 size: 2048, 512
@@ -1464,7 +1457,7 @@ PolicyIcons/Rapid Deployment
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Recorded History
+ResourceIcons/Policies
   rotate: false
   xy: 1529, 1058
   size: 50, 50
@@ -1602,7 +1595,7 @@ ReligionIcons/Catholicism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Lightning Warfare
+PolicyIcons/Blitzkrieg
   rotate: false
   xy: 500, 600
   size: 100, 100
