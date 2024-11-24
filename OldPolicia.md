@@ -1,4 +1,21 @@
+{
+        "name": "Ideology",
+        "era": "Modern era",
+        "uniques": [
+            "Free Social Policy",
+            "Unavailable"
+        ],
+        "policies": [
+            {
+                "name": "Ideology Complete",
+                "uniques": [
+                    "Comment [Report as error if you adopt this]"
+                ]
+            }
+        ]
+//aa
 
+ //aa
 	{
 		"name": "Hacienda",
 		"uniqueTo": "Gran Colombia",
