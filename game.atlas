@@ -516,6 +516,13 @@ PolicyIcons/Consulates
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/Silk Road
+  rotate: false
+  xy: 1452, 532
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 PolicyIcons/Elite Forces
   rotate: false
   xy: 1582, 436
