@@ -5,7 +5,7 @@
         "uniques": [
             "[+3 Culture] from every [Palace]", "Free Social Policy",
             "[-25]% Culture cost of natural border growth [in all cities]",
-            "Unlocks building the Hanging Gardens","Provides [1] [Policies]"
+            "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -87,7 +87,7 @@
         "name": "Liberty",
         "era": "Classical era",
         "uniques": [
-            "[+1 Culture] [in all cities]", "Free Social Policy", "Unlocks building the Pyramids","Provides [1] [Policies]"
+            "[+1 Culture] [in all cities]", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -185,7 +185,7 @@
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>", "Free Social Policy",
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-            "Unlocks building the Statue of Zeus","Provides [1] [Policies]"
+            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -272,7 +272,7 @@
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy",
-            "Unlocks building the Hagia Sophia","Provides [1] [Policies]"
+            "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]"
         ],
         "policies": [
             {
