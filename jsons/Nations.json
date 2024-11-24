@@ -1,5 +1,38 @@
 [
 	{
+		"name": "Britain",
+		"leaderName": "Edmund Blackadder",
+		"adjective": ["English"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "Edmund Blackadder is the single name given to a collection of fictional characters who appear in the BBC mock-historical comedy series Blackadder, each played by Rowan Atkinson. Although each series is set within a different period of British history, each character is part of the same familial dynasty and is usually called Edmund Blackadder. Each character also shares notable personality traits and characteristics throughout each incarnation. In a 2001 poll conducted by Channel 4, Edmund Blackadder was ranked third on their list of the 100 Greatest TV Characters.",
+        "startIntroPart2": "Each Blackadder is positioned in a different place in British society over each series, with the character mostly falling in social rank through history. He moves from a prince (The Black Adder) to a lord (Blackadder II), a knight/baronet (Blackadder: The Cavalier Years), a royal attendant (Blackadder the Third), a shopkeeper (Blackadder's Christmas Carol), to an army captain (Blackadder Goes Forth). Throughout each series, Blackadder is a self-serving, cynical opportunist concerned solely with increasing his own influence, status and wealth. His character is symbolized by the adder, the only venomous snake native to Great Britain, which sometimes appears in the series as a visual motif.",
+
+        "declaringWar": "They do say, that verbal insults hurt more than physical pain. They are, of course, wrong, as you will soon discover when I stick this toasting fork into your head.",
+		"attacked": "As we all know, God made man in his own image, and it would be a sad lookout for Christians around the globe if God looked anything like you.",
+		"defeated": "Leave me alone. If I wanted to talk to a vegetable, I would have bought one at the market.",
+		"introduction": "The path of my life is strewn with cowpats from the Devil's own satanic herd. You wouldn't recognise a subtle plan if it painted itself purple and danced naked on a harpsicord singing 'subtle plans are here again.",
+		"neutralHello": "Ah. Would this brilliant plan involve us climbing out of our trenches and walking very slowly towards the enemy?",
+		"hateHello": "Believe me, eternity in the company of Beelzebub and all his hellish instruments of death will be a picnic compared to five minutes with me - and THIS pencil",
+		"hateLetsHearIt": "Your brain is so minute, that if a hungry cannibal cracked your head open, there wouldn't be enough to cover a small water biscuit.",
+		"afterPeace": "There hasn't been a war run this badly since Olaf the hairy, King of all the Vikings, ordered 80,000 battle helmets with the horns on the inside.",
+    "tradeRequest": "The eyes are open, the mouth moves, but Mr Brain has long since departed, hasn't he?",
+    
+		"outerColor": [160, 160, 160],
+		"innerColor": [0, 0, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Blackadder Dynasty & Baldrick's",
+		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>",
+               			"[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>","[+5]% [Science] <when between [20] and [200] Happiness>"],
+    
+		"cities": ["London","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["Baldrick", "Lord Percy Percy", "Capt. Darling", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    },
+	{
 		"name": "Epirus",
 		"leaderName": "Pyrrhus",
 		"adjective": ["Epirote"],
