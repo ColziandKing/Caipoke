@@ -449,13 +449,6 @@ NationIcons/Colziand
   orig: 99, 100
   offset: 0, 0
   index: -1
-NationIcons/Great Britain
-  rotate: false
-  xy: 1948, 1604
-  size: 84, 100
-  orig: 84, 100
-  offset: 0, 0
-  index: -1
 
 game5.png
 size: 1024, 1024
