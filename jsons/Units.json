@@ -1,5 +1,21 @@
 [
 	{
+        "name": "Longbowman",
+        "unitType": "Archery",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Great Britain",
+        "range": 2,
+        "movement": 2,
+        "strength": 12,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "promotions": ["Extended Range"],
+        "attackSound": "arrow"
+    },
+	{
 		"name": "Coastal Raider",
 		"unitType": "Sword",
 		"uniqueTo": "Champa",
