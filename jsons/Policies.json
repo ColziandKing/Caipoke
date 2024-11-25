@@ -433,6 +433,13 @@
         ],
         "era": "Medieval era",
         "policies": [
+		{
+				"name": "Mercenary Army",
+				"uniques": ["May buy [Landsknecht] units with [Gold] for [3] times their normal Production cost",
+						"May buy [Foreign Legion] units with [Gold] for [5] times their normal Production cost"],
+				"row": 1,
+				"column": 2
+			},
             {
                 "name": "Silk Road",
                 "uniques": [
@@ -452,13 +459,6 @@
                 "row": 2,
                 "column": 5
             },
-		{
-				"name": "Mercenary Army",
-				"uniques": ["May buy [Landsknecht] units with [Gold] for [3] times their normal Production cost",
-						"May buy [Foreign Legion] units with [Gold] for [5] times their normal Production cost"],
-				"row": 2,
-				"column": 2
-			},
             {
                 "name": "Entrepreneurship",
                 "uniques": [
