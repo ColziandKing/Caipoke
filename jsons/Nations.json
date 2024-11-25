@@ -24,8 +24,9 @@
 		"outerColor": [160, 160, 160],
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Catholicism",
-		"uniqueName": "Blackadder Dynasty & Baldrick's",
-		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+5]% [Science] <when between [20] and [50] Happiness>"],
+		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
+		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
+			"[+10]% [Science] <when between [-20] and [-100] Happiness>","Gain an extra spy <upon entering the [Industrial era]>","[+2 Gold] [in capital]"],
     
 		"cities": ["London","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
 			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
