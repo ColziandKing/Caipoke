@@ -1316,7 +1316,7 @@
             ],
             "requires": ["Populism","Planned Economy"],
             "row": 2,
-            "column": 1
+            "column": 3
         },
         {
             "name": "Dictatorship of the Proletariat",
@@ -1326,7 +1326,7 @@
             ],
             "requires": ["Conservation"],
             "row": 3,
-            "column": 1
+            "column": 2
         },
         {
             "name": "Scorched Earth",
@@ -1339,7 +1339,7 @@
             ],
             "requires": ["Conservation"],
             "row": 3,
-            "column": 5
+            "column": 4
         },
             {
                 "name": "Ideology Complete",
