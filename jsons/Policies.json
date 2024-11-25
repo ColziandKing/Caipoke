@@ -85,7 +85,7 @@
     },
     {
         "name": "Liberty",
-        "era": "Classical era",
+        "era": "Ancient era",
         "uniques": [
             "[+1 Culture] [in all cities]", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
@@ -267,7 +267,7 @@
     },
     {
         "name": "Piety",
-        "era": "Ancient era",
+        "era": "Classical era",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
@@ -1261,7 +1261,7 @@
     },
 	    {
         "name": "Ideology",
-        "era": "Modern era",
+        "era": "Industrial era",
         "uniques": [
             "Free Social Policy <upon adopting [Mysticism]>","Provides [1] [Policies]",
                     "Free Social Policy <upon adopting [Conservation]>",
