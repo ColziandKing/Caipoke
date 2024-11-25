@@ -35,6 +35,37 @@
         "spyNames": ["Baldrick", "Percy Percy", "George", "Melchett", "Darling", "Flashheart", "Bob", "Nursie", "Queenie", "Miggins"]
     },
 	{
+        "name": "Aksum",
+        "leaderName": "Ezana",
+        "adjective": ["Aksumite"],
+        "startBias": ["Avoid [Coast]","Hill"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "I had a vision from God himself, and he has told me to smite you down!",
+        "attacked": "I have God in my side! What do you have in yours?",
+        "defeated": "So much bloodshed.. But if this is the will of God, then I must accept this cruel fate.",
+        "introduction": "It seems God has foreseen our encounter. I am Ezana, King of Aksum, but the true king of Heaven and Earth is, of course, Christ himself.",
+        "neutralHello": "May God bless your soul.",
+        "hateHello": "I do not have time to speak.",
+        "tradeRequest": "Trading it's a fine thing God has bring, don't you agree?",
+        "outerColor": [68, 33, 78],
+        "innerColor": [190, 146, 61],
+        "uniqueName": "Saint Elesbaan's Blessing",
+        "uniques": [
+            "Gain a free [King Ezana's Stele] [in capital]"
+        ],
+        "cities": [
+            "Aksum","Adulis","Qohaito","Matara","Yeha","Hawulti","Massawa","Zeila","Lalibela","Addi Galamo",
+            "Tokonda","Tiya","Deira","Berbera","Melazo","Hawila","Fikya","Sabea","Kaskase","Debre Berhan",
+            "Adwa","Gabaza","Harar","Kubar","Tegulat","Mekele","Dahlak Kebir","Gondar","Magdala","Ankober",
+            "Jimma","Jijiga"
+        ],
+        "spyNames": [
+            "Mulu Ken","Wendimu","Li'ol","Demeke","Mulu Alem","Abebech","Zema","Mihret","Kebedech","Alemnesh"
+        ]
+    },
+	{
 		"name": "Epirus",
 		"leaderName": "Pyrrhus",
 		"adjective": ["Epirote"],
