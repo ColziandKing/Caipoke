@@ -78,6 +78,97 @@
         ]
     },
 	//yss
+    {
+        "name": "Hacienda",
+        "replaces": "Colosseum",
+        "uniqueTo": "Gran Colombia",
+        "production": 3,
+        "gold": 4,
+        "culture": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction",
+        "uniques": [
+            "[+3 Production, +2 Gold] <after discovering [Industrialization]>"
+        ]
+    },
+	{
+        "name": "Mekewap",
+        "replaces": "Shrine",
+        "uniqueTo": "The Cree",
+        "faith": 2,
+        "science": 2,
+        "cost": 40,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": [
+            "[+2 Culture] from [Lakes] tiles [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+	{
+        "name": "Tsikhe",
+        "replaces": "Walls",
+        "uniqueTo": "Georgia",
+        "cost": 65,
+        "production": 1,
+        "happiness": 1,
+        "culture": 2,
+        "cityStrength": 6,
+        "cityHealth": 100,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": ["[+25]% Golden Age length","Can be purchased for [220] [Faith] [in all cities]",
+		"Destroyed when the city is captured"]
+    },
+    {
+        "name": "Suguba",
+        "replaces": "Market",
+        "uniqueTo": "Mali",
+        "gold": 2,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 25,
+        "percentStatBonus": {"gold": 25},
+        "uniques": [
+            "Gain [20] [Gold] <(modified by game speed)> <upon gaining a [Great Person] unit>", // should be on expending... give me some time to work on it
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
+		"Provides 1 extra copy of each improved luxury resource near this City"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Theater on the Seas",
+        "replaces": "Amphitheater",
+        "uniqueTo": "The Maori",
+        "culture": 4,
+        "gold": 1,
+	"maintenance": 2,
+	"happiness": 1,
+        "cost": 95,
+        "specialistSlots": {"Writer": 1},
+        "requiredBuilding": "Monument",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+	{
+        "name": "Chemamull",
+        "replaces": "Garden",
+        "uniqueTo": "The Mapuche",
+        "cost": 100,
+        "faith": 6,
+	"production": 1,
+        "uniques": [
+		"[+2 Food, +2 Faith] <after discovering [Drama and Poetry]>",
+		"[+20]% Great Person generation [in this city]"
+	],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
 	{
         "name": "Caravansary",
         "cost": 100,
