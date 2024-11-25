@@ -26,7 +26,8 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Amphitheater] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
-			"[+10]% [Science] <when between [-20] and [-100] Happiness>","Gain an extra spy <upon entering the [Industrial era]>","[+2 Gold] [in capital]"],
+			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Industrial era]>","[+2 Gold] [in capital]",
+			"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+10]% [Science] <when between [10] and [50] Happiness>"],
     
 		"cities": ["London","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
 			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
@@ -53,7 +54,7 @@
         "innerColor": [190, 146, 61],
         "uniqueName": "Saint Elesbaan's Blessing",
         "uniques": [
-            "Gain a free [King Ezana's Stele] [in capital]"
+            "Gain a free [King Ezana's Stele] [in capital]","[+4 Food] from each Trade Route","[+2 Food] [in capital]"
         ],
         "cities": [
             "Aksum","Adulis","Qohaito","Matara","Yeha","Hawulti","Massawa","Zeila","Lalibela","Addi Galamo",
@@ -91,7 +92,7 @@
 			19
 		],
         "uniqueName": "Cradle of Civilization",
-        "uniques": ["[+2 Culture] [in all cities] <after discovering [Drama and Poetry]>"],
+        "uniques": ["[+2 Culture] [in all cities] <after discovering [Drama and Poetry]>","[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": [
             "Ur","Kish","Uruk","Eridu","Umma","Lagash","Akshak","Larak","Bad-Tibira","Larsa",
             "Isin","Shruppak","Nibru","Zimbir","Girsu","Zabalam","Kisiga","Adab","Jemdet Nasr","Nina",
