@@ -1259,4 +1259,95 @@
             }
         ]
     },
+	    {
+        "name": "Ideology",
+        "era": "Modern era",
+        "uniques": [
+            "Free Social Policy","Free Social Policy","Provides [1] [Policies]"
+        ],
+        "policies": [
+		{
+                "name": "Populism",
+                "uniques": [
+                    "[+15]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+                    "Free [Worker] appears","Free [Conquistador] appears"
+                ],
+                "row": 1,
+                "column": 1
+            },
+  {
+            "name": "Mysticism",
+            "uniques": [
+		    "Free Social Policy <upon adopting [Dictatorship of the Proletariat]>",
+            
+            "[+1 Gold] from every specialist [in all cities] <after adopting [Autocracy]>",
+            "[+2 Production, +2 Science] [in all cities] <after adopting [Autocracy]>",
+
+            "[+15]% Production when constructing [Land] units [in all cities] <after adopting [Freedom]>",
+            "[+2 Production, +2 Science] [in all cities] <after adopting [Freedom]>",
+
+            "[+15]% Production when constructing [Land] units [in all cities] <after adopting [Order]>",
+            "[+1 Gold] from every specialist [in all cities] <after adopting [Order]>"
+            ],
+            "row": 1,
+            "column": 3
+        },
+	{
+            "name": "Planned Economy",
+            "uniques": [
+                "[+100]% unhappiness from the number of cities",
+            "[-50]% Unhappiness from [Population] [in all cities]"
+            ],
+            "row": 1,
+            "column": 5
+        },
+        {
+            "name": "Conservation",
+            "uniques": [
+            "[+1 Production, +1 Science] from every [Amphitheater]",
+            "[+1 Production, +1 Science] from every [Museum]",
+            "[+1 Production, +1 Science] from every [Opera House]",
+            "[+1 Production, +1 Science] from every [Broadcast Tower]",
+            "[+1 Production, +1 Science] from every [Great Work]",
+            "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
+            "[+50]% Production when constructing [Opera House] buildings [in all cities]",
+            "[+50]% Production when constructing [Museum] buildings [in all cities]",
+            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
+            ],
+            "requires": ["Populism","Planned Economy"],
+            "row": 2,
+            "column": 1
+        },
+        {
+            "name": "Dictatorship of the Proletariat",
+            "uniques": [
+                "[+25]% Production when constructing [All] buildings [in capital]",
+            "[+25]% Production when constructing [Military] units [in capital]","Provides [1] [Policies]"
+            ],
+            "requires": ["Conservation"],
+            "row": 3,
+            "column": 1
+        },
+        {
+            "name": "Scorched Earth",
+            "uniques": [
+                "[-100]% maintenance costs <for [Mounted] units>",
+            "[-100]% maintenance costs <for [Armor] units>",
+            "[Mounted] units gain the [Volley] promotion",
+            "[Armor] units gain the [Volley] promotion",
+		    "Provides [1] [Policies]"
+            ],
+            "requires": ["Conservation"],
+            "row": 3,
+            "column": 5
+        },
+            {
+                "name": "Ideology Complete",
+                "uniques": [
+			"[+1 Food, +1 Production] from every specialist [in all cities]",
+            "[+50]% Unhappiness from [Specialists] [in all cities]"
+                ]
+            }
+        ]
+    },
 ]
