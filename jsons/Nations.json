@@ -65,6 +65,43 @@
             "Mulu Ken","Wendimu","Li'ol","Demeke","Mulu Alem","Abebech","Zema","Mihret","Kebedech","Alemnesh"
         ]
     },
+{
+        "name": "Sumeria",
+        "leaderName": "Gilgamesh",
+        "adjective": ["Sumer"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Scientific",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Prepare for war!",
+        "attacked": "You shall regret this!",
+        "defeated": "The victory is yours.",
+        "introduction": "Welcome, mighty leader.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [
+			1,
+			42,
+			107
+		],
+		"innerColor": [
+			254,
+			129,
+			19
+		],
+        "uniqueName": "Cradle of Civilization",
+        "uniques": ["[+2 Culture] [in all cities] <after discovering [Drama and Poetry]>"],
+        "cities": [
+            "Ur","Kish","Uruk","Eridu","Umma","Lagash","Akshak","Larak","Bad-Tibira","Larsa",
+            "Isin","Shruppak","Nibru","Zimbir","Girsu","Zabalam","Kisiga","Adab","Jemdet Nasr","Nina",
+            "Dilbat","Kutu","Marad","Enegi","Abu Salabikh","Ki-an","Pazurish-Dagan","Dabrum","Kissura","Kutallu",
+            "Nagsu","Kesh","Aratta","Der","Urukag","Hamazi","Apisada","Ubaid"
+        ],
+        "spyNames": [
+            "Azi","Dabir","Firuz","Gaspar","Shahzad","Aga","Marjane","Peri","Sartaj","Yasmin"
+        ]
+    },
 	{
 		"name": "Epirus",
 		"leaderName": "Pyrrhus",
