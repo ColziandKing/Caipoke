@@ -1191,6 +1191,13 @@ PolicyIcons/Cultural Heritage
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/Ideology
+  rotate: false
+  xy: 1122, 560
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 PolicyIcons/Fortified Borders
   rotate: false
   xy: 1862, 1592
