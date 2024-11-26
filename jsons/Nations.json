@@ -829,7 +829,7 @@
 		"uniqueName": "Domain Rule",
 		"uniques": ["Starts with [Aesthetics] adopted","[+2525 Gold] from [All] tiles [in all cities]","Gain a free [Palengke] [in all cities]",
 			    "Military Units gifted from City-States start with [+1000] XP", "Cannot build [Scout] units","Starts with [Order] adopted",
-    "Starts with [Autocracy] adopted","Starts with [Freedom] adopted",
+    "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted",
     "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
     "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Exploration] adopted","Starts with [Honor] adopted"],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
