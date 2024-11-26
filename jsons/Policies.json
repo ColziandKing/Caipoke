@@ -34,7 +34,7 @@
                 ],
 		"requires": ["Oligarchy"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Oligarchy",
@@ -43,7 +43,7 @@
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
 		{
                 "name": "Nationalism",
@@ -62,7 +62,7 @@
                 ],
                 "requires": ["Legalism"],
                 "row": 3,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Monarchy",
@@ -71,7 +71,7 @@
                 ],
                 "requires": ["Legalism"],
                 "row": 3,
-                "column": 5
+                "column": 6
             },
             {
                 "name": "Tradition Complete",
@@ -106,7 +106,7 @@
                     "[+20]% Great Person generation [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
 		{
                 "name": "Republic",
@@ -115,7 +115,7 @@
                     "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Collective Rule",
@@ -135,7 +135,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Meritocracy",
@@ -146,7 +146,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Liberty Complete",
@@ -207,7 +207,7 @@
                     "[+1 Food, +2 Science, +2 Culture] from every [Citadel]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
 		{
                 "name": "Discipline",
@@ -217,7 +217,7 @@
                     "[50]% XP gained from combat <for [non-[Air]] units>"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Military Caste",
@@ -243,7 +243,7 @@
                 ],
                 "requires": ["Military Tradition"],
                 "row": 3,
-                "column": 3
+                "column": 4
             },
 		{
                 "name": "Elite Forces",
@@ -253,7 +253,7 @@
                 ],
                 "requires": ["Discipline"],
                 "row": 3,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Honor Complete",
@@ -539,7 +539,7 @@
                     "[+50]% Production when constructing [Seaport] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Colonialism",
@@ -551,7 +551,7 @@
 			"Free [Settler] appears"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Navigation School",
@@ -561,7 +561,7 @@
                 ],
                 "requires": ["Maritime Infrastructure","Naval Tradition"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "Resettlements",
@@ -575,7 +575,7 @@
                 ],
 		"requires": ["Colonialism"],
                 "row": 2,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Treasure Fleets",
@@ -585,7 +585,7 @@
                 ],
                 "requires": ["Navigation School","Resettlements"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Exploration Complete",
@@ -633,7 +633,7 @@
                     "[+1 Happiness] from every [Musician Guild]"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Cultural Exchange",
@@ -647,7 +647,7 @@
                     "[+1 Culture] from every [Chateau]"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Artistic Genius",
@@ -662,7 +662,7 @@
                 ],
                 "requires": ["Free Mind","Cultural Centers"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "Fine Arts",
@@ -682,7 +682,7 @@
                 ],
                 "requires": ["Artistic Genius","Cultural Exchange"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Aesthetics Complete",
