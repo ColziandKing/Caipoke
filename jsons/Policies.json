@@ -106,7 +106,7 @@
                     "[+20]% Great Person generation [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
 		{
                 "name": "Republic",
@@ -115,7 +115,7 @@
                     "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Collective Rule",
@@ -135,7 +135,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Meritocracy",
@@ -146,7 +146,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Liberty Complete",
@@ -1307,7 +1307,7 @@
             "column": 5
         },
         {
-            "name": "Conservation",
+            "name": "Mass Media",
             "uniques": [
             "[+1 Production, +1 Science] from every [Amphitheater]",
             "[+1 Production, +1 Science] from every [Museum]",
@@ -1329,7 +1329,7 @@
                 "[+25]% Production when constructing [All] buildings [in capital]",
             "[+25]% Production when constructing [Military] units [in capital]","Provides [1] [Policies]"
             ],
-            "requires": ["Conservation"],
+            "requires": ["Mass Media"],
             "row": 3,
             "column": 2
         },
@@ -1342,7 +1342,7 @@
             "[Armor] units gain the [Volley] promotion",
 		    "Provides [1] [Policies]"
             ],
-            "requires": ["Conservation"],
+            "requires": ["Mass Media"],
             "row": 3,
             "column": 4
         },
