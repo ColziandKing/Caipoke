@@ -1541,9 +1541,16 @@ PolicyIcons/Venture Politics
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Ideology
+PolicyBranchIcons/World
   rotate: false
   xy: 1048, 734
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Ideology
+  rotate: false
+  xy: 1733, 1260
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
