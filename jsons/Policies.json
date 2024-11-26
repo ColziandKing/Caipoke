@@ -106,7 +106,7 @@
                     "[+20]% Great Person generation [in all cities]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
 		{
                 "name": "Republic",
@@ -115,7 +115,7 @@
                     "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Collective Rule",
@@ -135,7 +135,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Meritocracy",
@@ -146,7 +146,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Liberty Complete",
@@ -539,7 +539,7 @@
                     "[+50]% Production when constructing [Seaport] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Colonialism",
@@ -551,7 +551,7 @@
 			"Free [Settler] appears"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Navigation School",
@@ -561,7 +561,7 @@
                 ],
                 "requires": ["Maritime Infrastructure","Naval Tradition"],
                 "row": 2,
-                "column": 3
+                "column": 5
             },
 		{
                 "name": "Resettlements",
@@ -575,7 +575,7 @@
                 ],
 		"requires": ["Colonialism"],
                 "row": 2,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Treasure Fleets",
@@ -585,7 +585,7 @@
                 ],
                 "requires": ["Navigation School","Resettlements"],
                 "row": 3,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Exploration Complete",
@@ -647,7 +647,7 @@
                     "[+1 Culture] from every [Chateau]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 6
             },
             {
                 "name": "Artistic Genius",
