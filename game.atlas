@@ -1375,7 +1375,7 @@ PolicyIcons/Mobilization
   index: -1
 PolicyIcons/Mysticism
   rotate: false
-  xy: 1114, 676
+  xy: 1733, 1260
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -1550,7 +1550,7 @@ PolicyBranchIcons/World
   index: -1
 PolicyBranchIcons/Ideology
   rotate: false
-  xy: 1733, 1260
+  xy: 1114, 676
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
