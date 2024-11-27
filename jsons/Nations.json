@@ -36,6 +36,69 @@
         "spyNames": ["Baldrick", "Percy Percy", "George", "Melchett", "Darling", "Flashheart", "Bob", "Nursie", "Queenie", "Miggins"]
     },
 	{
+		"name": "Suzainswellia",
+		"leaderName": "Uzaine Anne Caballero",
+		"adjective": ["Swells"],
+		"startBias": ["Coast"],
+  	        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Suzerain, queen of Colziand. We are honored to be in your presence and the governor is pleased to meet you again since college and last month's meeting.",
+		"startIntroPart2": "Dear Suzerain, queen of Colziand, we are in no position to ask you but guide us and teach us the things we do not deserve, for we need you.",
+
+		"declaringWar": "Our ships will end these wages of sin!",
+		"attacked": "I want you to see now that your land will be sunk by our waves of attacks.",
+		"defeated":  "It looks like we sunked.",
+		"introduction":  "Waves as high as heavens I introduce you to our home.",
+		"neutralHello": "I wave to you.",
+		"hateHello": "May the wrath of God bash waves at your cities and flood your lands?",
+		"hateLetsHearIt": "Got a proposal?.",
+		"afterPeace": "Hey, no hard feelings. Let's not bother each other again.",
+		"tradeRequest": "I have shipments of cargo.",
+
+	        "outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+
+		"uniqueName": "Coastal Express",
+		"uniques": [
+			   "Starts with [Patronage] adopted","Provides [2] [Glass]",
+		],
+		"spyNames": ["Uzaine"],
+
+		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella"]
+	},
+	{
+		"name": "Fullysia",
+		"leaderName": "Ullysia Ryden Gozanlithozz",
+		"adjective": ["Fullysian"],
+		"startBias": ["Grassland","Forest"],
+  	        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
+		"startIntroPart2": "See? War will once more wage, do what must be done.",
+
+		"declaringWar": "Prepare! My people are skilled for this terrains.",
+		"attacked": "You see. Your land will be covered in nature because we will ruin it.",
+		"defeated":  "Raze, puppet or annex? We will be liberated.",
+		"introduction":  "Salutations, I wanna know your kingdom too?",
+		"neutralHello": "Hello There.",
+		"hateHello": "No, I don't wanna hear it.?",
+		"hateLetsHearIt": "Strong like bark, now what?.",
+		"afterPeace": "From Colziand we voyage to new land, better leave us.",
+		"tradeRequest": "We have an offer.",
+
+	        "outerColor": [114, 0, 0],
+		"innerColor": [255,255,255],
+
+		"uniqueName": "Fullysianth Song",
+		"uniques": [
+				"Starts with [Exploration] adopted",
+		],
+		"spyNames": ["Ullysia"],
+		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
+	},
+	{
         "name": "Aksum",
         "leaderName": "Ezana",
         "adjective": ["Aksumite"],
@@ -828,10 +891,10 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": ["Starts with [Aesthetics] adopted","[+2525 Gold] from [All] tiles [in all cities]","Gain a free [Palengke] [in all cities]",
-			    "Military Units gifted from City-States start with [+1000] XP", "Cannot build [Scout] units","Starts with [Order] adopted",
+			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Starts with [Order] adopted",
     "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted",
     "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
-    "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Exploration] adopted","Starts with [Honor] adopted"],
+    "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Honor] adopted"],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
 	{
