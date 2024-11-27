@@ -1,3 +1,20 @@
+
+    {
+        "name": "Alnwick ",
+        "cost": 150,
+        "replaces": "Castle",
+        "uniqueTo": "India",
+        "cityStrength": 7,
+        "cityHealth": 25,
+        "culture": 4,
+        "happiness": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Culture] [in this city] <after discovering [Flight]>",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Chivalry"
+    },
 {
         "name": "Ideology",
         "era": "Modern era",
