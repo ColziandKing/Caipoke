@@ -16,7 +16,7 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/Suzainswellia
+NationIcons/Fullysia
   rotate: false
   xy: 816, 62
   size: 50, 50
