@@ -1,5 +1,24 @@
 [
 	{
+        "name": "Quechua",
+        "unitType": "Sword",
+        "uniqueTo": "Inca",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 8,
+        "cost": 40,
+        "obsoleteTech": "Iron Working",
+        "uniques": [
+            "May upgrade to [Spearman] through ruins-like effects",
+            "Can build [Terrace Farm] improvements on tiles",
+        ],
+        "promotions": [
+            "Ignore terrain cost"
+        ],
+        "upgradesTo": "Swordsman",
+        "attackSound": "nonmetalhit"
+    },
+	{
         "name": "Longbowman",
         "unitType": "Archery",
         "replaces": "Crossbowman",
