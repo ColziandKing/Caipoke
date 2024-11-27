@@ -60,7 +60,7 @@
                 "uniques": [
 			,"Provides [1] [Policies]"
                 ],
-		"requires": ["Aristocracy","Feasts & Festivals"],
+		"requires": ["Feasts & Festivals"],
                 "row": 3,
                 "column": 1
             },
@@ -106,7 +106,7 @@
 			"Gain a free [Amphitheater] [in capital]","[+1] Movement <for [Melee] units>","[+1] Movement <for [Civilian] units>"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Citizenship",
@@ -246,8 +246,8 @@
                     "[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
 		"requires": ["Warrior Code","Military Tradition","Discipline"],
-                "row": 3,
-                "column": 1
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "Military Caste",
