@@ -1,3 +1,29 @@
+Polic.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+NationIcons/Suzainswellia
+  rotate: false
+  xy: 816, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+Natio.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/Brute
+  rotate: false
+  xy: 343, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 Barbar.png
 size: 2048, 2048
 format: RGBA8888
