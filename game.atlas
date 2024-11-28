@@ -16,7 +16,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-ImprovementIcons/Ironclad
+ImprovementIcons/Dry Dock
   rotate: false
   xy: 946, 1152
   size: 100, 100
