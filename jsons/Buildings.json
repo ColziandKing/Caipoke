@@ -27,7 +27,6 @@
 		"culture": 2,
 		"faith": 2,
 		"cityStrength": 25,
-		"cost": 500,
 		"uniqueTo": "Fullysia",
 		"requiredTech": "Metal Casting"
 		"uniques": [
@@ -45,7 +44,6 @@
 		"culture": 3,
 		"faith": 3,
 		"cityStrength": 25,
-		"cost": 500,
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
 		"uniqueTo": "Suzainswellia",
 		"requiredTech": "Steel"
@@ -59,7 +57,7 @@
 		"uniqueTo": "Fullysia",
 		"replaces": "Barracks",
 		"hurryCostModifier": 35,
-		"gold": 200,
+		"gold": 2,
 		"science": 1,
 		"maintenance": 3,
 		"uniques": ["New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
