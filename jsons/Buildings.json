@@ -1,4 +1,75 @@
 [
+	{
+		"name": "Kingdom Hall",
+		"happiness": 1,
+		"production": 1,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"faith": 1,
+		"cityStrength": 25,
+		"cost": 100,
+		"uniqueTo": "Colziand",
+		"isWonder": true,
+		"requiredTech": "Iron Working"
+		"uniques": [
+			"Free Social Policy","Only available [Palace] in this city","[1] free [Companion Cavalry] units appear","[1] free [Legion] units appear","[1] free [Ballista] units appear"
+		],
+		"quote": "'Here starts the rule in which it will lead us to the bright future.' - Colziand King" 
+	},
+{
+		"name": "Empire Atrium",
+		"isWonder": true,
+		"happiness": 2,
+		"production": 3,
+		"science": 2,
+		"gold": 2,
+		"culture": 2,
+		"faith": 2,
+		"cityStrength": 25,
+		"cost": 500,
+		"uniqueTo": "Fullysia",
+		"requiredTech": "Metal Casting"
+		"uniques": [
+			"Free Technology","Only available [Palace] in this city","Only available <if [Monument] is constructed>",
+			   "[1] free [Conquistador] units appear","[1] free [Keshik] units appear","[1] free [Chu-Ko-Nu] units appear",
+			   "[1] free [Longbowman] units appear","[1] free [Samurai] units appear"
+		],
+		"quote": "'Our expanse is going further beyond the horizon skies of fate.' - Colziand King" 
+	},
+	{
+		"name": "Domain Amplitude",
+		"isWonder": true,
+		"happiness": 2,
+		"production": 2,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"faith": 3,
+		"cityStrength": 25,
+		"cost": 500,
+		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
+		"uniqueTo": "Colziand",
+		"requiredTech": "Steel"
+		"uniques": [
+			"Only available [Palace] in this city","Only available <if [Kingdom Hall] is constructed>","[1] free [Janissary] units appear",
+			   "[1] free [Sea Beggar] units appear","[1] free [Ship of the Line] units appear","[1] free [Sipahi] units appear",
+			   "[1] free [Hakkapeliitta] units appear","[1] free [Turtle Ship] units appear"
+		],
+		"quote": "'Long it has started and now it still continues, our Lord leads us.' - Colziand King"
+	},
+	{
+		"name": "Stronghold",
+		"uniqueTo": "Fullysia",
+		"replaces": "Barracks",
+		"hurryCostModifier": 35,
+		"gold": 200,
+		"science": 1,
+		"maintenance": 3,
+		"uniques": ["New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion","Gain a free [Krepost] [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
 	//relf
 	{
         "name": "Cathedral",
