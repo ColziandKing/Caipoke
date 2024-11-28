@@ -78,7 +78,7 @@
             {
                 "name": "Monarchy",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]","Free [Settler] appears","Provides [1] [Policies]"
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]","Provides [1] [Policies]"
                 ],
                 "requires": ["Legalism"],
                 "row": 3,
@@ -255,7 +255,7 @@
                     "Units in cities cost no Maintenance",
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
                     "[+2 Happiness] from every [Courthouse]",
-			"Free [Settler] appears","Provides [1] [Policies]"
+			"Provides [1] [Policies]"
                 ],
                 "requires": ["Nationalism"],
                 "row": 3,
@@ -400,8 +400,7 @@
                 "name": "Merchant Confederacy",
                 "uniques": [
                     "[+2 Production, +2 Food] from every [Land Trade Route (Gold)]",
-                    "[+2 Production, +2 Food] from every [Sea Trade Route (Gold)]",
-			"Free [Settler] appears"
+                    "[+2 Production, +2 Food] from every [Sea Trade Route (Gold)]"
                 ],
                 "row": 1,
                 "column": 3
@@ -495,7 +494,7 @@
                     "[-25]% maintenance on road & railroads",
                     "[-25]% maintenance cost for buildings [in all cities]",
                     "Provides [2] [Trade Route]",
-			"Free [Settler] appears","Provides [1] [Policies]"
+			"Provides [1] [Policies]"
                 ],
                 "requires": ["Economic Union"],
                 "row": 3,
@@ -578,7 +577,7 @@
                     "[+1 Happiness] [in all cities]",
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
                     "Free [Worker] appears <upon founding a city>",
-			"Free [Settler] appears"
+			"Free [Conquistador] appears"
                 ],
                 "row": 1,
                 "column": 5
@@ -646,7 +645,7 @@
                     "[Great Musician] is earned [33]% faster",
                     "[+20]% [Gold] <in cities with a [Zoo]>",
                     "[+20]% [Gold] <in cities with a [Museum]>",
-                    "[+20]% [Gold] <in cities with a [Broadcast Tower]>","Free [Settler] appears"
+                    "[+20]% [Gold] <in cities with a [Broadcast Tower]>"
                 ],
                 "row": 1,
                 "column": 1
@@ -732,7 +731,7 @@
         "name": "Rationalism",
         "era": "Renaissance era",
         "uniques": [ 
-		"Free Social Policy","Only available <before adopting [Ideology]>",
+		"Free Social Policy",
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]","Provides [1] [Policies]"
         ],
@@ -795,7 +794,7 @@
 		{
 				"name": "Christianity",
 				"uniques": ["[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]",
-					"[Faith] cost of purchasing [Missionary] units [-20]%","[2] free [Missionary] units appear","Free [Settler] appears","Provides [1] [Policies]"],
+					"[Faith] cost of purchasing [Missionary] units [-20]%","[2] free [Missionary] units appear","Provides [1] [Policies]"],
 				"requires": ["Sovereignty","Secularity"],
 				"row": 3,
 				"column": 3
@@ -1313,7 +1312,7 @@
                 "name": "Populism",
                 "uniques": [
                     "[+15]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-                    "Free [Worker] appears","Free [Conquistador] appears"
+                    "Free [Worker] appears"
                 ],
                 "row": 1,
                 "column": 1
