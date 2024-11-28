@@ -11,19 +11,6 @@ UnitIcons/Reislaufer
   offset: 0, 0
   index: -1
 
-GAK.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Wave Sail
-  rotate: false
-  xy: 900, 700
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
 Construct.png
 size: 2048, 2048
 format: RGBA8888
@@ -1696,6 +1683,13 @@ PolicyIcons/Blitzkrieg
 ReligionIcons/Uncivism
   rotate: false
   xy: 700, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wave Sail
+  rotate: false
+  xy: 900, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
