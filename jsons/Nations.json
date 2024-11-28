@@ -26,7 +26,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
-			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Industrial era]>","[+2 Gold] [in capital]",
+			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Modern era]>","[+2 Gold] [in capital]",
 			"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+10]% [Science] <when between [10] and [50] Happiness>"],
     
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
@@ -93,7 +93,7 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
-				"Starts with [Exploration] adopted",
+				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
 		],
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
