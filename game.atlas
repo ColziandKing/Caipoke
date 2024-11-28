@@ -69,7 +69,7 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/Fullysia
+BuildingIcons/Empire Atrium
   rotate: false
   xy: 816, 62
   size: 50, 50
@@ -546,11 +546,25 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Colziand
+BuildingIcons/Stronghold
   rotate: false
   xy: 544, 424
   size: 99, 100
   orig: 99, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kingdom Hall
+  rotate: false
+  xy: 868, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Domain Aplitude
+  rotate: false
+  xy: 652, 428
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 
