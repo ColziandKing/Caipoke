@@ -1,4 +1,44 @@
-
+{
+		"name": "Carnival",
+		"happiness": 2,
+		"faith": 2,
+		"maintenance": 4,
+		"requiredTech": "Plastics"
+	},
+	{
+        	"name": "Hypermarket",
+        	"cost": 400,
+		"food": 3,
+		"production": 2,
+		"maintenance": 4,
+		"percentStatBonus": {"gold": 10},
+		"requiredTech": "Replaceable Parts"
+   	},
+	{
+        	"name": "Mall",
+		"uniqueTo": "Colziand",
+        	"cost": 400,
+		"food": 2,
+		"culture": 2,
+		"maintenance": 4,
+		"percentStatBonus": {"gold": 20},
+    		"replaces": "Hypermarket",
+		"requiredTech": "Replaceable Parts"
+   	},
+	{
+		"name": "Department Store",
+		"production": 2,
+		"gold": 2,
+		"requiredTech": "Electronics"
+		"maintenance": 4,
+	},
+	{
+		"name": "Aquarium",
+		"happiness": 2,
+		"science": 2,
+		"requiredTech": "Plastics"
+		"maintenance": 4,
+	},
     {
         "name": "Alnwick ",
         "cost": 150,
