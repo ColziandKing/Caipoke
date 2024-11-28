@@ -4,7 +4,7 @@
         "name": "Cathedral",
         "culture": 5,
         "uniques": [
-            "Unbuildable","Unsellable","Provides [2] [Jewelry]","Destroyed when the city is captured",
+            "Unbuildable","Unsellable","Destroyed when the city is captured",
             "Only available <when religion is enabled>"
         ]
     },
@@ -23,7 +23,7 @@
         "faith": 3,
         "happiness": 1,
         "uniques": [
-            "Unbuildable","Unsellable","Provides [2] [Porcelain]",
+            "Unbuildable","Unsellable",
             "Only available <when religion is enabled>"
         ]
     },
