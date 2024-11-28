@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Wave Sail", 
+		"uniqueTo": "Suzainswellia",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 20,
+		"cost": 100,
+		"hurryCostModifier": 30,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"attackSound": "cannon",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>","Can undertake a trade mission with City-State, giving a large sum of gold and [45] Influence"]
+	},
+	{
 		"name": "Zero",
 		"unitType": "Fighter",
 		"replaces": "Fighter",
