@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Seaside Stall",
-		"uniqueTo": "Lagos",
+		"uniqueTo": "Suzainswellia",
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
