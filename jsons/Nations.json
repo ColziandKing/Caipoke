@@ -61,7 +61,7 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","[+1 Faith, +2 Food] from every [Palace]","Provides [2] [Jewelry]"
+			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [2] [Jewelry]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -94,7 +94,7 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
 				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [2] [Porcelain]","[+3 Happiness] from every [Palace]",
+			"Provides [2] [Porcelain]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
 			"May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Ullysia"],
@@ -893,7 +893,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Provides [2] [Glass]","Gain a free [Palengke] [in capital]",
+			"Starts with [Aesthetics] adopted","Provides [2] [Glass]","Cannot build [Archery] units",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
