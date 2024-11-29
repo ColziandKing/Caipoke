@@ -2,7 +2,7 @@
 	{
 		"name": "Seaside Stall",
 		"uniqueTo": "Suzainswellia",
-		"gold": 3,
+		"gold": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
 		"techRequired": "Currency",
