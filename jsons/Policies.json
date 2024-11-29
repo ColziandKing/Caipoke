@@ -212,7 +212,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[2] free [Warrior] units appear",
+                    "[2] free [Spearman] units appear",
 			"[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
                     "[4] units cost no maintenance","Free [Great General] appears"
                 ],
@@ -1302,7 +1302,7 @@
 
             "[+15]% Production when constructing [Land] units [in all cities] <after adopting [Order]>",
             "[+1 Gold] from every specialist [in all cities] <after adopting [Order]>",
-		"Provides [1] [Policies]","Only available <before adopting [Rationalism]>"
+		"Provides [1] [Policies]"
         ],
         "policies": [
 		{
