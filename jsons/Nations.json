@@ -61,7 +61,7 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","[+2 Gold] from [All] tiles [in all cities]","Gain a free [Palengke] [in all cities]","Provides [2] [Jewelry]"
+			   "Starts with [Patronage] adopted","[+2 Faith] from every [Palace]","Gain a free [Palengke] [in all cities]","Provides [2] [Jewelry]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -94,8 +94,8 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
 				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [2] [Porcelain]","[+4 Production] from [All] tiles [in capital]",
-			"May buy [Cathedral] buildings for [100] [Faith] [in cities following this religion]",
+			"Provides [2] [Porcelain]","[+4 Happiness] from every [Palace]",
+			"May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
@@ -893,11 +893,8 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Provides [2] [Glass]",
-			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units",
-    "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted","Starts with [Order] adopted",
-    "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
-    "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Honor] adopted"
+			"Starts with [Aesthetics] adopted","Provides [2] [Glass]","[+3 Food] from every [Palace]",
+			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
