@@ -295,7 +295,7 @@
     },
     {
         "name": "Piety",
-        "era": "Classical era",
+        "era": "Ancient era",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
@@ -536,7 +536,6 @@
             }
         ]
     },
-	
     {
         "name": "Exploration",
         "uniques": [ "Free Social Policy",
