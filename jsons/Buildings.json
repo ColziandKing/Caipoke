@@ -147,8 +147,8 @@
         "name": "Hacienda",
         "replaces": "Colosseum",
         "uniqueTo": "Gran Colombia",
-        "production": 3,
-        "gold": 4,
+        "production": 2,
+        "gold": 3,
         "culture": 1,
         "hurryCostModifier": 25,
         "requiredTech": "Construction",
@@ -288,7 +288,7 @@
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
     },{
-		"name": "Vihara",
+		"name": "Carved Vihara",
 		"replaces": "Temple",
 		"uniqueTo": "Champa", 
 		"maintenance": 2,
