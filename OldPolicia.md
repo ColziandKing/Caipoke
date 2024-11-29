@@ -1,3 +1,7 @@
+,
+                    //"[+15]% Production when constructing [Hotel] buildings [in all cities]",
+                    //"[-20]% Gold cost of upgrading <for [Military] units>",
+                    //"[+33]% Production when constructing [National Visitor's Center] wonders [in all cities]",
 {
 		"name": "Carnival",
 		"happiness": 2,
