@@ -288,7 +288,7 @@
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
     },{
-		"name": "Carved Vihara",
+		"name": "Stupa",
 		"replaces": "Temple",
 		"uniqueTo": "Champa", 
 		"maintenance": 2,
