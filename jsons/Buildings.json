@@ -324,7 +324,7 @@
   { 
 		"name": "Palengke",
 		"replaces": "Market",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Suzainswellia",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 23,
