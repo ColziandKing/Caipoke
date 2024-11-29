@@ -27,10 +27,10 @@
 		"culture": 2,
 		"faith": 2,
 		"cityStrength": 25,
-		"uniqueTo": "Fullysia",
+		"uniqueTo": "Colziand",
 		"requiredTech": "Metal Casting"
 		"uniques": [
-			"Free Technology"
+            		"Only available <in cities with a [Kingdom Hall]>","Free Technology"
 		],
 		"quote": "'Our expanse is going further beyond the horizon skies of fate.' - Colziand King" 
 	},
@@ -45,10 +45,10 @@
 		"faith": 3,
 		"cityStrength": 25,
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
 		"uniques": [
-			"Free Social Policy","Free Technology"
+			"Only available <in cities with a [Empire Atrium]>","Free Social Policy","Free Technology"
 		],
 		"quote": "'Long it has started and now it still continues, our Lord leads us.' - Colziand King"
 	},
