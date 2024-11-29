@@ -61,7 +61,7 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","[+2 Gold] from [All] tiles [in all cities]","Provides [2] [Jewelry]"
+			   "Starts with [Patronage] adopted","[+2 Gold] from [All] tiles [in all cities]","Gain a free [Palengke] [in all cities]","Provides [2] [Jewelry]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -893,7 +893,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Gain a free [Palengke] [in all cities]","Provides [2] [Glass]",
+			"Starts with [Aesthetics] adopted","Provides [2] [Glass]",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units",
     "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted","Starts with [Order] adopted",
     "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
