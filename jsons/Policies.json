@@ -184,7 +184,6 @@
                     "[+33]% Production when constructing [Oxford University] wonders [in all cities]",
                     "[+33]% Production when constructing [Hermitage] wonders [in all cities]",
                     "[+33]% Production when constructing [National Intelligence Agency] wonders [in all cities]",
-                    //"[+33]% Production when constructing [National Visitor's Center] wonders [in all cities]",
                     
                     "[+15]% Production when constructing [Monument] buildings [in all cities]",
                     "[+15]% Production when constructing [Library] buildings [in all cities]",
@@ -195,8 +194,7 @@
                     "[+15]% Production when constructing [Workshop] buildings [in all cities]",
                     "[+15]% Production when constructing [University] buildings [in all cities]",
                     "[+15]% Production when constructing [Opera House] buildings [in all cities]",
-                    "[+15]% Production when constructing [Constabulary] buildings [in all cities]",
-                    //"[+15]% Production when constructing [Hotel] buildings [in all cities]",
+                    "[+15]% Production when constructing [Constabulary] buildings [in all cities]"
                 ]
             }
         ]
@@ -224,7 +222,6 @@
             {
                 "name": "Oligarchy",
                 "uniques": [
-                    //"[-20]% Gold cost of upgrading <for [Military] units>",
                     "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
                     "[+50]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
