@@ -61,7 +61,7 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [2] [Jewelry]"
+			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [3] [Jewelry]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -94,7 +94,7 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
 				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [2] [Porcelain]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
+			"Provides [3] [Porcelain]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
 			"May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Ullysia"],
@@ -119,7 +119,7 @@
         "innerColor": [190, 146, 61],
         "uniqueName": "Saint Elesbaan's Blessing",
         "uniques": [
-            "Gain a free [Monument] [in all cities]"
+            "Gain a free [Monument] [in all cities]","[+2 Food] [in capital]"
         ],
         "cities": [
             "Aksum","Adulis","Qohaito","Matara","Yeha","Hawulti","Massawa","Zeila","Lalibela","Addi Galamo",
@@ -335,7 +335,7 @@
 		"innerColor": [ 40, 94, 68],
 		"uniqueName": "Feathered Serpent",
 		"uniqueText": "May buy National Wonders with [Faith].",
-		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
+		"uniques": ["May buy [National Wonder] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
 	},
 			{
@@ -368,7 +368,7 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of [Porcelain] luxury resource. +1 [Science] from every Iron.",
+		"uniqueText": "All cities gain a free Smeltery. +1 [Science] from every Iron.",
 		"uniques": ["Gain a free [Smeltery] [in all cities]","[+1 Science] from every [Iron]"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
@@ -439,7 +439,7 @@
 	},
 	{
 		"name": "Gran Colombia",
-		"leaderName": "Simon Boli­var",
+		"leaderName": "Bolivar Simon",
 		"adjective": [
 			"Gran Colombian"
 		],
@@ -893,7 +893,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Provides [2] [Glass]","Cannot build [Archery] units",
+			"Starts with [Aesthetics] adopted","Provides [3] [Glass]","Cannot build [Archery] units",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
