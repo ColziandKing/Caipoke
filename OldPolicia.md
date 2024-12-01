@@ -1,4 +1,4 @@
-,"[+2 Food] [in capital]","[+4 Production] from [All] tiles [in capital]",
+"All cities provide 1 copy of [Porcelain] luxury resource,"[+2 Food] [in capital]","[+4 Production] from [All] tiles [in capital]",
 			"[+2 Gold] from [All] tiles [in all cities]",
     "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted","Starts with [Order] adopted",
     "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
