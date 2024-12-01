@@ -62,7 +62,8 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [3] [Jewelry]"
+			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [3] [Jewelry]",
+			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -95,8 +96,7 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
 				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [3] [Porcelain]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
-			"May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
+			"Provides [3] [Porcelain]","May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
@@ -894,8 +894,8 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Provides [3] [Glass]","Cannot build [Archery] units",
-			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units"
+			"Starts with [Aesthetics] adopted","Provides [3] [Glass]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
+			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Cannot build [Archery] units"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
@@ -1160,6 +1160,18 @@
         "cities": ["Thimphu"]
     },
     {
+        "name": "Ceygoa",
+        "adjective": ["Ceygoan"],
+        "cityStateType": "Cultured",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+        "innerColor": [54, 102, 255],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "cities": ["Ceygoa"]
+    },
+    {
         "name": "Bangkok",
         "adjective": ["Bangkokian"],
         "cityStateType": "Maritime",
@@ -1300,7 +1312,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Port-au-Prince"]
     },
     {
@@ -1312,7 +1324,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18,204,245],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Riga"]
     },
     {
@@ -1324,7 +1336,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [0,163,181],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Santo Domingo"]
     },
     {
@@ -1336,7 +1348,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 230, 230],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Cahokia"]
     },
     {
@@ -1348,7 +1360,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Colombo"]
     },
     {
@@ -1360,7 +1372,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [25, 75, 235],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Dubai"]
     },
     {
@@ -1372,7 +1384,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Gaborone"]
     },
     {
@@ -1384,7 +1396,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Hong Kong"]
     },
     {
@@ -1396,7 +1408,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Lagos"]
     },
     {
@@ -1408,7 +1420,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Malacca"]
     },
     {
@@ -1420,7 +1432,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Maseru"]
     },
     {
@@ -1432,7 +1444,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Mohenjo-Daro"]
     },
     {
@@ -1444,7 +1456,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Singapore"]
     },
     {
@@ -1456,7 +1468,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [0, 163, 181],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Tallinn"]
     },
     {
@@ -1468,7 +1480,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Trieste"]
     },
     {
@@ -1480,7 +1492,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Vaduz"]
     },
     {
@@ -1492,7 +1504,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Zurich"]
     },
     {
@@ -1592,6 +1604,30 @@
         "cities": ["Valletta"]
     },
     {
+        "name": "Bozrah",
+        "adjective": ["Edomite"],
+        "cityStateType": "Militaristic",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+        "innerColor": [255, 255, 43],
+        "uniques": [],
+        "cities": ["Bozrah"]
+    },
+    {
+        "name": "Damascus",
+        "adjective": ["Syrian"],
+        "cityStateType": "Militaristic",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+        "innerColor": [255, 255, 43],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "cities": ["Damascus"]
+    },
+    {
         "name": "Geneva",
         "adjective": ["Geneva"],
         "cityStateType": "Religious",
@@ -1600,7 +1636,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [25, 75, 235],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Geneva"]
     },
     {
@@ -1612,7 +1648,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Ife"]
     },
     {
@@ -1624,7 +1660,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Kathmandu"]
     },
     {
@@ -1636,7 +1672,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["La Venta"]
     },
     {
@@ -1648,7 +1684,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Qufu"]
     },
     {
@@ -1660,7 +1696,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Sarajevo"]
     },
     {
@@ -1672,7 +1708,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 230, 230],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Taipei"]
     },
     {
@@ -1684,7 +1720,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Wittenberg"]
     },
 ]
