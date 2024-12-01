@@ -61,7 +61,7 @@
 		"science": 1,
 		"maintenance": 3,
 		"uniques": ["New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
-			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion","Gain a free [Krepost] [in this city]"],
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
 	},
 	//relf
