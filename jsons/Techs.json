@@ -84,16 +84,16 @@
                 "name": "Trapping",
                 "row": 5,
                 "prerequisites": ["Animal Husbandry"],
-                "quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
+                "quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome",
+                "uniques": [
+                            "Free [Settler] appears"
+                ]
             },
             {
                 "name": "The Wheel",
                 "row": 7,
                 "prerequisites": ["Animal Husbandry", "Archery"],
-                "quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb",
-                "uniques": [
-                            "Free [Settler] appears"
-                ]
+                "quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
             },
             {
                 "name": "Masonry",
