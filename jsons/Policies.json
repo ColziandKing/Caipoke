@@ -940,7 +940,7 @@
                     "[+2 Science, +2 Culture] from every [Military Academy]",
                     "[+2 Science, +2 Culture] from every [Armory]","Provides [1] [Policies]"
                 ],
-                "requires": ["Workers' Faculties","Cultural Revolution"],
+                "requires": ["Workers Faculties","Cultural Revolution"],
                 "row": 3,
                 "column": 7
             },
@@ -951,7 +951,7 @@
                     "Free [Great Engineer] appears","Provides [1] [Policies]",
                     //need implement "Spaceflight Pioneers: May finish Spaceship parts with Great Engineers"
                 ],
-                "requires": ["Workers' Faculties"],
+                "requires": ["Workers Faculties"],
                 "row": 3,
                 "column": 9
             },
@@ -1024,7 +1024,7 @@
                     "[+2 Production, +2 Science] from every [Workshop]",
                     "[+2 Production, +2 Science] from every [Factory]"
                 ],
-                "requires": ["Creative Expression"],
+                "requires": ["Avant Garde","Creative Expression"],
                 "row": 2,
                 "column": 2
             },
@@ -1113,7 +1113,7 @@
                 "uniques": [
                     "May buy [Spaceship part] units with [Gold] [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["Covert Action"],
+                "requires": ["Covert Action","Universal Healthcare"],
                 "row": 3,
                 "column": 9
             },
@@ -1181,7 +1181,6 @@
             },
             {
                 "name": "Lightning Warfare",
-		"uniqueText": "Blitzkrieg",
                 "uniques": [
                     "[+1] Movement <for [Gunpowder] units>",
                     "[+1] Movement <for [Armored] units>",
@@ -1238,7 +1237,7 @@
                     "[+25]% Production when constructing [Military] units [in all cities]",
                     "New [Military] units start with [15] Experience [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["Militarism","Blitzkrieg"],
+                "requires": ["Militarism","Lightning Warfare"],
                 "row": 3,
                 "column": 1
             },
@@ -1247,7 +1246,7 @@
                 "uniques": [
                     "[+20]% [Culture] [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["Fascism","Police State","Blitzkrieg"],
+                "requires": ["Fascism","Police State","Lightning Warfare"],
                 "row": 3,
                 "column": 3
             },
