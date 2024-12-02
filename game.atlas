@@ -10,7 +10,7 @@ NationIcons/Colziand
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Fullysia
+NationIcons/Fully
   rotate: false
   xy: 652, 4
   size: 100, 100
@@ -641,7 +641,7 @@ PolicyIcons/Patriotic War1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Universal Healthcare1
+PolicyIcons/Universal Healthcare
   rotate: false
   xy: 1930, 436
   size: 50, 50
@@ -655,7 +655,7 @@ PolicyIcons/Volunteer Army
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Workers' Faculties1
+PolicyIcons/Workers Faculties
   rotate: false
   xy: 700, 4
   size: 50, 50
@@ -792,7 +792,7 @@ PolicyIcons/Fine Arts1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Five-Year Plan1
+PolicyIcons/Five-Year Plan
   rotate: false
   xy: 1944, 786
   size: 50, 50
@@ -1309,7 +1309,7 @@ PolicyIcons/Cultural Heritage1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Fortified Borders1
+PolicyIcons/Fortified Borders
   rotate: false
   xy: 1862, 1592
   size: 50, 50
@@ -1344,7 +1344,7 @@ PolicyIcons/Creative Expression1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Monarchy1
+NationIcons/Fullysia
   rotate: false
   xy: 616, 296
   size: 50, 50
@@ -1470,7 +1470,7 @@ PolicyIcons/Mercenaries1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Military Tradition1
+PolicyIcons/Military Tradition
   rotate: false
   xy: 940, 674
   size: 50, 50
@@ -1720,7 +1720,7 @@ ReligionIcons/Catholicism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Blitzkrieg1
+PolicyIcons/Fascism
   rotate: false
   xy: 500, 600
   size: 100, 100
