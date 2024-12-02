@@ -1351,7 +1351,7 @@ PolicyIcons/Creative Expression1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Fullysia
+PolicyIcons/Monarchy
   rotate: false
   xy: 616, 296
   size: 50, 50
@@ -1435,7 +1435,7 @@ PolicyIcons/Humanity
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Double Agents1
+PolicyIcons/Double Agents
   rotate: false
   xy: 1164, 734
   size: 50, 50
