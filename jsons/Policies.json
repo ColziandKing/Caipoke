@@ -1185,7 +1185,8 @@
                     "[+1] Movement <for [Gunpowder] units>",
                     "[+1] Movement <for [Armored] units>",
                     "[+1] Movement <for [Great General] units>",
-                    "[+1] Movement <for [Worker] units>"
+                    "[+1] Movement <for [Worker] units>",
+			"Comment [BLITZKRIEG!!!]"
                 ],
                 "requires": ["Militarism","Fascism"],
                 "row": 2,
