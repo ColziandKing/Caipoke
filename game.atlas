@@ -10,7 +10,7 @@ NationIcons/Colziand
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Fully
+NationIcons/Fullysia
   rotate: false
   xy: 652, 4
   size: 100, 100
@@ -72,6 +72,13 @@ repeat: none
 BuildingIcons/Empire Atrium
   rotate: false
   xy: 816, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stronghold
+  rotate: false
+  xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -546,7 +553,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Stronghold
+BuildingIcons/Stronghold1
   rotate: false
   xy: 544, 424
   size: 99, 100
@@ -1344,7 +1351,7 @@ PolicyIcons/Creative Expression1
   orig: 50, 50
   offset: 0, 0
   index: -1
-NationIcons/Fullysia
+PolicyIcons/Fullysia
   rotate: false
   xy: 616, 296
   size: 50, 50
