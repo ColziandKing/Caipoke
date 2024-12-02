@@ -2,9 +2,9 @@
 	{
 		"name": "Seaside Stall",
 		"uniqueTo": "Suzainswellia",
-		"gold": 2,
+		"gold": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 8,
+		"turnsToBuild": 7,
 		"techRequired": "Currency",
 		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
 	},
