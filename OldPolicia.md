@@ -1,4 +1,27 @@
-"All cities provide 1 copy of [Porcelain] luxury resource,"[+2 Food] [in capital]","[+4 Production] from [All] tiles [in capital]",
+"Gain a free [Palengke] [in capital]",
+  { 
+		"name": "Palengke",
+		"replaces": "Market",
+		"uniqueTo": "Suzainswellia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
+		"uniques": [
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (doubled from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; and [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; and [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
+			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
+		],
+		"requiredTech": "Currency"
+	},
+ "All cities provide 1 copy of [Porcelain] luxury resource,"[+2 Food] [in capital]","[+4 Production] from [All] tiles [in capital]",
 			"[+2 Gold] from [All] tiles [in all cities]",
     "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted","Starts with [Order] adopted",
     "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
