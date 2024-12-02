@@ -1180,7 +1180,8 @@
                 "column": 9
             },
             {
-                "name": "Blitzkrieg",
+                "name": "Lightning Warfare",
+		"uniqueText": "Blitzkrieg",
                 "uniques": [
                     "[+1] Movement <for [Gunpowder] units>",
                     "[+1] Movement <for [Armored] units>",
