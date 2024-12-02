@@ -1024,7 +1024,7 @@
                     "[+2 Production, +2 Science] from every [Workshop]",
                     "[+2 Production, +2 Science] from every [Factory]"
                 ],
-                "requires": ["Avant Garde","Creative Expression"],
+                "requires": ["Creative Expression"],
                 "row": 2,
                 "column": 2
             },
@@ -1073,7 +1073,7 @@
                     "[+5 Gold] from every [Customs house]",
                     "[+1 Culture, +1 Science, +1 Faith, +1 Production, +1 Food] from every [Sacred Grove]","Provides [1] [Policies]"
                 ],
-                "requires": ["Avant Garde"],
+                "requires": ["Avant Garde","Urbanization"],
                 "row": 3,
                 "column": 1
             },
