@@ -62,7 +62,7 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","Gain a free [Palengke] [in capital]","Provides [3] [Jewelry]",
+			   "Starts with [Patronage] adopted","Provides [3] [Jewelry]",
 			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Uzaine"],
