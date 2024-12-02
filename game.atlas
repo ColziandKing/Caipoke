@@ -49,7 +49,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-ImprovementIcons/Dry Dock1
+ImprovementIcons/Dry Dock
   rotate: false
   xy: 946, 1152
   size: 100, 100
@@ -634,7 +634,7 @@ PolicyIcons/Elite Forces1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Patriotic War1
+PolicyIcons/Patriotic War
   rotate: false
   xy: 1872, 436
   size: 50, 50
@@ -662,7 +662,7 @@ PolicyIcons/Workers Faculties
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Young Pioneers1
+PolicyIcons/Young Pioneers
   rotate: false
   xy: 758, 4
   size: 50, 50
@@ -1281,7 +1281,7 @@ PolicyIcons/Colonialism1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Conservation1
+PolicyIcons/Conservation
   rotate: false
   xy: 1648, 1434
   size: 50, 50
