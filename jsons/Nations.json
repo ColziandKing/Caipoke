@@ -1517,7 +1517,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Andorra"]
     },
     {
@@ -1529,7 +1529,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Colchis"]
     },
     {
@@ -1541,7 +1541,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Cyrene"]
     },
     {
@@ -1553,7 +1553,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Harappa"]
     },
     {
@@ -1565,7 +1565,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Havana"]
     },
     {
@@ -1577,7 +1577,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Tirana"]
     },
     {
@@ -1589,7 +1589,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Troy"]
     },
     {
@@ -1601,7 +1601,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Valletta"]
     },
     {
@@ -1613,7 +1613,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": [],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
         "cities": ["Bozrah"]
     },
     {
@@ -1721,7 +1721,7 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": [],
         "cities": ["Wittenberg"]
     },
 ]
