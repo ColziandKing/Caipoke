@@ -273,11 +273,9 @@
                 "column": 4
             },
 		{
-                "name": "Elite Forces",
+                "name": "Fortified Borders",
                 "uniques": [
-                    "[+10]% Strength <for [Military] units>",
-			"[+1 Food, +2 Science, +2 Culture] from every [Citadel]",
-                    "[+10] HP when healing <for [Military] units>","Provides [1] [Policies]"
+                    "[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]","Provides [1] [Policies]"
                 ],
                 "requires": ["Nationalism"],
                 "row": 3,
@@ -893,7 +891,7 @@
                 "column": 6
             },
             {
-                "name": "Workers' Faculties",
+                "name": "Workers Faculties",
                 "uniques": [
                     "[+25]% [Science] <in cities with a [Factory]>",
                     "[+100]% Production when constructing [Factory] buildings [in all cities]"
@@ -1121,7 +1119,7 @@
             },
             {
                 "name": "Freedom Complete",
-                "uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length","[-20]% unhappiness from the number of cities","Free [Settler] appears"
+                "uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length","[-20]% unhappiness from the number of cities"
                 ]
             }
         ]
@@ -1208,8 +1206,12 @@
                 "column": 4
             },
             {
-				"name": "Fortified Borders",
-				"uniques": ["[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]"],
+				"name": "Elite Forces",
+				"uniques": [
+					"[+10]% Strength <for [Military] units>",
+			"[+1 Food, +2 Science, +2 Culture] from every [Citadel]",
+                    "[+10] HP when healing <for [Military] units>"
+				],
                 "requires": ["Mobilization","Futurism"],
 				"row": 2,
 				"column": 6
@@ -1253,7 +1255,7 @@
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [25]","Provides [1] [Policies]"
                 ],
-                "requires": ["Mobilization","Fortified Borders","Police State"],
+                "requires": ["Mobilization","Elite Forces","Police State"],
                 "row": 3,
                 "column": 5
             },
@@ -1266,7 +1268,7 @@
                     "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
                     "[+50]% XP gained from combat <for [non-[Air]] units>","Provides [1] [Policies]"
                 ],
-                "requires": ["Futurism","Fortified Borders","Third Alternative"],
+                "requires": ["Futurism","Elite Forces","Third Alternative"],
                 "row": 3,
                 "column": 7
             },
@@ -1281,7 +1283,7 @@
             },
             {
                 "name": "Autocracy Complete",
-                "uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>","[+20]% unhappiness from the number of cities","Free [Settler] appears"
+                "uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>","[+20]% unhappiness from the number of cities"
                 ]
             }
         ]
