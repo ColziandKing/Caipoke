@@ -87,7 +87,7 @@
         "culture": 5,
         "uniques": [
             "Unbuildable","Unsellable","Destroyed when the city is captured",
-            "Only available <when religion is enabled>"
+            "Provides [2] [Jewelry]","Only available <when religion is enabled>"
         ]
     },
 	{
@@ -99,6 +99,25 @@
 			"Hidden when religion is disabled","Unsellable"
 		]
 	},
+	{
+        "name": "Meeting House",
+        "faith": 3,
+        "production": 2,
+        "uniques": [
+            "Unbuildable","Unsellable","Provides [2] [Glass]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+	{
+        "name": "Dar-e Mehr",
+        "food": 2,
+        "faith": 3,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "[+15]% [Faith] [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
     {
         "name": "Mosque",
         "culture": 1,
@@ -106,6 +125,7 @@
         "happiness": 1,
         "uniques": [
             "Unbuildable","Unsellable",
+		"[+15]% Production when constructing [Melee] units [in all cities]",
             "Only available <when religion is enabled>"
         ]
     },
@@ -136,7 +156,7 @@
         "faith": 2,
         "production": 1,
         "uniques": [
-            "Unbuildable","Unsellable",
+            "Unbuildable","Unsellable","Provides [2] [Porcelain]",
             "[+15]% Production when constructing [All] buildings [in this city]",
             "Only available <when religion is enabled>"
         ]
