@@ -862,7 +862,7 @@ PolicyIcons/Merchant Navy1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mobilization1
+PolicyIcons/Mobilization
   rotate: false
   xy: 798, 4
   size: 50, 50
