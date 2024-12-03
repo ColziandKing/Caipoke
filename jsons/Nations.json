@@ -27,8 +27,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
-			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Modern era]>","[+2 Gold] [in capital]",
-			"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+10]% [Science] <when between [10] and [50] Happiness>"],
+			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Modern era]>","[+10]% [Science] <when between [20] and [50] Happiness>"],
     
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
 			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
@@ -63,7 +62,10 @@
 		"uniqueName": "Coastal Express",
 		"uniques": [
 			   "Starts with [Patronage] adopted","Provides [3] [Jewelry]",
-			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]"
+			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]",
+    "Starts with [Autocracy] adopted","Starts with [Freedom] adopted","Starts with [Ideology] adopted","Starts with [Order] adopted",
+    "Starts with [Tradition] adopted","Starts with [Liberty] adopted","Starts with [Patronage] adopted","Starts with [Commerce] adopted",
+    "Starts with [Piety] adopted","Starts with [Rationalism] adopted","Starts with [Honor] adopted",
 		],
 		"spyNames": ["Uzaine"],
 
