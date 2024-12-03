@@ -1,4 +1,5 @@
-"Gain a free [Palengke] [in capital]",
+"[+2 Gold] [in capital]",
+			"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","Gain a free [Palengke] [in capital]",
   { 
 		"name": "Palengke",
 		"replaces": "Market",
