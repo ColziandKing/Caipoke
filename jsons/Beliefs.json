@@ -1,4 +1,9 @@
 [
+    {
+        "name": "Sacred Waters",
+        "type": "Pantheon",
+        "uniques": ["[+2 Happiness] in cities on [River] tiles"]
+    },
   {
         "name": "Meeting House",
         "type": "Follower",
