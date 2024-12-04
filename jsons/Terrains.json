@@ -186,7 +186,7 @@
 		"name": "Tsingey de Bemahara",
 		"type": "NaturalWonder",
 		"culture": 2,
-		"science": 2,
+		"happiness": 2,
 		"occursOn": [
 			"Mountain"
 		],
@@ -670,6 +670,8 @@
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
+		"science": 1,
+		"culture": 1,
 		"occursOn": [
 			"Ocean",
 			"Coast"
