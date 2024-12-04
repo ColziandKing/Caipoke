@@ -21,7 +21,7 @@
 {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["[+15]% growth [in this city] <when not at war>","[+3 Gold] per [4] population [in all cities]","[+2 Faith, +1 Happiness] [in all cities] <when at war>"]
+        "uniques": ["[+15]% growth [in this city] <when not at war>","[+3 Gold] per [4] population [in all cities]","[+3 Culture, +2 Faith, +1 Happiness] [in all cities] <when at war>"]
     }
 {
         "name": "Iconoclasm",
