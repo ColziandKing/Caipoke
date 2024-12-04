@@ -1,4 +1,45 @@
-"[+2 Gold] [in capital]",
+{
+        "name": "Holy Order",
+        "type": "Enhancer",
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+    },
+    {
+        "name": "Itinerant Preachers",
+        "type": "Enhancer",
+        "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
+    },
+    {
+        "name": "Just War",
+        "type": "Enhancer",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        // ToDo: Should only be enemy territory of cities that follow this religion
+    },
+    {
+        "name": "Messiah",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+    },
+    {
+        "name": "Missionary Zeal",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
+    },
+    {
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+    },
+    {
+        "name": "Religious Unity",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
+    },
+    {
+        "name": "Reliquary",
+        "type": "Enhancer",
+        "uniques": ["Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+    }
+    "[+2 Gold] [in capital]",
 			"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","Gain a free [Palengke] [in capital]",
   { 
 		"name": "Palengke",
