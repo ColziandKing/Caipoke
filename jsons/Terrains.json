@@ -137,73 +137,6 @@
 		"weight": 10
 	},
 	{
-		"name": "Mount Roraima",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Grassland",
-			"Plains"
-		],
-		"uniques": [
-			"Must be adjacent to [0] [Mountain] tiles",
-			"Occurs on latitudes from [10] to [60] percent of distance equator to pole",
-			"Occurs in groups of [4] to [4] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Mount Vesuvius",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Mountain"
-		],
-		"uniques": [
-			"Must be adjacent to [0] [Mountain] tiles",
-			"Occurs on latitudes from [20] to [80] percent of distance equator to pole",
-			"Occurs in groups of [1] to [1] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Paititi",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Desert"
-		],
-		"uniques": [
-			"Must be adjacent to [2] to [6] [Desert] tiles",
-			"Occurs on latitudes from [20] to [80] percent of distance equator to pole",
-			"Occurs in groups of [3] to [3] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Pamukkale",
-		"type": "NaturalWonder",
-		"Happiness": 1,
-		"occursOn": [
-			"Mountain"
-		],
-		"uniques": [
-			"Fresh water",
-			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
-			"Occurs in groups of [2] to [2] tiles",
-			"Tile provides yield without assigned population"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
 		"name": "Pantanal",
 		"type": "NaturalWonder",
 		"food": "2",
@@ -219,61 +152,6 @@
 		],
 		"turnsInto": "Grassland",
 		"impassable": false,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Piopiotahi",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Grassland",
-			"Plains",
-			"Desert",
-			"Hill"
-		],
-		"uniques": [
-			"Must be adjacent to [2] to [4] [Coast] tiles",
-			"Occurs on latitudes from [20] to [70] percent of distance equator to pole",
-			"Occurs in groups of [3] to [3] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Sahara el Beyda",
-		"type": "NaturalWonder",
-		"science": "1",
-		"culture": "1",
-		"gold": "4",
-		"overrideStats": true,
-		"occursOn": [
-			"Desert"
-		],
-		"uniques": [
-			"Must be adjacent to [3] to [6] [Desert] tiles",
-			"Occurs on latitudes from [0] to [70] percent of distance equator to pole",
-			"Occurs in groups of [4] to [4] tiles"
-		],
-		"turnsInto": "Desert",
-		"impassable": false,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Torres del Paine",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Mountain"
-		],
-		"uniques": [
-			"Must be adjacent to [0] [Mountain] tiles",
-			"Occurs on latitudes from [30] to [100] percent of distance equator to pole",
-			"Occurs in groups of [2] to [2] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
 	},
@@ -294,24 +172,6 @@
 		"weight": 10
 	},
 	{
-		"name": "Ubsunur Hollow",
-		"type": "NaturalWonder",
-		"food": "1",
-		"production": "1",
-		"faith": "2",
-		"overrideStats": true,
-		"occursOn": [
-			"Tundra"
-		],
-		"uniques": [
-			"Occurs in groups of [4] to [4] tiles"
-		],
-		"turnsInto": "Grassland",
-		"impassable": false,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
 		"name": "Uluru",
 		"type": "NaturalWonder",
 		"occursOn": [
@@ -323,23 +183,6 @@
 			"Occurs in groups of [1] to [1] tiles"
 		],
 		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Yosemite",
-		"type": "NaturalWonder",
-		"occursOn": [
-			"Plains"
-		],
-		"overrideStats": true,
-		"uniques": [
-			"Must be adjacent to [0] [Mountain] tiles",
-			"Occurs on latitudes from [30] to [90] percent of distance equator to pole",
-			"Occurs in groups of [2] to [2] tiles"
-		],
-		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
@@ -805,15 +648,5 @@
 			"[-1] to Fertility for Map Generation",
 			"Considered [Undesirable] when determining start locations"
 		]
-	},
-	/*
-	{
-		"name": "Atoll",
-		"type": "TerrainFeature",
-		"movementCost": 1,
-		"food": 1,
-		"production": 1,
-		"occursOn": ["Coast"],
-		"uniques": ["Rare feature"]
 	},
 ]
