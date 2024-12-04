@@ -4,7 +4,8 @@
         "type": "Pantheon",
         "uniques": [
             "[+2 Faith] from every [Geothermal Fissure]",
-            "[+2 Faith] from every [Volcanic Soil]"
+            "[+2 Faith] from every [Volcanic Soil]",
+            "[+2 Faith] from every [Volcano]"
         ]
     },
     {
@@ -55,7 +56,7 @@
             "Only available <after adopting [Mysticism]>"]
   },
   {
-    "name": "Strong Panentheism",
+    "name": "Panentheism",
     "type": "Pantheon",
     "uniques": ["[+2]% [Culture] from every follower, up to [30]%", "[+2 Gold, +2 Faith] from each Trade Route",
             "Only available <after adopting [Mysticism]>"]
@@ -68,7 +69,7 @@
 {
         "name": "Iconoclasm",
         "type": "Founder",
-        "uniques": ["[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+        "uniques": ["[+5 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
                     "[-1 Happiness, -2 Faith] from every [Dyes]"]
     },
     {
