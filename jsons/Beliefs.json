@@ -2,7 +2,20 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness] in cities on [River] tiles"]
+        "uniques": ["[+2 Happiness] in cities on [River] tiles",
+            "Only available <after adopting [Mysticism]>"]
+    },
+    {
+        "name": "Holy Order",
+        "type": "Enhancer",
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%",
+            "Only available <after adopting [Reformation]>"]
+    },
+    {
+        "name": "Itinerant Preachers",
+        "type": "Enhancer",
+        "uniques": ["Religion naturally spreads to cities [+3] tiles away",
+            "Only available <after adopting [Reformation]>"]
     },
   {
         "name": "Meeting House",
@@ -18,6 +31,12 @@
         "name": "Dar-e Mehr",
         "type": "Follower",
         "uniques": ["May buy [Dar-e Mehr] buildings for [255] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
+            "Only available <after adopting [Reformation]>"]
     },
  {
         "name": "Sacred Sites",
