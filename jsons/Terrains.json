@@ -49,8 +49,7 @@
 			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Occurs on latitudes from [0] to [60] percent of distance equator to pole",
-			"Occurs in groups of [1] to [1] tiles",
-			"Grants [Water of Life] ([+10 HP when healing]) to adjacent [Land] units for the rest of the game"
+			"Occurs in groups of [1] to [1] tiles","Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game"
 		],
 		"turnsInto": "Grassland",
 		"impassable": false,
