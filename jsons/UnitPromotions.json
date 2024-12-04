@@ -3,4 +3,8 @@
 		"name": "[Zero] ability",
 		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
 	},
+	{
+		"name": "Altitude Training",
+		"uniques": ["Double movement in [Hill]","[+10]% Strength <when fighting in [Hill] tiles>"]
+	},
 ]
