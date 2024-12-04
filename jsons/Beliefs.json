@@ -1,5 +1,15 @@
 [
     {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+    },
+{
+        "name": "Jihad",
+        "type": "Follower"
+        "uniques": ["[+15]% Production when constructing [All] units [in cities following this religion]"]
+    },
+    {
         "name": "Sacred Waters",
         "type": "Pantheon",
         "uniques": ["[+2 Happiness] in cities on [River] tiles",
