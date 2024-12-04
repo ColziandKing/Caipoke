@@ -1,5 +1,36 @@
 [
     {
+        "name": "Fire Godess",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Faith] from every [Geothermal Fissure]",
+            "[+2 Faith] from every [Volcanic Soil]"
+        ]
+    },
+    {
+        "name": "Religious Settlements",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [Settler] units [in this city]",
+            "[-15]% Culture cost of natural border growth [in this city]",
+            "Only available <after adopting [Mysticism]>"
+        ]
+    },
+    {
+        "name": "City Patron Deity",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <before the [Classical era]>"
+        ]
+    },
+    {
+        "name": "City Patron Saint",
+        "type": "Follower",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <after the [Classical era]>"
+        ]
+    },
+    {
         "name": "Asceticism",
         "type": "Follower",
         "uniques": ["[+2 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
@@ -10,10 +41,11 @@
         "uniques": ["[+15]% Production when constructing [All] units [in cities following this religion]"]
     },
     {
-        "name": "Sacred Waters",
+        "name": "God of the Forge",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness] in cities on [River] tiles",
-            "Only available <after adopting [Mysticism]>"]
+        "uniques": [
+            "[+25]% Production when constructing [Military] units [in this city] <before the [Medieval era]>"
+        ]
     },
   {
     "name": "One Supreme God",
