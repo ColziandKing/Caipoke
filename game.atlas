@@ -676,6 +676,20 @@ PolicyIcons/Young Pioneers
   orig: 50, 50
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/King Solomon's Mines
+  rotate: false
+  xy: 1408, 394
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake Victoria
+  rotate: false
+  xy: 816, 20
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
 
 game9.png
 size: 2048, 256
