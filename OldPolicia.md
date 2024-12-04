@@ -1,4 +1,5 @@
 
+			"Grants [Water of Life] ([+10 HP when healing]) to adjacent [Land] units for the rest of the game"
 	/*
 	{
 		"name": "Atoll",
