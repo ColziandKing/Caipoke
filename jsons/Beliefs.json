@@ -5,6 +5,30 @@
         "uniques": ["[+2 Happiness] in cities on [River] tiles",
             "Only available <after adopting [Mysticism]>"]
     },
+  {
+    "name": "One Supreme God",
+    "type": "Pantheon",
+    "uniques": ["[+35]% Great Person generation [in cities following this religion]",
+      "[+2]% [Gold] from every follower, up to [20]%",
+            "Only available <after adopting [Mysticism]>"]
+  },
+  {
+    "name": "Strong Panentheism",
+    "type": "Pantheon",
+    "uniques": ["[+2]% [Culture] from every follower, up to [30]%", "[+2 Gold, +2 Faith] from each Trade Route",
+            "Only available <after adopting [Mysticism]>"]
+  },
+{
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["[+15]% growth [in this city] <when not at war>","[+3 Gold] per [4] population [in all cities]","[+2 Faith, +1 Happiness] [in all cities] <when at war>"]
+    }
+{
+        "name": "Iconoclasm",
+        "type": "Founder",
+        "uniques": ["[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+                    "[-1 Happiness, -2 Faith] from every [Dyes]"]
+    },
     {
         "name": "Holy Order",
         "type": "Enhancer",
