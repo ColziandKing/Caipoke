@@ -1,4 +1,14 @@
 
+	/*
+	{
+		"name": "Atoll",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"food": 1,
+		"production": 1,
+		"occursOn": ["Coast"],
+		"uniques": ["Rare feature"]
+	},
 
 	// Natural Wonders
 	{
