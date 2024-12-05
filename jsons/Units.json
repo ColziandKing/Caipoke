@@ -8,7 +8,7 @@
 		"range": 10,
 		"cost": 600,
 		"requiredTech": "Iron Working",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
 			"Blast radius [2]"],
