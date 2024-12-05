@@ -127,7 +127,10 @@
             {
                 "name": "Horseback Riding",
                 "row": 5,
-                "prerequisites": ["Trapping","The Wheel"],
+                "prerequisites": ["Trapping","The Wheel"],,
+                "uniques": [
+                            "Gain an extra spy"
+                ]
                 "quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
             },
             {
@@ -264,6 +267,9 @@
                 "name": "Physics",
                 "row": 9,
                 "prerequisites": ["Metal Casting"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
             },
             {
