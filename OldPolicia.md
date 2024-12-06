@@ -1,4 +1,38 @@
 
+    
+    {
+        "name": "Haciendo",
+        "replaces": "Colosseum",
+        "uniqueTo": "Gran Colombia",
+        "production": 2,
+        "gold": 3,
+        "culture": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction",
+        "uniques": [
+            "[+3 Production, +2 Gold] <after discovering [Industrialization]>"
+        ]
+    },
+,
+    "Starts with [Autocracy] adopted","Starts with [Militarism] adopted","Starts with [Fascism] adopted","Starts with [Mobilization] adopted",
+    "Starts with [Futurism] adopted","Starts with [Industrial Espionage] adopted"
+
+    {
+        "name": "Itinerant Preachers",
+        "type": "Enhancer",
+        "uniques": ["Religion naturally spreads to cities [+3] tiles away",
+            "Only available <after adopting [Reformation]>"]
+    },
+
+    {
+        "name": "Religious Settlements",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [Settler] units [in this city]",
+            "[-15]% Culture cost of natural border growth [in this city]",
+            "Only available <after adopting [Mysticism]>"
+        ]
+    },
 			"Grants [Water of Life] ([+10 HP when healing]) to adjacent [Land] units for the rest of the game"
 	/*
 	{
