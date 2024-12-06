@@ -62,10 +62,8 @@
 
 		"uniqueName": "Coastal Express",
 		"uniques": [
-			   "Starts with [Patronage] adopted","Provides [3] [Jewelry]",
-			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]",
-    "Starts with [Freedom] adopted","Starts with [Avant Garde] adopted","Starts with [Creative Expression] adopted","Starts with [Civil Society] adopted",
-    "Starts with [Volunteer Army] adopted","Starts with [Covert Action] adopted"
+			   "Starts with [Maritime Infrastructure] adopted","Provides [3] [Jewelry]",
+			"May buy [Synagogue] buildings for [150] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Uzaine"],
 
@@ -97,10 +95,8 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
-				"Starts with [Exploration] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [3] [Porcelain]","May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]",
-    "Starts with [Order] adopted","Starts with [Party Leadership] adopted","Starts with [Socialist Realism] adopted","Starts with [Patriotic War] adopted",
-    "Starts with [Double Agents] adopted","Starts with [Young Pioneers] adopted"
+				"Starts with [Consulates] adopted","Gain an extra spy <upon entering the [Industrial era]>",
+			"Provides [3] [Porcelain]","May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Kyoto","Osaka","Tokyo"]
