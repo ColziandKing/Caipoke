@@ -127,10 +127,10 @@
             {
                 "name": "Horseback Riding",
                 "row": 5,
-                "prerequisites": ["Trapping","The Wheel"],,
+                "prerequisites": ["Trapping","The Wheel"],
                 "uniques": [
                             "Gain an extra spy"
-                ]
+                ],
                 "quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
             },
             {
@@ -214,6 +214,9 @@
                 "name": "Guilds",
                 "row": 7,
                 "prerequisites": ["Currency"],
+                "uniques": [
+                            "Gain an extra spy"
+                ],
                 "quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
             },
             {
@@ -358,6 +361,9 @@
                 "name": "Chemistry",
                 "row": 10,
                 "prerequisites": ["Gunpowder"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
             }
         ]
@@ -379,6 +385,9 @@
                 "name": "Scientific Theory",
                 "row": 4,
                 "prerequisites": ["Architecture","Economics"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
             },
             {
@@ -510,6 +519,9 @@
                 "name": "Combustion",
                 "row": 8,
                 "prerequisites": ["Railroads"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
             }
         ]
