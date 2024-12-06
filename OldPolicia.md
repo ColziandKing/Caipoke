@@ -1,3 +1,4 @@
+"[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
 ,
     "Starts with [Order] adopted","Starts with [Party Leadership] adopted","Starts with [Socialist Realism] adopted","Starts with [Patriotic War] adopted",
     "Starts with [Double Agents] adopted","Starts with [Young Pioneers] adopted",
