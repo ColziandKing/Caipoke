@@ -90,7 +90,7 @@
 		"faith": 3,
 		"cityStrength": 25,
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Suzainswellia",
 		"requiredTech": "Steel"
 		"uniques": [
 			"Only available <in cities with a [Kingdom Hall]>","Free Social Policy","Free Technology"
