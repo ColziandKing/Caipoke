@@ -3,7 +3,7 @@
     "Starts with [Order] adopted","Starts with [Party Leadership] adopted","Starts with [Socialist Realism] adopted","Starts with [Patriotic War] adopted",
     "Starts with [Double Agents] adopted","Starts with [Young Pioneers] adopted",
     "Starts with [Freedom] adopted","Starts with [Avant Garde] adopted","Starts with [Creative Expression] adopted","Starts with [Civil Society] adopted",
-    "Starts with [Volunteer Army] adopted","Starts with [Covert Action] adopted"
+    "Starts with [Volunteer Army] adopted","Starts with [Covert Action] adopted""[+4 Gold] from each Trade Route",
     
     {
         "name": "Haciendo",
