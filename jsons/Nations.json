@@ -948,7 +948,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
-		"uniques": ["[+2 Production] from every [Farm]","[+2 Food] from every [Terrace farm]"],
+		"uniques": ["Starts with [Humanity] adopted","[+2 Production] from every [Farm]","[+2 Food] from every [Terrace farm]","[+2 Food] from every [Polder]"],
 		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
 			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag"
