@@ -182,19 +182,6 @@
         ]
     },
 	//yss
-    {
-        "name": "Haciendo",
-        "replaces": "Colosseum",
-        "uniqueTo": "Gran Colombia",
-        "production": 2,
-        "gold": 3,
-        "culture": 1,
-        "hurryCostModifier": 25,
-        "requiredTech": "Construction",
-        "uniques": [
-            "[+3 Production, +2 Gold] <after discovering [Industrialization]>"
-        ]
-    },
 	{
         "name": "Mekewap",
         "replaces": "Shrine",
