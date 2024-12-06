@@ -102,9 +102,8 @@
 		"uniqueTo": "Fullysia",
 		"replaces": "Barracks",
 		"hurryCostModifier": 35,
-		"gold": 2,
 		"science": 1,
-		"maintenance": 3,
+		"maintenance": 2,
 		"uniques": [
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion",
 			"New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured"
