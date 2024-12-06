@@ -18,6 +18,15 @@
                 "column": 1
             },
             {
+                "name": "Oligarchy",
+                "uniques": [
+                    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+                    "[+50]% Production when constructing [Courthouse] buildings [in all cities]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
@@ -32,19 +41,9 @@
                     "[+2 Culture] from every [Hermitage]",
                     "[+2 Culture] from every [National Intelligence Agency]"
                 ],
-		"requires": ["Military Tradition"],
+		"requires": ["Oligarchy"],
                 "row": 2,
                 "column": 4
-            },
-            {
-                "name": "Military Tradition",
-                "uniques": [
-            "[+33]% Strength <vs [Barbarian] units>", 
-            "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments"
-                ],
-                "row": 1,
-                "column": 5
             },
 		{
                 "name": "Feasts & Festivals",
@@ -220,10 +219,11 @@
                 "column": 1
             },
             {
-                "name": "Oligarchy",
+                "name": "Military Tradition",
                 "uniques": [
-                    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-                    "[+50]% Production when constructing [Courthouse] buildings [in all cities]"
+            "[+44]% Strength <vs [Barbarian] units>", 
+            "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			"Notified of new Barbarian encampments"
                 ],
                 "row": 1,
                 "column": 4
@@ -243,7 +243,7 @@
                 "uniques": [
                     "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
-		"requires": ["Warrior Code","Oligarchy","Discipline"],
+		"requires": ["Warrior Code","Military Tradition","Discipline"],
                 "row": 2,
                 "column": 4
             },
