@@ -49,8 +49,8 @@
 		"happiness": 1,
 		"production": 1,
 		"science": 1,
-		"gold": 1,
-		"culture": 1,
+		"gold": 2,
+		"culture": 2,
 		"faith": 1,
 		"cityStrength": 25,
 		"cost": 100,
@@ -93,7 +93,7 @@
 		"uniqueTo": "Suzainswellia",
 		"requiredTech": "Steel"
 		"uniques": [
-			"Only available <in cities with a [Kingdom Hall]>","Free Social Policy","Free Technology"
+			"Free Social Policy","Free Technology"
 		],
 		"quote": "'Long it has started and now it still continues, our Lord leads us.' - Colziand King"
 	},
@@ -103,7 +103,7 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 35,
 		"science": 1,
-		"maintenance": 2,
+		"maintenance": 3,
 		"uniques": [
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion",
 			"New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured"
