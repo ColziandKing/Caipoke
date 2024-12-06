@@ -922,7 +922,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Cultural Centers] adopted","Provides [3] [Glass]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
+			"Starts with [Cultural Centers] adopted","Provides [3] [Glass]","Gain an extra spy <upon entering the [Modern era]>",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Cannot build [Archery] units",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
