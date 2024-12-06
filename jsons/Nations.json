@@ -1031,7 +1031,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Baku"]
     },
     {
@@ -1043,7 +1044,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Chaco Canyon"]
     },
     {
@@ -1055,7 +1057,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Djibouti"]
     },
     {
@@ -1067,7 +1070,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Kuala Lumpur"]
     },
     {
@@ -1079,7 +1083,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230,230,230],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Kuwait City"]
     },
     {
@@ -1091,7 +1096,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [0, 163, 181],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Kyzyl"]
     },
     {
@@ -1103,7 +1109,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18,204,245],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Ljubljana"]
     },
     {
@@ -1115,7 +1122,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Luxembourg"]
     },
     {
@@ -1127,7 +1135,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Monaco"]
     },
     {
@@ -1139,7 +1148,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Montevideo"]
     },
     {
@@ -1151,7 +1161,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Nicosia"]
     },
     {
@@ -1163,7 +1174,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128,255,128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Reykjavik"]
     },
     {
@@ -1175,7 +1187,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Teheran"]
     },
     {
@@ -1187,7 +1200,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Thimphu"]
     },
     {
@@ -1199,7 +1213,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
         "cities": ["Ceygoa"]
     },
     {
@@ -1211,7 +1226,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Bangkok"]
     },
     {
@@ -1223,7 +1239,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Cape Town"]
     },
     {
@@ -1235,7 +1252,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54,102,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Islamabad"]
     },
     {
@@ -1247,7 +1265,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Kampala"]
     },
     {
@@ -1259,7 +1278,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Lima"]
     },
     {
@@ -1271,7 +1291,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Lusaka"]
     },
     {
@@ -1283,7 +1304,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Mogadishu"]
     },
     {
@@ -1295,7 +1317,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Ormus"]
     },
     {
@@ -1307,7 +1330,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Panama City"]
     },
     {
@@ -1319,7 +1343,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Paramaribo"]
     },
     {
@@ -1331,7 +1356,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [25,75,235],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Phnom Penh"]
     },
     {
@@ -1343,7 +1369,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Port-au-Prince"]
     },
     {
@@ -1355,7 +1382,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18,204,245],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Riga"]
     },
     {
@@ -1367,7 +1395,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [0,163,181],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
         "cities": ["Santo Domingo"]
     },
     {
@@ -1379,7 +1408,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 230, 230],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Cahokia"]
     },
     {
@@ -1391,7 +1421,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Colombo"]
     },
     {
@@ -1403,7 +1434,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [25, 75, 235],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Dubai"]
     },
     {
@@ -1415,7 +1447,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Gaborone"]
     },
     {
@@ -1427,7 +1460,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Hong Kong"]
     },
     {
@@ -1439,7 +1473,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Lagos"]
     },
     {
@@ -1451,7 +1486,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Malacca"]
     },
     {
@@ -1463,7 +1499,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Maseru"]
     },
     {
@@ -1475,7 +1512,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Mohenjo-Daro"]
     },
     {
@@ -1487,7 +1525,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Singapore"]
     },
     {
@@ -1499,7 +1538,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [0, 163, 181],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Tallinn"]
     },
     {
@@ -1511,7 +1551,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Trieste"]
     },
     {
@@ -1523,7 +1564,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Vaduz"]
     },
     {
@@ -1535,7 +1577,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
         "cities": ["Zurich"]
     },
     {
@@ -1547,7 +1590,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Andorra"]
     },
     {
@@ -1559,7 +1603,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Colchis"]
     },
     {
@@ -1571,7 +1616,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Cyrene"]
     },
     {
@@ -1583,7 +1629,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Harappa"]
     },
     {
@@ -1595,7 +1642,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Havana"]
     },
     {
@@ -1607,7 +1655,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Tirana"]
     },
     {
@@ -1619,7 +1668,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Troy"]
     },
     {
@@ -1631,7 +1681,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Valletta"]
     },
     {
@@ -1643,7 +1694,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Bozrah"]
     },
     {
@@ -1655,7 +1707,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
         "cities": ["Damascus"]
     },
     {
@@ -1667,7 +1720,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [25, 75, 235],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Geneva"]
     },
     {
@@ -1679,7 +1733,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Ife"]
     },
     {
@@ -1691,7 +1746,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Kathmandu"]
     },
     {
@@ -1703,7 +1759,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["La Venta"]
     },
     {
@@ -1715,7 +1772,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Qufu"]
     },
     {
@@ -1727,7 +1785,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Sarajevo"]
     },
     {
@@ -1739,7 +1798,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [230, 230, 230],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Taipei"]
     },
     {
@@ -1751,7 +1811,8 @@
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
-        "uniques": [],
+        "uniques": [
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Wittenberg"]
     },
 ]
