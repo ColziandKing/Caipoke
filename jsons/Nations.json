@@ -26,8 +26,8 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
-		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
-			"Starts with [Monarchy] adopted","[+10]% [Science] <when between [20] and [50] Happiness>",
+		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>",
+			"Starts with [Monarchy] adopted","[+10]% [Food] <when between [20] and [50] Happiness>",
 			"[+10]% [Faith] <when between [-10] and [-100] Happiness>"],
     
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
