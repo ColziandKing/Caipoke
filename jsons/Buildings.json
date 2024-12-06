@@ -1,5 +1,33 @@
 [
 	{
+        "name": "Great Mosque of Djenne",
+        "culture": 3,
+        "faith": 6,
+        "happiness": 3,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "isWonder": true,
+        "uniques": [
+            "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
+            "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+            "Only available <when religion is enabled>"
+        ],
+        "requiredTech": "Philosophy",
+        "quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
+    },
+    {
+        "name": "Hagia Sophia",
+        "faith": 3,
+        "isWonder": true,
+        "uniques": [
+            "Gain a free [Temple] [in this city]",
+            "Free [Great Prophet] appears",
+            "Only available <after adopting [Piety]>",
+            "Only available <when religion is enabled>"
+        ],
+        "requiredTech": "Theology",
+        "quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
+    },
+	{
         "name": "Edukasa",
         "replaces": "University",
         "uniqueTo": "Colziand",
