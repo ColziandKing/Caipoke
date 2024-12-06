@@ -3,7 +3,7 @@
         "name": "Tradition",
         "era": "Ancient era",
         "uniques": [
-            "[+3 Culture] from every [Palace]", "Free Social Policy",
+            "[+3 Culture] from every [Palace]", "Free Social Policy", "Free Social Policy",
             "[-25]% Culture cost of natural border growth [in all cities]",
             "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]"
         ],
@@ -99,7 +99,7 @@
         "name": "Liberty",
         "era": "Classical era",
         "uniques": [
-            "[+1 Culture] [in all cities]", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
+            "[+1 Culture] [in all cities]", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
         "policies": [
 		{
@@ -203,7 +203,7 @@
         "name": "Honor",
         "era": "Ancient era",
         "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy",
+			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
                     "[+50]% Strength for cities <with a garrison> <when attacking>",
 		"[+15]% Production when constructing [Melee] units [in all cities]",
             "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
