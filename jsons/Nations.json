@@ -1,5 +1,5 @@
-[
-	
+
+[	
 	{
 		"name": "Great Britain",
 		"leaderName": "Edmund Blackadder",
@@ -27,8 +27,8 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>","[+4 Gold] from each Trade Route",
-			"Starts with [Liberty] adopted","Starts with [Monarchy] adopted","[+10]% [Science] <when between [20] and [50] Happiness>",
-			"[+10]% [Faith] <when between [-10] and [-100] Happiness>","Gain an extra spy <upon entering the [Modern era]>"],
+			"Starts with [Monarchy] adopted","[+10]% [Science] <when between [20] and [50] Happiness>",
+			"[+10]% [Faith] <when between [-10] and [-100] Happiness>"],
     
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
 			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
@@ -926,11 +926,9 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Aesthetics] adopted","Provides [3] [Glass]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
+			"Starts with [Cultural Centers] adopted","Provides [3] [Glass]","[+3 Happiness, +1 Faith, +2 Food] from every [Palace]",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Cannot build [Archery] units",
-			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]",
-    "Starts with [Autocracy] adopted","Starts with [Militarism] adopted","Starts with [Fascism] adopted","Starts with [Mobilization] adopted",
-    "Starts with [Futurism] adopted","Starts with [Industrial Espionage] adopted"
+			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
