@@ -9,15 +9,6 @@
         ]
     },
     {
-        "name": "Religious Settlements",
-        "type": "Pantheon",
-        "uniques": [
-            "[+25]% Production when constructing [Settler] units [in this city]",
-            "[-15]% Culture cost of natural border growth [in this city]",
-            "Only available <after adopting [Mysticism]>"
-        ]
-    },
-    {
         "name": "City Patron Deity",
         "type": "Pantheon",
         "uniques": [
@@ -77,12 +68,6 @@
         "type": "Enhancer",
         "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
     },
-    {
-        "name": "Itinerant Preachers",
-        "type": "Enhancer",
-        "uniques": ["Religion naturally spreads to cities [+3] tiles away",
-            "Only available <after adopting [Reformation]>"]
-    },
   {
         "name": "Meeting House",
         "type": "Follower",
@@ -101,7 +86,7 @@
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
+        "uniques": ["[+44]% Natural religion spread [in all cities]", "[+44]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
             "Only available <after adopting [Reformation]>"]
     },
  {
