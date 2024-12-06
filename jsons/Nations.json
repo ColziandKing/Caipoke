@@ -33,7 +33,7 @@
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
 			"Dover","Brighton","Norwich","Reading","Richmond","Exeter","Cambridge","Gloucester",
 			"Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Mumbles","Leeds",
-			"Sheffield","Salisbury","Colchester","Lancaster","Blackpool","Winchester","Hull"],
+			"Sheffield","Salisbury","Colchester","Lancaster","Blackpool","Winchester","Hull","New Zealand"],
         "spyNames": ["Baldrick", "Percy Percy", "George", "Melchett", "Darling", "Flashheart", "Bob", "Nursie", "Queenie", "Miggins"]
     },
 	{
@@ -68,7 +68,7 @@
 		],
 		"spyNames": ["Uzaine"],
 
-		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa"]
+		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
 	{
 		"name": "Fullysia",
@@ -100,7 +100,7 @@
 			"Provides [3] [Porcelain]","May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Ullysia"],
-		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Kyoto","Osaka","Tokyo"]
+		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
     {
         "name": "Israel",
@@ -918,7 +918,7 @@
 		"hateHello": "You speak in pride, I don't wanna hear it",
 		"tradeRequest": "It appears that you have a golden interest of our goods",
 		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Davao", "Ravdon Mond", "Sabert Zhang", 
-			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
+			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno", "America"],
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
@@ -953,7 +953,7 @@
 			"[+2 Production] from every [Farm]","[+2 Food] from every [Terrace farm]","[+2 Food] from every [Polder]"],
 		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
-			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag"
+			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag","Sabah-Borneo"
 	   		]
 	},
 	{
