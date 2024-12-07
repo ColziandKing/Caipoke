@@ -1335,6 +1335,13 @@
             "row": 1,
             "column": 5
         },
+            {
+                "name": "Free Religion",
+                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "requires": ["Populism"],
+                "row": 3,
+                "column": 4
+            },
         {
             "name": "Mass Media",
             "uniques": [
