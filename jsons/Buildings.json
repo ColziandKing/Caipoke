@@ -163,6 +163,7 @@
 		"maintenance": 3,
 		"uniques": [
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion",
+			"All newly-trained [relevant] units [in this city] receive the [Logistics] promotion",
 			"New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured"
 			],
 		"requiredTech": "Bronze Working"
