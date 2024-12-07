@@ -96,7 +96,7 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
-				"Starts with [Consulates] adopted","Gain an extra spy <upon entering the [Industrial era]>",
+				"Starts with [Conservation] adopted","Gain an extra spy <upon entering the [Industrial era]>",
 			"Provides [3] [Porcelain]","May buy [Cathedral] buildings for [125] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Ullysia"],
@@ -923,7 +923,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": [
-			"Starts with [Cultural Centers] adopted","Provides [3] [Glass]","Gain an extra spy <upon entering the [Information era]>",
+			"Starts with [Landed Elite] adopted","Provides [3] [Glass]","Gain an extra spy <upon entering the [Information era]>",
 			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Cannot build [Archery] units",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
@@ -949,7 +949,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
-		"uniques": ["Gain an extra spy <upon entering the [Modern era]>","Starts with [Humanity] adopted",
+		"uniques": ["Gain an extra spy <upon entering the [Modern era]>","Starts with [Navigation School] adopted",
 			"[+2 Production] from every [Farm]","[+2 Food] from every [Terrace farm]","[+2 Food] from every [Polder]"],
 		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
