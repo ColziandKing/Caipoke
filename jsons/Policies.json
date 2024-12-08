@@ -387,7 +387,7 @@
             {
                 "name": "Consulates",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]","City-State territory always counts as friendly territory"
+                    "Resting point for Influence with City-States is increased by [30]","City-State territory always counts as friendly territory"
                 ],
                 "row": 1,
                 "column": 1
