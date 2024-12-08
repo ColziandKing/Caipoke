@@ -424,7 +424,7 @@
                     "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
-                "requires": ["Educated Elite"],
+                "requires": ["Philanthropy"],
                 "row": 2,
                 "column": 3
             },
