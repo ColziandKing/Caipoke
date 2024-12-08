@@ -96,7 +96,7 @@
     },
     {
         "name": "Liberty",
-        "era": "Classical era",
+        "era": "Ancient era",
         "uniques": [
             "[+1 Culture] [in all cities]", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
@@ -293,7 +293,7 @@
     },
     {
         "name": "Piety",
-        "era": "Ancient era",
+        "era": "Classical era",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
@@ -378,7 +378,7 @@
     },
     {
         "name": "Patronage",
-        "era": "Medieval era",
+        "era": "Classical era",
         "uniques": ["Free Social Policy",
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]"
@@ -542,7 +542,7 @@
             "Comment [Unlocks [The Louvre]]",
             "Comment [Unlocks [Conquistador]]","Provides [1] [Policies]"
         ],
-        "era": "Renaissance era",
+        "era": "Medieval era",
         "policies": [
             {
                 "name": "Naval Tradition",
@@ -624,7 +624,7 @@
     },
 	{
         "name": "Aesthetics",
-        "era": "Classical era",
+        "era": "Renaissance era",
         "uniques": [ "Free Social Policy",
             "[Great Artist] is earned [25]% faster",
             "[Great Writer] is earned [25]% faster",
