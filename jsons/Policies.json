@@ -4,7 +4,7 @@
         "era": "Ancient era",
         "uniques": [
             "[+3 Culture] from every [Palace]", "Free Social Policy", "Free Social Policy",
-            "[-25]% Culture cost of natural border growth [in all cities]",
+            "[-25]% Culture cost of natural border growth [in all cities]","Free Social Policy", 
             "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]"
         ],
         "policies": [
@@ -98,7 +98,7 @@
         "name": "Liberty",
         "era": "Ancient era",
         "uniques": [
-            "[+1 Culture] [in all cities]", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
+            "[+1 Culture] [in all cities]", "Free Social Policy", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
         "policies": [
 		{
@@ -203,7 +203,7 @@
         "era": "Ancient era",
         "uniques": [
 			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>","Free Social Policy", 
 		"[+15]% Production when constructing [Melee] units [in all cities]",
             "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
         ],
@@ -297,7 +297,7 @@
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy",
+            "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy","Free Social Policy", 
             "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]"
         ],
         "policies": [
@@ -379,7 +379,7 @@
     {
         "name": "Patronage",
         "era": "Classical era",
-        "uniques": ["Free Social Policy",
+        "uniques": ["Free Social Policy","Free Social Policy", 
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]"
         ],
@@ -453,7 +453,7 @@
     {
         "name": "Commerce",
         "uniques": [
-            "[Great Merchant] is earned [33]% faster", "Free Social Policy",
+            "[Great Merchant] is earned [33]% faster", "Free Social Policy","Free Social Policy", 
             "Comment [Unlocks [Big Ben]]","Provides [1] [Policies]"
         ],
         "era": "Medieval era",
@@ -536,7 +536,7 @@
     },
     {
         "name": "Exploration",
-        "uniques": [ "Free Social Policy",
+        "uniques": [ "Free Social Policy","Free Social Policy", 
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1] Sight <for [{Military} {Water}] units>",
             "Comment [Unlocks [The Louvre]]",
@@ -625,7 +625,7 @@
 	{
         "name": "Aesthetics",
         "era": "Renaissance era",
-        "uniques": [ "Free Social Policy",
+        "uniques": [ "Free Social Policy","Free Social Policy", 
             "[Great Artist] is earned [25]% faster",
             "[Great Writer] is earned [25]% faster",
             "[Great Musician] is earned [25]% faster",
@@ -726,7 +726,7 @@
         "name": "Rationalism",
         "era": "Renaissance era",
         "uniques": [ 
-		"Free Social Policy",
+		"Free Social Policy","Free Social Policy", 
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]","Provides [1] [Policies]"
         ],
@@ -808,7 +808,7 @@
         "era": "Industrial era",
         "uniques": [
             "Free Social Policy","Free Social Policy","Free Social Policy",
-            "Comment [Unlocks [Kremlin]]",
+            "Comment [Unlocks [Kremlin]]","Free Social Policy", "Free Social Policy", 
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>","Provides [1] [Policies]"
         ],
@@ -967,8 +967,8 @@
         "era": "Modern era",
         "uniques": [
             "Free Social Policy","Free Social Policy","Free Social Policy",
-            "Comment [Unlocks [Statue of Liberty]]",
-            "Only available <before adopting [Autocracy]>",
+            "Comment [Unlocks [Statue of Liberty]]","Free Social Policy", 
+            "Only available <before adopting [Autocracy]>","Free Social Policy", 
             "Only available <before adopting [Order]>","Provides [1] [Policies]"
         ],
         "policies": [
@@ -1129,7 +1129,7 @@
         "era": "Industrial era",
         "uniques": [
             "Free Social Policy","Free Social Policy","Free Social Policy",
-            "Comment [Unlocks [Prora]]",
+            "Comment [Unlocks [Prora]]","Free Social Policy", "Free Social Policy", 
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>","Provides [1] [Policies]"
         ],
