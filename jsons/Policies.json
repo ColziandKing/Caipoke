@@ -387,7 +387,7 @@
             {
                 "name": "Consulates",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
+                    "Resting point for Influence with City-States is increased by [20]","City-State territory always counts as friendly territory"
                 ],
                 "row": 1,
                 "column": 1
@@ -424,7 +424,7 @@
                     "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
-                "requires": ["Merchant Confederacy"],
+                "requires": ["Educated Elite"],
                 "row": 2,
                 "column": 3
             },
