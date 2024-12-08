@@ -1340,8 +1340,8 @@
                 "name": "Free Religion",
                 "uniques": ["[-10]% Culture cost of adopting new Policies"],
                 "requires": ["Populism"],
-                "row": 3,
-                "column": 4
+                "row": 2,
+                "column": 1
             },
         {
             "name": "Mass Media",
@@ -1363,8 +1363,7 @@
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
-                "[+25]% Production when constructing [All] buildings [in capital]",
-            "[+25]% Production when constructing [Military] units [in capital]","Provides [1] [Policies]"
+                "Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
             "requires": ["Mass Media"],
             "row": 3,
