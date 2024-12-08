@@ -98,7 +98,8 @@
         "name": "Liberty",
         "era": "Ancient era",
         "uniques": [
-            "[+1 Culture] [in all cities]", "Free Social Policy", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>","[+1 Culture] [in all cities]", 
+		"Free Social Policy", "Free Social Policy", "Free Social Policy", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
         ],
         "policies": [
 		{
