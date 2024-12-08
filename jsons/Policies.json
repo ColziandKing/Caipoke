@@ -1362,6 +1362,18 @@
             "row": 2,
             "column": 3
         },
+		{
+                "name": "Democracy",
+                "uniques": [
+                    "[+50]% Yield from every [Land Trade Route (Food)]",
+            "[+50]% Yield from every [Land Trade Route (Production)]",
+            "[+50]% Yield from every [Sea Trade Route (Food)] <hidden from users>",
+            "[+50]% Yield from every [Sea Trade Route (Production)] <hidden from users>"
+                ],
+                "requires": ["Planned Economy"],
+                "row": 2,
+                "column": 5
+            },
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
