@@ -187,6 +187,9 @@
                 "name": "Iron Working",
                 "row": 10,
                 "prerequisites": ["Bronze Working"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
             }
         ]
