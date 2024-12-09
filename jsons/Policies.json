@@ -1378,7 +1378,7 @@
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
-                "Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
+                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
             "requires": ["Mass Media"],
             "row": 3,
