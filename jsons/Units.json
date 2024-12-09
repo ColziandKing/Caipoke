@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
 			"Blast radius [2]"],
 		"attackSound": "nuke"
 		// Plane rather than a missile - can be based in city or Carrier only.
