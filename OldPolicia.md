@@ -1,4 +1,12 @@
-rapid deployment is their finest hour "[+33]% Strength for cities <when defending>", you may add
+
+            {
+                "name": "Their Finest HourFree Religion",
+                "uniques": ["[+44]% Strength for cities <when defending>","[-10]% Culture cost of adopting new Policies"],
+                "requires": ["Populism"],
+                "row": 2,
+                "column": 1
+            },
+	    rapid deployment is their finest hour "[+33]% Strength for cities <when defending>", you may add
 Diplomatic Marriage, MerchantConfederacy, "[+3 Happiness, +1 Faith, +2 Food] from every [Palace]","Only available <in cities with a [Kingdom Hall]>",
 ,
     "Starts with [Order] adopted","Starts with [Party Leadership] adopted","Starts with [Socialist Realism] adopted","Starts with [Patriotic War] adopted",
