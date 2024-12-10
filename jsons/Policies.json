@@ -1365,7 +1365,7 @@
 		{
                 "name": "Optimization Imperative",
                 "uniques": [
-			"[+5 Science] per [10] population [in all cities]",
+			"[+5 Science] [in all cities]",
 			"[+50]% Yield from every [Land Trade Route (Food)]",
             "[+50]% Yield from every [Land Trade Route (Production)]",
             "[+50]% Yield from every [Sea Trade Route (Food)] <hidden from users>",
@@ -1380,7 +1380,7 @@
             "uniques": [
                 "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
-            "requires": ["Mass Media"],
+            "requires": ["Distributed Sovereignty"],
             "row": 3,
             "column": 2
         },
@@ -1393,7 +1393,7 @@
             "[Armor] units gain the [Volley] promotion",
 		    "Provides [1] [Policies]"
             ],
-            "requires": ["Mass Media"],
+            "requires": ["Distributed Sovereignty"],
             "row": 3,
             "column": 4
         },
