@@ -1375,22 +1375,22 @@
                 "row": 2,
                 "column": 5
             },
-            {
-                "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies","Provides [1] [Policies]"],
-                "requires": ["Their Finest Hour"],
-                "row": 3,
-                "column": 1
-            },
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
                 "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
-            "requires": ["Distributed Sovereignty"],
+            "requires": ["Their Finest Hour"],
             "row": 3,
-            "column": 3
+            "column": 1
         },
+            {
+                "name": "Free Religion",
+                "uniques": ["[-10]% Culture cost of adopting new Policies","Provides [1] [Policies]"],
+                "requires": ["Distributed Sovereignty"],
+                "row": 3,
+                "column": 3
+            },
         {
             "name": "Scorched Earth",
             "uniques": [
