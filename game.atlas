@@ -1581,7 +1581,7 @@ PolicyIcons/Diplomatic Service1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Distributed Sovereignty1
+PolicyIcons/Distributed Sovereignty
   rotate: false
   xy: 458, 138
   size: 50, 50
@@ -1798,7 +1798,7 @@ PolicyIcons/Opera and Ballet1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Optimization Imperative1
+PolicyIcons/Optimization Imperative
   rotate: false
   xy: 1675, 1260
   size: 50, 50
