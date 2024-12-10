@@ -1980,6 +1980,13 @@ ReligionIcons/Catholicism
   index: -1
 PolicyIcons/Fascism
   rotate: false
+  xy: 500, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nazism
+  rotate: false
   xy: 500, 600
   size: 100, 100
   orig: 100, 100
