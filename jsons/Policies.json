@@ -1375,6 +1375,13 @@
                 "row": 2,
                 "column": 5
             },
+            {
+                "name": "Free Religion",
+                "uniques": ["[-10]% Culture cost of adopting new Policies","Provides [1] [Policies]"],
+                "requires": ["Their Finest Hour"],
+                "row": 3,
+                "column": 1
+            },
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
@@ -1382,7 +1389,7 @@
             ],
             "requires": ["Distributed Sovereignty"],
             "row": 3,
-            "column": 2
+            "column": 3
         },
         {
             "name": "Scorched Earth",
@@ -1393,9 +1400,9 @@
             "[Armor] units gain the [Volley] promotion",
 		    "Provides [1] [Policies]"
             ],
-            "requires": ["Distributed Sovereignty"],
+            "requires": ["Optimization Imperative"],
             "row": 3,
-            "column": 4
+            "column": 5
         },
             {
                 "name": "Ideology Complete",
