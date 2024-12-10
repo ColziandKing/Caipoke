@@ -1440,7 +1440,7 @@
 			"Notified of new Barbarian encampments"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "iscipline",
@@ -1450,7 +1450,7 @@
                     "[50]% XP gained from combat <for [non-[Air]] units>"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 5
             },
 		{
                 "name": "ationalism",
@@ -1459,7 +1459,7 @@
                 ],
 		"requires": ["Warrior Code","Military Tradition","Discipline"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "ilitary Caste",
@@ -1484,7 +1484,7 @@
                 ],
                 "requires": ["ationalism"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "ortified Borders",
@@ -1493,7 +1493,7 @@
                 ],
                 "requires": ["ationalism"],
                 "row": 3,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "Hono Complete",
@@ -1533,7 +1533,7 @@
 			"Notified of new Barbarian encampments"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "scipline",
@@ -1543,7 +1543,7 @@
                     "[50]% XP gained from combat <for [non-[Air]] units>"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 5
             },
 		{
                 "name": "tionalism",
@@ -1552,7 +1552,7 @@
                 ],
 		"requires": ["rrior Code","litary Tradition","scipline"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "litary Caste",
@@ -1577,7 +1577,7 @@
                 ],
                 "requires": ["tionalism"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
 		{
                 "name": "rtified Borders",
@@ -1586,7 +1586,7 @@
                 ],
                 "requires": ["tionalism"],
                 "row": 3,
-                "column": 7
+                "column": 5
             },
             {
                 "name": "ono Complete",
