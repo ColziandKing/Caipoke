@@ -1506,7 +1506,7 @@
         ]
     },
 	{
-        "name": "Hono",
+        "name": "ono",
         "era": "Ancient era",
         "uniques": [
 			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
@@ -1516,7 +1516,7 @@
         ],
         "policies": [
             {
-                "name": "arrior Code",
+                "name": "rrior Code",
                 "uniques": [
                     "[2] free [Spearman] units appear",
 			"[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
@@ -1526,7 +1526,7 @@
                 "column": 1
             },
             {
-                "name": "ilitary Tradition",
+                "name": "litary Tradition",
                 "uniques": [
             "[+44]% Strength <vs [Barbarian] units>", 
             "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
@@ -1536,7 +1536,7 @@
                 "column": 4
             },
 		{
-                "name": "iscipline",
+                "name": "scipline",
                 "uniques": [
                     "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
                     "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
@@ -1546,27 +1546,27 @@
                 "column": 7
             },
 		{
-                "name": "ationalism",
+                "name": "tionalism",
                 "uniques": [
                     "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
-		"requires": ["Warrior Code","Military Tradition","Discipline"],
+		"requires": ["rrior Code","litary Tradition","scipline"],
                 "row": 2,
                 "column": 4
             },
             {
-                "name": "ilitary Caste",
+                "name": "litary Caste",
                 "uniques": [
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
                     "[+2 Happiness] from every [Courthouse]",
 			"Provides [1] [Policies]"
                 ],
-                "requires": ["ationalism"],
+                "requires": ["tionalism"],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": "rofessional Army",
+                "name": "ofessional Army",
                 "uniques": [
                     "[+1 Production, +1 Gold, +1 Culture] from every [Military Academy]",
                     "[+1 Production, +1 Gold, +1 Culture] from every [Armory]",
@@ -1575,21 +1575,21 @@
                     "[+100]% Production when constructing [Armory] buildings [in all cities]",
                     "[+100]% Production when constructing [Military Academy] buildings [in all cities]","Provides [1] [Policies]"
                 ],
-                "requires": ["ationalism"],
+                "requires": ["tionalism"],
                 "row": 3,
                 "column": 4
             },
 		{
-                "name": "ortified Borders",
+                "name": "rtified Borders",
                 "uniques": [
                     "[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]","Provides [1] [Policies]"
                 ],
-                "requires": ["ationalism"],
+                "requires": ["tionalism"],
                 "row": 3,
                 "column": 7
             },
             {
-                "name": "Hono Complete",
+                "name": "ono Complete",
                 "uniques": [
                     "[+10]% [Food] [in all cities]","Earn [100]% of killed [Military] unit's [Strength] as [Science]",
                     "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
