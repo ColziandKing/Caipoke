@@ -1046,8 +1046,7 @@
             {
                 "name": "Universal Suffrage",
                 "uniques": [
-                    "[-50]% Unhappiness from [Specialists] [in all cities]",
-                    "[+50]% Golden Age length"
+                    "[+100]% Yield from every [Great Improvement]"
                 ],
                 "requires": ["Civil Society","Volunteer Army"],
                 "row": 2,
@@ -1066,18 +1065,12 @@
                 "row": 2,
                 "column": 8
             },
-            {
-                "name": "New Deal",
+	   {
+                "name": "Democracy",
                 "uniques": [
-                    "[+5 Science] from every [Academy]",
-                    "[+5 Production] from every [Manufactory]",
-                    "[+5 Production] from every [Dry Dock]",
-                    "[+5 Faith] from every [Holy site]",
-                    "[+5 Culture] from every [Landmark]",
-                    "[+5 Gold] from every [Customs house]",
-                    "[+1 Culture, +1 Science, +1 Faith, +1 Production, +1 Food] from every [Sacred Grove]","Provides [1] [Policies]"
+                    "[-50]% Unhappiness from [Specialists] [in all cities]"
                 ],
-                "requires": ["Avant Garde","Urbanization"],
+                "requires": ["Avant Garde", "Urbanization"],
                 "row": 3,
                 "column": 1
             },
@@ -1123,7 +1116,7 @@
             },
             {
                 "name": "Freedom Complete",
-                "uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length","[-20]% unhappiness from the number of cities"
+                "uniques": ["[+50]% Golden Age length"
                 ]
             }
         ]
@@ -1288,7 +1281,7 @@
             },
             {
                 "name": "Autocracy Complete",
-                "uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>","[+20]% unhappiness from the number of cities"
+                "uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"
                 ]
             }
         ]
@@ -1400,8 +1393,7 @@
             {
                 "name": "Ideology Complete",
                 "uniques": [
-			"[+1 Food, +1 Production] from every specialist [in all cities]",
-            "[+50]% Unhappiness from [Specialists] [in all cities]"
+			"[+1 Food, +1 Production] from every specialist [in all cities]"
                 ]
             }
         ]
