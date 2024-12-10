@@ -1339,8 +1339,8 @@
             "column": 5
         },
             {
-                "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "name": "Their Finest Hour",
+                "uniques": ["[+44]% Strength for cities <when defending>"],
                 "requires": ["Populism"],
                 "row": 2,
                 "column": 1
