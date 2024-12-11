@@ -1317,15 +1317,6 @@
         {
             "name": "Trade Unions",
             "uniques": [
-            "[+1 Production, +1 Science] from every [Amphitheater]",
-            "[+1 Production, +1 Science] from every [Museum]",
-            "[+1 Production, +1 Science] from every [Opera House]",
-            "[+1 Production, +1 Science] from every [Broadcast Tower]",
-            "[+1 Production, +1 Science] from every [Great Work]",
-            "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
-            "[+50]% Production when constructing [Opera House] buildings [in all cities]",
-            "[+50]% Production when constructing [Museum] buildings [in all cities]",
-            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]",
 		    "Provides [1] [Policies]"
             ],
             "row": 2,
@@ -1334,7 +1325,7 @@
   {
             "name": "Mysticism",
             "uniques": [
-		    "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
+		    "May choose [1] additional [Pantheon] beliefs when [founding] a religion","Gain a free [Stadium] [in holy cities]",
                     "Gain a free [Pantheon] belief <after founding a religion>","Provides [1] [Policies]"
             ],
             "row": 2,
@@ -1363,7 +1354,7 @@
             {
                 "name": "Merchant Confederacy",
                 "uniques": [
-			"Gain a free [Amphitheater] [in capital]",
+			"Gain a free [Grocer] [in all cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned","Comment [Units ending their turn on [Mountain] tiles take [50] damage]"
 		],
                 "row": 1,
                 "column": 1
@@ -1371,9 +1362,7 @@
             {
                 "name": "Merchant Navy",
                 "uniques": [
-            "[+44]% Strength <vs [Barbarian] units>", 
-            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments"
+            "Gain a free [Harbor] [in all coastal cities]","Gain a free [Military Base] [in all coastal cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -1405,8 +1394,7 @@
             "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
             "[+50]% Production when constructing [Opera House] buildings [in all cities]",
             "[+50]% Production when constructing [Museum] buildings [in all cities]",
-            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]",
-		    "Adopt [Democracy]"
+            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
             ],
             "requires": ["Constitution"],
             "row": 2,
@@ -1463,18 +1451,16 @@
         },
             {
                 "name": "Sharia",
-                "uniques": ["[+44]% Strength for cities <when defending>"],
+                "uniques": [
+			
+		],
                 "row": 1,
                 "column": 3
             },
 		{
                 "name": "Nazism",
                 "uniques": [
-			"[+5 Science] [in all cities]",
-			"[+50]% Yield from every [Land Trade Route (Food)]",
-            "[+50]% Yield from every [Land Trade Route (Production)]",
-            "[+50]% Yield from every [Sea Trade Route (Food)] <hidden from users>",
-            "[+50]% Yield from every [Sea Trade Route (Production)] <hidden from users>"
+			
                 ],
                 "requires": ["Populism","Sharia"],
                 "row": 2,
@@ -1483,8 +1469,7 @@
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
-                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>",
-		    "Adopt [World]","Provides [1] [Policies]"
+                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
             "requires": ["Sharia","Planned Economy"],
             "row": 2,
