@@ -796,7 +796,7 @@
 		{
 				"name": "Christianity",
 				"uniques": ["[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]","Empire enters golden age",
-					"[Faith] cost of purchasing [Missionary] units [-20]%","[2] free [Missionary] units appear","Provides [1] [Policies]"],
+					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear","Provides [1] [Policies]"],
 				"requires": ["Sovereignty","Secularity"],
 				"row": 3,
 				"column": 3
@@ -1453,7 +1453,7 @@
             {
                 "name": "Sharia",
                 "uniques": [
-			
+			"[Faith] cost of purchasing [Inquisitor] units [-80]%"
 		],
                 "row": 1,
                 "column": 3
