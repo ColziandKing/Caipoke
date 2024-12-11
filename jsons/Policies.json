@@ -1299,7 +1299,7 @@
         "era": "Modern era",
         "uniques": [
             "Free Social Policy <upon adopting [Mysticism]>",
-                    "Free Social Policy <upon adopting [Mass Media]>",
+                    "Free Social Policy <upon adopting [Distributed Sovereignty]>",
 		"Free Social Policy <upon adopting [Dictatorship of the Proletariat]>",
             		
             "[+1 Gold] from every specialist [in all cities] <after adopting [Autocracy]>",
@@ -1333,7 +1333,8 @@
             "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
             "[+50]% Production when constructing [Opera House] buildings [in all cities]",
             "[+50]% Production when constructing [Museum] buildings [in all cities]",
-            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
+            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]",
+		    "Only available <before adopting [Dictatorship of the Proletariat]>","Adopt [Democracy]","Provides [1] [Policies]"
             ],
             "requires": ["Mysticism"],
             "row": 2,
@@ -1342,7 +1343,8 @@
         {
             "name": "Dictatorship of the Proletariat",
             "uniques": [
-                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
+                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>",
+		    "Adopt [World]","Only available <before adopting [Distributed Sovereignty]>","Provides [1] [Policies]"
             ],
             "requires": ["Mysticism"],
             "row": 2,
@@ -1351,7 +1353,6 @@
             {
                 "name": "Ideology Complete",
                 "uniques": [
-			"[+1 Food, +1 Production] from every specialist [in all cities]"
                 ]
             }
         ]
@@ -1360,10 +1361,7 @@
         "name": "Democracy",
         "era": "Modern era",
         "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>","Adopt [Constitution]",
-		"[+15]% Production when constructing [Melee] units [in all cities]",
-            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
+			"Only available <before adopting [World]>","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -1384,23 +1382,23 @@
 			"Notified of new Barbarian encampments"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
 		{
                 "name": "Constitution",
                 "uniques": [
-                    "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
+                    
+			"[+1 Food, +1 Production] from every specialist [in all cities]"
                 ],
-		"requires": ["Warrior Code","Military Tradition","Discipline"],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Their Finest Hour",
-                "uniques": ["[+44]% Strength for cities <when defending>"],
-                "requires": ["Populism"],
+                "uniques": ["[+44]% Strength for cities <when defending>","Provides [1] [Policies]"],
+                "requires": ["Constitution"],
                 "row": 2,
-                "column": 3
+                "column": 2
             },
 		{
                 "name": "Optimization Imperative",
@@ -1408,12 +1406,13 @@
 			"[+5 Science] [in all cities]",
 			"[+50]% Yield from every [Land Trade Route (Food)]",
             "[+50]% Yield from every [Land Trade Route (Production)]",
+			"Provides [1] [Policies]",
             "[+50]% Yield from every [Sea Trade Route (Food)] <hidden from users>",
             "[+50]% Yield from every [Sea Trade Route (Production)] <hidden from users>"
                 ],
-                "requires": ["Planned Economy"],
+                "requires": ["Constitution"],
                 "row": 2,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Democracy Complete",
@@ -1429,10 +1428,7 @@
         "name": "World",
         "era": "Modern era",
         "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>","Adopt [Populism]",
-		"[+15]% Production when constructing [Melee] units [in all cities]",
-            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
+			"Only available <before adopting [Democracy]>","Provides [1] [Policies]"
         ],
         "policies": [
 		{
@@ -1458,7 +1454,7 @@
                 "uniques": ["[+44]% Strength for cities <when defending>"],
                 "requires": ["Populism"],
                 "row": 2,
-                "column": 3
+                "column": 2
             },
 		{
                 "name": "Nazism",
@@ -1471,7 +1467,7 @@
                 ],
                 "requires": ["Planned Economy"],
                 "row": 2,
-                "column": 5
+                "column": 4
             },
         {
             "name": "Scorched Earth",
@@ -1482,9 +1478,9 @@
             "[Armor] units gain the [Volley] promotion",
 		    "Provides [1] [Policies]"
             ],
-            "requires": ["Optimization Imperative"],
+            "requires": ["Sharia", "Nazism"],
             "row": 3,
-            "column": 5
+            "column": 3
         },
             {
                 "name": "World Complete",
