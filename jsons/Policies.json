@@ -1348,7 +1348,7 @@
         "name": "Democracy",
         "era": "Modern era",
         "uniques": [
-			"Adopt [Constitution]","Only available <before adopting [World]>","Provides [1] [Policies]"
+			"Adopt [Constitution]","Free Social Policy","Only available <before adopting [World]>","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -1429,7 +1429,7 @@
         "name": "World",
         "era": "Modern era",
         "uniques": [
-			"Adopt [Sharia]","Only available <before adopting [Democracy]>","Provides [1] [Policies]"
+			"Adopt [Sharia]","Free Social Policy","Only available <before adopting [Democracy]>","Provides [1] [Policies]"
         ],
         "policies": [
 		{
