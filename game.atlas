@@ -715,6 +715,13 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
+PolicyBranchIcons/Democracy
+  rotate: false
+  xy: 294, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 PolicyIcons/Secularity
   rotate: false
   xy: 1338, 4
