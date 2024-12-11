@@ -1325,21 +1325,10 @@
             "[+50]% Production when constructing [Opera House] buildings [in all cities]",
             "[+50]% Production when constructing [Museum] buildings [in all cities]",
             "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]",
-		    "Only available <before adopting [Dictatorship of the Proletariat]>","Adopt [Democracy]","Provides [1] [Policies]"
+		    "Provides [1] [Policies]"
             ],
-            "requires": ["Mysticism"],
             "row": 2,
-            "column": 2
-        },
-        {
-            "name": "Dictatorship of the Proletariat",
-            "uniques": [
-                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>",
-		    "Adopt [World]","Only available <before adopting [Distributed Sovereignty]>","Provides [1] [Policies]"
-            ],
-            "requires": ["Mysticism"],
-            "row": 2,
-            "column": 4
+            "column": 1
         },
   {
             "name": "Mysticism",
@@ -1354,11 +1343,10 @@
             "name": "Free Religion",
             "uniques": [
                 "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>",
-		    "Adopt [World]","Only available <before adopting [Distributed Sovereignty]>","Provides [1] [Policies]"
+		    "Provides [1] [Policies]"
             ],
-            "requires": ["Mysticism"],
             "row": 2,
-            "column": 4
+            "column": 5
         },
             {
                 "name": "Ideology Complete",
