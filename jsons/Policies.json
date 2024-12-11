@@ -1317,7 +1317,7 @@
         {
             "name": "Trade Unions",
             "uniques": [
-		    "Provides [1] [Policies]"
+		    "Provides [3] [Nutmeg]","Provides [3] [Cloves]","Provides [3] [Pepper]","Provides [1] [Policies]"
             ],
             "row": 2,
             "column": 1
@@ -1354,7 +1354,8 @@
             {
                 "name": "Merchant Confederacy",
                 "uniques": [
-			"Gain a free [Grocer] [in all cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned","Comment [Units ending their turn on [Mountain] tiles take [50] damage]"
+			"Gain a free [Grocer] [in all cities]","Provides [3] [Glass]",
+		    "Provides [3] [Jewelry]","Provides [3] [Porcelain]" 
 		],
                 "row": 1,
                 "column": 1
@@ -1362,7 +1363,7 @@
             {
                 "name": "Merchant Navy",
                 "uniques": [
-            "Gain a free [Harbor] [in all coastal cities]","Gain a free [Military Base] [in all coastal cities]"
+            "Gain a free [Harbor] [in all coastal cities]","Gain a free [Military Base] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned","Comment [Units ending their turn on [Mountain] tiles take [50] damage]"
                 ],
                 "row": 1,
                 "column": 5
@@ -1460,7 +1461,7 @@
 		{
                 "name": "Nazism",
                 "uniques": [
-			
+			"[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
                 ],
                 "requires": ["Populism","Sharia"],
                 "row": 2,
