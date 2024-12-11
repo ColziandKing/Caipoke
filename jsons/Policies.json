@@ -1311,6 +1311,15 @@
 		"Provides [1] [Policies]"
         ],
         "policies": [
+  {
+            "name": "Mysticism",
+            "uniques": [
+		    "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
+                    "Gain a free [Pantheon] belief <after founding a religion>"
+            ],
+            "row": 1,
+            "column": 3
+        },
         {
             "name": "Distributed Sovereignty",
             "uniques": [
@@ -1324,6 +1333,7 @@
             "[+50]% Production when constructing [Museum] buildings [in all cities]",
             "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
             ],
+            "requires": ["Mysticism"],
             "row": 2,
             "column": 2
         },
@@ -1332,6 +1342,7 @@
             "uniques": [
                 "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
+            "requires": ["Mysticism"],
             "row": 2,
             "column": 4
         },
@@ -1374,23 +1385,13 @@
                 "column": 3
             },
 		{
-                "name": "Aesthetics",
-                "uniques": [
-                    "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
-                    "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
-                    "[50]% XP gained from combat <for [non-[Air]] units>"
-                ],
-                "row": 1,
-                "column": 5
-            },
-		{
                 "name": "Constitution",
                 "uniques": [
                     "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
 		"requires": ["Warrior Code","Military Tradition","Discipline"],
-                "row": 2,
-                "column": 3
+                "row": 1,
+                "column": 5
             },
             {
                 "name": "Their Finest Hour",
@@ -1441,15 +1442,6 @@
                 "row": 1,
                 "column": 1
             },
-  {
-            "name": "Mysticism",
-            "uniques": [
-		    "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
-                    "Gain a free [Pantheon] belief <after founding a religion>"
-            ],
-            "row": 1,
-            "column": 3
-        },
 	{
             "name": "Planned Economy",
             "uniques": [
