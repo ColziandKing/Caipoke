@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nutmeg", 
+        "gold": 2,
+        "resourceType": "Luxury",
+        "uniques": ["Can only be created by Mercantile City-States"]
+    },
+    {
+        "name": "Cloves", 
+        "gold": 2,
+        "resourceType": "Luxury",
+        "uniques": ["Can only be created by Mercantile City-States"]
+    },
+    {
+        "name": "Pepper", 
+        "gold": 2,
+        "resourceType": "Luxury",
+        "uniques": ["Can only be created by Mercantile City-States"]
+    },
+]
