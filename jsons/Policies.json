@@ -968,7 +968,7 @@
     },
     {
         "name": "Freedom",
-        "era": "Modern era",
+        "era": "Industrial era",
         "uniques": [
             "Free Social Policy","Free Social Policy","Free Social Policy",
             "Comment [Unlocks [Statue of Liberty]]","Free Social Policy", 
@@ -1311,6 +1311,127 @@
 		"Provides [1] [Policies]"
         ],
         "policies": [
+        {
+            "name": "Distributed Sovereignty",
+            "uniques": [
+            "[+1 Production, +1 Science] from every [Amphitheater]",
+            "[+1 Production, +1 Science] from every [Museum]",
+            "[+1 Production, +1 Science] from every [Opera House]",
+            "[+1 Production, +1 Science] from every [Broadcast Tower]",
+            "[+1 Production, +1 Science] from every [Great Work]",
+            "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
+            "[+50]% Production when constructing [Opera House] buildings [in all cities]",
+            "[+50]% Production when constructing [Museum] buildings [in all cities]",
+            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
+            ],
+            "row": 2,
+            "column": 2
+        },
+        {
+            "name": "Dictatorship of the Proletariat",
+            "uniques": [
+                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
+            ],
+            "row": 2,
+            "column": 4
+        },
+            {
+                "name": "Ideology Complete",
+                "uniques": [
+			"[+1 Food, +1 Production] from every specialist [in all cities]"
+                ]
+            }
+        ]
+    },
+	{
+        "name": "Democracy",
+        "era": "Modern era",
+        "uniques": [
+			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>","Free Social Policy", 
+		"[+15]% Production when constructing [Melee] units [in all cities]",
+            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
+        ],
+        "policies": [
+            {
+                "name": "Merchant Confederacy",
+                "uniques": [
+                    "[2] free [Spearman] units appear",
+			"[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
+                    "[4] units cost no maintenance","Free [Great General] appears"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Merchant Navy",
+                "uniques": [
+            "[+44]% Strength <vs [Barbarian] units>", 
+            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+			"Notified of new Barbarian encampments"
+                ],
+                "row": 1,
+                "column": 3
+            },
+		{
+                "name": "Aesthetics",
+                "uniques": [
+                    "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
+                    "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
+                    "[50]% XP gained from combat <for [non-[Air]] units>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+		{
+                "name": "Constitution",
+                "uniques": [
+                    "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
+                ],
+		"requires": ["Warrior Code","Military Tradition","Discipline"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Their Finest Hour",
+                "uniques": ["[+44]% Strength for cities <when defending>"],
+                "requires": ["Populism"],
+                "row": 2,
+                "column": 3
+            },
+		{
+                "name": "Optimization Imperative",
+                "uniques": [
+			"[+5 Science] [in all cities]",
+			"[+50]% Yield from every [Land Trade Route (Food)]",
+            "[+50]% Yield from every [Land Trade Route (Production)]",
+            "[+50]% Yield from every [Sea Trade Route (Food)] <hidden from users>",
+            "[+50]% Yield from every [Sea Trade Route (Production)] <hidden from users>"
+                ],
+                "requires": ["Planned Economy"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Democracy Complete",
+                "uniques": [
+                    "[+10]% [Food] [in all cities]","Earn [100]% of killed [Military] unit's [Strength] as [Science]",
+                    "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
+                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
+        ]
+    },
+	{
+        "name": "World",
+        "era": "Modern era",
+        "uniques": [
+			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>","Free Social Policy", 
+		"[+15]% Production when constructing [Melee] units [in all cities]",
+            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
+        ],
+        "policies": [
 		{
                 "name": "Populism",
                 "uniques": [
@@ -1339,31 +1460,14 @@
             "column": 5
         },
             {
-                "name": "Their Finest Hour",
+                "name": "Sharia",
                 "uniques": ["[+44]% Strength for cities <when defending>"],
                 "requires": ["Populism"],
                 "row": 2,
-                "column": 1
+                "column": 3
             },
-        {
-            "name": "Distributed Sovereignty",
-            "uniques": [
-            "[+1 Production, +1 Science] from every [Amphitheater]",
-            "[+1 Production, +1 Science] from every [Museum]",
-            "[+1 Production, +1 Science] from every [Opera House]",
-            "[+1 Production, +1 Science] from every [Broadcast Tower]",
-            "[+1 Production, +1 Science] from every [Great Work]",
-            "[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
-            "[+50]% Production when constructing [Opera House] buildings [in all cities]",
-            "[+50]% Production when constructing [Museum] buildings [in all cities]",
-            "[+50]% Production when constructing [Broadcast Tower] buildings [in all cities]"
-            ],
-            "requires": ["Populism","Mysticism","Planned Economy"],
-            "row": 2,
-            "column": 3
-        },
 		{
-                "name": "Optimization Imperative",
+                "name": "Nazism",
                 "uniques": [
 			"[+5 Science] [in all cities]",
 			"[+50]% Yield from every [Land Trade Route (Food)]",
@@ -1374,22 +1478,6 @@
                 "requires": ["Planned Economy"],
                 "row": 2,
                 "column": 5
-            },
-        {
-            "name": "Dictatorship of the Proletariat",
-            "uniques": [
-                "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
-            ],
-            "requires": ["Their Finest Hour"],
-            "row": 3,
-            "column": 1
-        },
-            {
-                "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies","Provides [1] [Policies]"],
-                "requires": ["Distributed Sovereignty"],
-                "row": 3,
-                "column": 3
             },
         {
             "name": "Scorched Earth",
@@ -1405,191 +1493,7 @@
             "column": 5
         },
             {
-                "name": "Ideology Complete",
-                "uniques": [
-			"[+1 Food, +1 Production] from every specialist [in all cities]"
-                ]
-            }
-        ]
-    },
-	{
-        "name": "World",
-        "era": "Ancient era",
-        "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>","Free Social Policy", 
-		"[+15]% Production when constructing [Melee] units [in all cities]",
-            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
-        ],
-        "policies": [
-            {
-                "name": "arrior Code",
-                "uniques": [
-                    "[2] free [Spearman] units appear",
-			"[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-                    "[4] units cost no maintenance","Free [Great General] appears"
-                ],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "ilitary Tradition",
-                "uniques": [
-            "[+44]% Strength <vs [Barbarian] units>", 
-            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments"
-                ],
-                "row": 1,
-                "column": 3
-            },
-		{
-                "name": "iscipline",
-                "uniques": [
-                    "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
-                    "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
-                    "[50]% XP gained from combat <for [non-[Air]] units>"
-                ],
-                "row": 1,
-                "column": 5
-            },
-		{
-                "name": "ationalism",
-                "uniques": [
-                    "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
-                ],
-		"requires": ["Warrior Code","Military Tradition","Discipline"],
-                "row": 2,
-                "column": 3
-            },
-            {
-                "name": "ilitary Caste",
-                "uniques": [
-                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
-                    "[+2 Happiness] from every [Courthouse]",
-			"Provides [1] [Policies]"
-                ],
-                "requires": ["ationalism"],
-                "row": 3,
-                "column": 1
-            },
-            {
-                "name": "rofessional Army",
-                "uniques": [
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Military Academy]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Armory]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Barracks]",
-                    "[+100]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+100]% Production when constructing [Armory] buildings [in all cities]",
-                    "[+100]% Production when constructing [Military Academy] buildings [in all cities]","Provides [1] [Policies]"
-                ],
-                "requires": ["ationalism"],
-                "row": 3,
-                "column": 3
-            },
-		{
-                "name": "ortified Borders",
-                "uniques": [
-                    "[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]","Provides [1] [Policies]"
-                ],
-                "requires": ["ationalism"],
-                "row": 3,
-                "column": 5
-            },
-            {
-                "name": "Hono Complete",
-                "uniques": [
-                    "[+10]% [Food] [in all cities]","Earn [100]% of killed [Military] unit's [Strength] as [Science]",
-                    "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
-                ]
-            }
-        ]
-    },
-	{
-        "name": "ono",
-        "era": "Ancient era",
-        "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy","Free Social Policy",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>","Free Social Policy", 
-		"[+15]% Production when constructing [Melee] units [in all cities]",
-            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
-        ],
-        "policies": [
-            {
-                "name": "rrior Code",
-                "uniques": [
-                    "[2] free [Spearman] units appear",
-			"[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-                    "[4] units cost no maintenance","Free [Great General] appears"
-                ],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "litary Tradition",
-                "uniques": [
-            "[+44]% Strength <vs [Barbarian] units>", 
-            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments"
-                ],
-                "row": 1,
-                "column": 3
-            },
-		{
-                "name": "scipline",
-                "uniques": [
-                    "[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
-                    "[+4 Production, +4 Gold, +4 Culture, +4 Happiness] from every [Heroic Epic]",
-                    "[50]% XP gained from combat <for [non-[Air]] units>"
-                ],
-                "row": 1,
-                "column": 5
-            },
-		{
-                "name": "tionalism",
-                "uniques": [
-                    "Empire enters golden age","[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
-                ],
-		"requires": ["rrior Code","litary Tradition","scipline"],
-                "row": 2,
-                "column": 3
-            },
-            {
-                "name": "litary Caste",
-                "uniques": [
-                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
-                    "[+2 Happiness] from every [Courthouse]",
-			"Provides [1] [Policies]"
-                ],
-                "requires": ["tionalism"],
-                "row": 3,
-                "column": 1
-            },
-            {
-                "name": "ofessional Army",
-                "uniques": [
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Military Academy]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Armory]",
-                    "[+1 Production, +1 Gold, +1 Culture] from every [Barracks]",
-                    "[+100]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+100]% Production when constructing [Armory] buildings [in all cities]",
-                    "[+100]% Production when constructing [Military Academy] buildings [in all cities]","Provides [1] [Policies]"
-                ],
-                "requires": ["tionalism"],
-                "row": 3,
-                "column": 3
-            },
-		{
-                "name": "rtified Borders",
-                "uniques": [
-                    "[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]","Provides [1] [Policies]"
-                ],
-                "requires": ["tionalism"],
-                "row": 3,
-                "column": 5
-            },
-            {
-                "name": "ono Complete",
+                "name": "World Complete",
                 "uniques": [
                     "[+10]% [Food] [in all cities]","Earn [100]% of killed [Military] unit's [Strength] as [Science]",
                     "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
