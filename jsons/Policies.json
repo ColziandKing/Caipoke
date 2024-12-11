@@ -813,8 +813,8 @@
         "name": "Order",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Adopt [Young Pioneers]","Adopt [Patriotic War]",
-            "Comment [Unlocks [Kremlin]]","Free Social Policy", "Adopt [Socialist Realism]",
+            "Free Social Policy","Free Social Policy","Adopt [Young Pioneers]","Adopt [Patriotic War]",
+            "Comment [Unlocks [Kremlin]]", "Adopt [Socialist Realism]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>","Provides [1] [Policies]"
         ],
@@ -972,8 +972,8 @@
         "name": "Freedom",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Adopt [Avant Garde]","Adopt [Civil Society]",
-            "Comment [Unlocks [Statue of Liberty]]","Free Social Policy", 
+            "Free Social Policy","Free Social Policy","Adopt [Avant Garde]",
+            "Comment [Unlocks [Statue of Liberty]]", "Adopt [Civil Society]",
             "Only available <before adopting [Autocracy]>","Adopt [Volunteer Army]",
             "Only available <before adopting [Order]>","Provides [1] [Policies]"
         ],
@@ -1133,8 +1133,8 @@
         "name": "Autocracy",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Adopt [Militarism]","Adopt [Fascism]",
-            "Comment [Unlocks [Prora]]","Free Social Policy", "Adopt [Mobilization]",
+            "Free Social Policy","Free Social Policy","Adopt [Militarism]","Adopt [Fascism]",
+            "Comment [Unlocks [Prora]]","Adopt [Mobilization]",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>","Provides [1] [Policies]"
         ],
@@ -1371,7 +1371,7 @@
         "name": "Democracy",
         "era": "Modern era",
         "uniques": [
-			"Only available <before adopting [World]>","Provides [1] [Policies]"
+			"Adopt [Constitution]","Only available <before adopting [World]>","Provides [1] [Policies]"
         ],
         "policies": [
             {
@@ -1456,7 +1456,7 @@
         "name": "World",
         "era": "Modern era",
         "uniques": [
-			"Only available <before adopting [Democracy]>","Provides [1] [Policies]"
+			"Adopt [Sharia]","Only available <before adopting [Democracy]>","Provides [1] [Policies]"
         ],
         "policies": [
 		{
