@@ -1,7 +1,26 @@
 [
     {
         "name": "Supermarket",
-        "replaces": "Grocer",
+        "requiredBuilding": "Grocer",
+        "uniqueTo": "Colziand",
+        "maintenance": 2,
+        "requiredNearbyImprovedResources": ["Citrus","Olives","Truffles","Cocoa","Spices","Coconut"],
+        "cost": 100,
+        "food": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Food] from [Truffles] tiles [in this city]",
+            "[+2 Food] from [Spices] tiles [in this city]",
+            "[+2 Food] from [Cocoa] tiles [in this city]",
+            "[+2 Food] from [Olives] tiles [in this city]",
+            "[+2 Food] from [Citrus] tiles [in this city]",
+            "[+2 Food] from [Coconut] tiles [in this city]"
+        ],
+        "requiredTech": "Banking"
+    },   
+	{
+        "name": "Supermarket",
+        "requiredBuilding": "Grocer",
         "uniqueTo": "Colziand",
         "maintenance": 2,
         "requiredNearbyImprovedResources": ["Citrus","Olives","Truffles","Cocoa","Spices","Coconut"],
