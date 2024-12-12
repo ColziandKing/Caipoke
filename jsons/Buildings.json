@@ -8,54 +8,6 @@
 		"uniques": ["Doubles Gold given to enemy if city is captured","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
 	},
-    {
-        "name": "Glass", // Indonesian luxury
-        "uniqueTo": "Colziand",
-        "cost": 0,
-        "uniques": [
-            "Provides [2] [Glass]",
-            "Never destroyed when the city is captured",
-            "Unsellable",
-            "Only available <in cities without a [Glass]>",
-            "Only available <in cities without a [Porcelain]>",
-            "Only available <in cities without a [Jewelry]>",
-            "Must be next to [Coast]",
-            "Limited to [1] per Civilization",
-            "Will not be displayed in Civilopedia"
-        ]
-    },
-    {
-        "name": "Jewelry", // Indonesian luxury
-        "uniqueTo": "Fullysia",
-        "cost": 0,
-        "uniques": [
-            "Provides [2] [Jewelry]",
-            "Never destroyed when the city is captured",
-            "Unsellable",
-            "Only available <in cities without a [Glass]>",
-            "Only available <in cities without a [Porcelain]>",
-            "Only available <in cities without a [Jewelry]>",
-            "Must be next to [Coast]",
-            "Limited to [1] per Civilization",
-            "Will not be displayed in Civilopedia"
-        ]
-    },
-    {
-        "name": "Porcelain", // Indonesian luxury
-        "uniqueTo": "Suzainswellia",
-        "cost": 0,
-        "uniques": [
-            "Provides [2] [Pepper]",
-            "Never destroyed when the city is captured",
-            "Unsellable",
-            "Only available <in cities without a [Glass]>",
-            "Only available <in cities without a [Porcelain]>",
-            "Only available <in cities without a [Jewelry]>",
-            "Must be next to [Coast]",
-            "Limited to [1] per Civilization",
-            "Will not be displayed in Civilopedia"
-        ]
-    },
 	{
 		"name": "Harbor",
 		"cost": 120,
