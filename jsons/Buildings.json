@@ -1,6 +1,8 @@
 [
     {
         "name": "Supermarket",
+        "replaces": "Grocer",
+        "uniqueTo": "Colziand",
         "maintenance": 2,
         "requiredNearbyImprovedResources": ["Citrus","Olives","Truffles","Cocoa","Spices","Coconut"],
         "cost": 100,
