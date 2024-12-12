@@ -1,4 +1,33 @@
 [
+    {
+        "name": "Supermarket",
+        "maintenance": 2,
+        "requiredNearbyImprovedResources": ["Citrus","Olives","Truffles","Cocoa","Spices","Coconut"],
+        "cost": 100,
+        "food": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Food] from [Truffles] tiles [in this city]",
+            "[+2 Food] from [Spices] tiles [in this city]",
+            "[+2 Food] from [Cocoa] tiles [in this city]",
+            "[+2 Food] from [Olives] tiles [in this city]",
+            "[+2 Food] from [Citrus] tiles [in this city]",
+            "[+2 Food] from [Coconut] tiles [in this city]"
+        ],
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Satrap's Court",
+        "replaces": "Bank",
+        "uniqueTo": "Persia",
+        "gold": 3,
+        "specialistSlots": {"Merchant": 1},
+        "happiness": 2,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {"gold": 25},
+        "requiredBuilding": "Market",
+        "requiredTech": "Currency"
+    },
 	{
 		"name": "National Treasury",
 		"cost": 125,
