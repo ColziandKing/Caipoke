@@ -67,7 +67,7 @@
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh"],
         "gold": 1,
         "turnsToBuild": 7,
-        "techRequired": "Guilds",
+        "techRequired": "Currency",
         "uniques": [
             "[+1 Gold] <after discovering [Economics]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
@@ -719,7 +719,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
 		"techRequired": "Currency",
-		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
+		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 		{
 		"name": "Colossal Head",
@@ -738,7 +738,8 @@
 		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"]
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>",
+		"Pillaging this improvement yields approximately [+25 Gold]"]
 	},
     {
         "name": "Terrace farm",
