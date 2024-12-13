@@ -37,58 +37,36 @@
     },
     {
         "name": "Supermarket",
-        "requiredBuilding": "Grocer",
-        "maintenance": 2,
-        "cost": 100,
+	"requiredBuilding": "Grocer",
+	"cost": 400,
         "food": 2,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "[+2 Food] from [Truffles] tiles [in this city]",
-            "[+2 Food] from [Spices] tiles [in this city]",
-            "[+2 Food] from [Cocoa] tiles [in this city]",
-            "[+2 Food] from [Olives] tiles [in this city]",
-            "[+2 Food] from [Citrus] tiles [in this city]",
-            "[+2 Food] from [Coconut] tiles [in this city]"
-        ],
-        "requiredTech": "Refrigeration"
-    },   
-	{
-        "name": "Mall",
-        "requiredBuilding": "Grocer",
-        "uniqueTo": "Colziand",
-        "maintenance": 2,
-        "cost": 100,
-        "food": 2,
-	"culture": 2,
-	"hurryCostModifier": 25,
-        "uniques": [
-            "[+2 Food] from [Truffles] tiles [in this city]",
-            "[+2 Food] from [Spices] tiles [in this city]",
-            "[+2 Food] from [Cocoa] tiles [in this city]",
-            "[+2 Food] from [Olives] tiles [in this city]",
-            "[+2 Food] from [Citrus] tiles [in this city]",
-            "[+2 Food] from [Coconut] tiles [in this city]"
-        ],
-        "requiredTech": "Refrigeration"
+        "production": 2,
+        "maintenance": 4,
+        "percentStatBonus": {"gold": 10},
+        "requiredTech": "Replaceable Parts"
     },
-	{
-        "name": "Hypermarket",
-        "requiredBuilding": "Grocer",
-        "uniqueTo": "Philippines",
-        "maintenance": 2,
-        "cost": 100,
+    {
+        "name": "Mall",
+	"requiredBuilding": "Grocer",
+	"uniqueTo": "America",
+	"cost": 400,
+        "food": 2,
         "culture": 2,
-	"gold": 2,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "[+2 Food] from [Truffles] tiles [in this city]",
-            "[+2 Food] from [Spices] tiles [in this city]",
-            "[+2 Food] from [Cocoa] tiles [in this city]",
-            "[+2 Food] from [Olives] tiles [in this city]",
-            "[+2 Food] from [Citrus] tiles [in this city]",
-            "[+2 Food] from [Coconut] tiles [in this city]"
-        ],
-        "requiredTech": "Refrigeration"
+	"production": 2,
+        "maintenance": 4,
+        "percentStatBonus": {"gold": 10},
+        "requiredTech": "Replaceable Parts"
+    },
+    {
+        "name": "Hypermarket",
+	"requiredBuilding": "Grocer",
+        "uniqueTo": "Colziand",
+	"cost": 400,
+        "food": 2,
+        "production": 2,
+        "maintenance": 4,
+        "percentStatBonus": {"gold": 10},
+        "requiredTech": "Replaceable Parts"
     },
     {
         "name": "Satrap's Court",
