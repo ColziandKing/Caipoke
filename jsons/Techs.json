@@ -651,13 +651,13 @@
         "techs": [
             {
                 "name": "Globalization",
-                "row": 1,
+                "row": 3,
                 "prerequisites": ["Telecommunications"],
                 "quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
             },
             {
                 "name": "Particle Physics",
-                "row": 3,
+                "row": 4,
                 "prerequisites": ["Mobile Tactics","Telecommunications"],
                 "quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
             },
