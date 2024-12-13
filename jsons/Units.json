@@ -402,7 +402,6 @@
 		"name": "Settler",
 		"unitType": "Civilian",
 		"requiredTech": "Trapping",
-		"obsoleteTech": "Combined Arms",
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
@@ -430,7 +429,6 @@
         "replaces": "Settler",
         "unitType": "Scout",
 		"requiredTech": "Trapping",
-		"obsoleteTech": "Combined Arms",
         "movement": 2,
         "strength": 5,
         "cost": 106,
@@ -449,7 +447,6 @@
         "uniqueTo": "Mexico",
         "unitType": "Civilian",
 		"requiredTech": "Trapping",
-		"obsoleteTech": "Combined Arms",
         "movement": 2,
         "cost": 106,
         "uniques": [
