@@ -1453,7 +1453,7 @@
             {
                 "name": "Sharia",
                 "uniques": [
-			"[Faith] cost of purchasing [Inquisitor] units [-80]%"
+			"[-50 Happiness] per [5] population [in all cities]"
 		],
                 "row": 1,
                 "column": 3
@@ -1461,7 +1461,7 @@
 		{
                 "name": "Nazism",
                 "uniques": [
-			"[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
+			"[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[Faith] cost of purchasing [Inquisitor] units [-80]%"
                 ],
                 "requires": ["Populism"],
                 "row": 2,
@@ -1485,7 +1485,7 @@
             "[Armor] units gain the [Volley] promotion",
 		    "Provides [1] [Policies]"
             ],
-            "requires": ["Nazism","Dictatorship of the Proletariat"],
+            "requires": ["Nazism","Sharia","Dictatorship of the Proletariat"],
             "row": 3,
             "column": 3
         },
