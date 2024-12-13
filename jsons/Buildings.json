@@ -22,6 +22,21 @@
 		"requiredTech": "Currency"
 	},
     {
+        "name": "Research Institute",
+	"replaces": "Public School",
+	"uniqueTo": "Russia",
+	"science": 3,
+        "specialistSlots": {"Scientist": 1},
+        "requiredBuilding": "University",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+2 Science] per [2] population [in this city]",
+            "[+2 Science] from [Forest] tiles [in this city]"
+        ],
+        "requiredTech": "Scientific Theory"
+    },
+    {
         "name": "Sacrificial Altar",
         "uniqueTo": "Aztecs",
         "replaces": "Courthouse",
