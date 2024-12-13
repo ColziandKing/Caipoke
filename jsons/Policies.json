@@ -1463,7 +1463,7 @@
                 "uniques": [
 			"[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
                 ],
-                "requires": ["Populism","Sharia"],
+                "requires": ["Populism"],
                 "row": 2,
                 "column": 2
             },
@@ -1472,7 +1472,7 @@
             "uniques": [
                 "Free [Atomic Bomb] appears","Empire enters golden age <upon conquering a city>","Provides [1] [Policies]"
             ],
-            "requires": ["Sharia","Planned Economy"],
+            "requires": ["Planned Economy"],
             "row": 2,
             "column": 4
         },
