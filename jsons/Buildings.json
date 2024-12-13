@@ -1,5 +1,19 @@
 [
     {
+        "name": "Sacrificial Altar",
+        "uniqueTo": "Aztecs",
+        "replaces": "Courthouse",
+        "culture": 1,
+        "faith": 2,
+        "happiness": 3,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>"
+        ],
+        "requiredTech": "Mathematics"
+    },
+    {
         "name": "Supermarket",
         "requiredBuilding": "Grocer",
         "uniqueTo": "Colziand",
