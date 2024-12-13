@@ -22,6 +22,23 @@
 		"requiredTech": "Currency"
 	},
     {
+        "name": "Forum",
+        "replaces": "Amphitheater",
+        "uniqueTo": "Rome",
+        "cost": 95,
+        "culture": 3,
+        "faith": 1,
+        "happiness": 2,
+        "requiredBuilding": "Monument",
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+    {
         "name": "Research Institute",
 	"replaces": "Public School",
 	"uniqueTo": "Russia",
@@ -54,8 +71,8 @@
         "name": "Supermarket",
 	"requiredBuilding": "Grocer",
 	"cost": 400,
-        "food": 2,
-        "production": 2,
+        "food": 3,
+        "production": 3,
         "maintenance": 4,
         "percentStatBonus": {"gold": 10},
         "requiredTech": "Replaceable Parts"
@@ -78,6 +95,7 @@
         "uniqueTo": "Colziand",
 	"cost": 400,
         "food": 2,
+	"gold": 2,
         "production": 2,
         "maintenance": 4,
         "percentStatBonus": {"gold": 10},
