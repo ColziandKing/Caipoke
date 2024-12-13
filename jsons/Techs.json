@@ -86,7 +86,7 @@
                 "prerequisites": ["Animal Husbandry"],
                 "quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome",
                 "uniques": [
-                            "Free [Settler] appears"
+                            
                 ]
             },
             {
@@ -187,7 +187,7 @@
                 "row": 10,
                 "prerequisites": ["Bronze Working"],
                 "uniques": [
-                            "Free [Atomic Bomb] appears"
+                            
                 ],
                 "quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
             }
