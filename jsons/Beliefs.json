@@ -89,6 +89,11 @@
         "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
             "Only available <after adopting [Reformation]>"]
     },
+    {
+        "name": "Unity of the Prophets",
+        "type": "Enhancer",
+        "uniques": ["[+4 Faith, +2 Production] from every [Holy site]","[+4 Culture, +2 Production] from every [Landmark]"]
+    },
  {
         "name": "Sacred Sites",
         "type": "Enhancer",
