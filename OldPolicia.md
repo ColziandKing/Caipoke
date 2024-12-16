@@ -1,4 +1,19 @@
 
+
+        {
+            "name": "Trade Unions",
+            "uniques": [
+		    "Provides [3] [Nutmeg]","Provides [3] [Cloves]","Provides [3] [Pepper]","Provides [1] [Policies]"
+            ],
+            "row": 2,
+            "column": 1
+        },
+            {
+                "name": "Free Religion",
+                "uniques": ["[-10]% Culture cost of adopting new Policies","Provides [1] [Policies]"],
+                "row": 2,
+                "column": 5
+            },
 	{
         "name": "Democracy",
         "era": "Modern era",
