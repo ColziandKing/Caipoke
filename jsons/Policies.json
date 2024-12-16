@@ -483,7 +483,8 @@
                 "uniques": [
 			"[+50]% Production when constructing [Market] buildings [in all cities]",
                     "[+50]% Production when constructing [Bank] buildings [in all cities]",
-                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]"
+                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]",
+			"Provides [3] [Nutmeg]","Provides [3] [Cloves]","Provides [3] [Pepper]"
                 ],
                 "requires": ["Silk Road"],
                 "row": 2,
@@ -596,7 +597,7 @@
 		{
                 "name": "Resettlements",
                 "uniques": [
-                    "[+4] population [in this city] <upon founding a city>",
+                    "[+3] population [in this city] <upon founding a city>",
                     "Gain a free [Workshop] [in this city] <upon founding a city>",
                     "Gain a free [Monument] [in this city] <upon founding a city>",
                     "Gain a free [Granary] [in this city] <upon founding a city>",
@@ -611,9 +612,10 @@
                 "name": "Treasure Fleets",
                 "uniques": [
                     "[+1 Gold, +1 Production, +1 Food] from every [Coast] <in tiles without [resource]> <in tiles without [Improvement]>",
-                    "[+1 Gold, +1 Production, +1 Food] from every [Ocean]","Provides [1] [Policies]"
+                    "[+1 Gold, +1 Production, +1 Food] from every [Ocean]","Provides [3] [Glass]",
+	    "Provides [3] [Jewelry]","Provides [3] [Porcelain]","Provides [1] [Policies]"
                 ],
-                "requires": ["Navigation School","Resettlements"],
+                "requires": ["Navigation School"],
                 "row": 3,
                 "column": 3
             },
