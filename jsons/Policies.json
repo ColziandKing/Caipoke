@@ -546,7 +546,8 @@
 		"Free Social Policy","Adopt [Maritime Infrastructure]",
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1] Sight <for [{Military} {Water}] units>",
-            "Comment [Unlocks [The Louvre]]",
+		"Free [Quinquereme] appears","Free [Quinquereme] appears",
+            "Free [Quinquereme] appears","Comment [Unlocks [The Louvre]]",
             "Comment [Unlocks [Conquistador]]","Provides [1] [Policies]"
         ],
         "era": "Medieval era",
