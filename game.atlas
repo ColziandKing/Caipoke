@@ -722,6 +722,13 @@ PolicyBranchIcons/Democracy
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/Merchant Navy
+  rotate: false
+  xy: 700, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 PolicyIcons/Secularity
   rotate: false
   xy: 1338, 4
