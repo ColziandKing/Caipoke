@@ -103,6 +103,34 @@ BuildingIcons/Stronghold
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyBranchIcons/Democracy
+  rotate: false
+  xy: 294, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercenary Navy
+  rotate: false
+  xy: 700, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Secularity
+  rotate: false
+  xy: 1338, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Socialist Realism1
+  rotate: false
+  xy: 1396, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 
 Natio.png
 size: 2048, 512
@@ -707,40 +735,6 @@ PolicyIcons/Covert Action1
   xy: 220, 148
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-
-PolIcons.png
-size: 2048, 128
-format: RGBA8888
-filter: MipMapLinearLinear, Linear
-repeat: none
-PolicyBranchIcons/Democracy
-  rotate: false
-  xy: 294, 62
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Merchant Navy
-  rotate: false
-  xy: 700, 62
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Secularity
-  rotate: false
-  xy: 1338, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Socialist Realism1
-  rotate: false
-  xy: 1396, 62
-  size: 50, 50
-  orig: 50, 50
   offset: 0, 0
   index: -1
 
