@@ -3,9 +3,9 @@
         "name": "Tradition",
         "era": "Ancient era",
         "uniques": [
-            "[+3 Culture] from every [Palace]", "Free Social Policy",
+            "[+3 Culture] from every [Palace]", "Free Social Policy","Remove [Despotism] <hidden from users>",
             "[-25]% Culture cost of natural border growth [in all cities]","Adopt [Aristocracy]", 
-            "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]"
+            "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]","Adopt [Bureaucracy] <hidden from users>",
         ],
         "policies": [
             {
@@ -99,7 +99,7 @@
         "era": "Ancient era",
         "uniques": [
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>","[+1 Culture] [in all cities]", 
-		"Free Social Policy", "Adopt [Free Speech]", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]"
+		"Free Social Policy", "Adopt [Free Speech]", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]","Remove [Barbarism] <hidden from users>"
         ],
         "policies": [
 		{
@@ -206,7 +206,7 @@
 			"Units in cities cost no Maintenance","Free Social Policy",
                     "[+50]% Strength for cities <with a garrison> <when attacking>","Adopt [Military Tradition]",
 		"[+15]% Production when constructing [Melee] units [in all cities]",
-            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]"
+            "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]","Remove [Tribalism] <hidden from users>"
         ],
         "policies": [
             {
@@ -297,9 +297,9 @@
         "era": "Classical era",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
-            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
+            "[+100]% Production when constructing [Shrine] buildings [in all cities]","Adopt [Pacifism] <hidden from users>",
             "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy","Adopt [Organized Religion]", 
-            "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]"
+            "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]","Remove [Paganism] <hidden from users>"
         ],
         "policies": [
             {
@@ -380,9 +380,9 @@
     {
         "name": "Patronage",
         "era": "Classical era",
-        "uniques": ["Free Social Policy","Adopt [Philanthropy]",
+        "uniques": ["Free Social Policy","Adopt [Philanthropy]","Adopt [Vassalage] <hidden from users>",
             "Resting point for Influence with City-States is increased by [20]",
-            "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]"
+            "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]","Remove [Decentralization] <hidden from users>"
         ],
         "policies": [
             {
@@ -456,7 +456,7 @@
         "name": "Commerce",
         "uniques": [
             "[Great Merchant] is earned [33]% faster", "Free Social Policy","Adopt [Silk Road]",
-            "Comment [Unlocks [Big Ben]]","Provides [1] [Policies]"
+            "Comment [Unlocks [Big Ben]]","Provides [1] [Policies]","Adopt [Environmentalism] <hidden from users>"
         ],
         "era": "Medieval era",
         "policies": [
@@ -545,7 +545,7 @@
         "uniques": [ 
 		"Free Social Policy","Adopt [Maritime Infrastructure]",
             "[+1] Movement <for [{Military} {Water}] units>",
-            "[+1] Sight <for [{Military} {Water}] units>",
+            "[+1] Sight <for [{Military} {Water}] units>","Adopt [Mercenary Navy] <hidden from users>",
 		"Free [Quinquereme] appears","Free [Quinquereme] appears",
             "Free [Quinquereme] appears","Comment [Unlocks [The Louvre]]",
             "Comment [Unlocks [Conquistador]]","Provides [1] [Policies]"
@@ -977,9 +977,9 @@
         "era": "Industrial era",
         "uniques": [
             "Free Social Policy","Free Social Policy","Adopt [Avant Garde]",
-            "Comment [Unlocks [Statue of Liberty]]", "Adopt [Civil Society]",
+            "Comment [Unlocks [Statue of Liberty]]", "Adopt [Civil Society]","Remove [Slavery] <hidden from users>",
             "Only available <before adopting [Autocracy]>","Adopt [Volunteer Army]",
-            "Only available <before adopting [Order]>","Provides [1] [Policies]"
+            "Only available <before adopting [Order]>","Provides [1] [Policies]","Adopt [Emancipation] <hidden from users>"
         ],
         "policies": [
             {
