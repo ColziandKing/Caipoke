@@ -1426,7 +1426,7 @@
                 ]
             }
         ]
-    },
+    },		
     {
         "name": "Chiefdom",
         "era": "Modern era",
@@ -1442,7 +1442,7 @@
             {
                 "name": "Government",
                 "uniques": [
-					"Adopt [Despotism] <hidden from users>",
+					"Adopt [Despotism]",
 ],
 				"civilopediaText": [
 					{
@@ -1456,7 +1456,7 @@
             {
                 "name": "Labor",
                 "uniques": [
-				"Adopt [Tribalism] <hidden from users>",
+				"Adopt [Tribalism]",
 	
 ],
 				"civilopediaText": [
@@ -1471,7 +1471,7 @@
             {
                 "name": "Religion",
                 "uniques": [
-		"Adopt [Paganism] <hidden from users>",
+		"Adopt [Paganism]",
 			
 ],
 				"civilopediaText": [
@@ -1483,7 +1483,7 @@
 				"row": 1,
                 "column": 5
             },
-            {
+{
                 "name": "Despotism",
                 "uniques": [
 					"Comment [Low Upkeep]",
@@ -1580,13 +1580,13 @@
 			{
 				"name": "Chiefdom Complete",
 				"uniques": [
-"Will not be displayed in Civilopedia",
+
 					"Comment [Only able to select one civic at a time]"
 				]
 			}
         ]
     },
-    {
+{
         "name": "Civics",
         "era": "Modern era",
 		"uniques": [
@@ -1653,7 +1653,7 @@
 				"row": 1,
                 "column": 5
             },
-            {
+		{
                 "name": "Emancipation",
                 "uniques": [
 					"Comment [Low Upkeep]",
@@ -1717,7 +1717,7 @@
             {
                 "name": "Legal",
                 "uniques": [
-					"Adopt [Barbarism] <hidden from users>",
+					"Adopt [Barbarism]",
 ],
 				"civilopediaText": [
 					{
@@ -1731,7 +1731,7 @@
             {
                 "name": "Economy",
                 "uniques": [
-				"Adopt [Decentralization] <hidden from users>",
+				"Adopt [Decentralization]",
 ],
 				"civilopediaText": [
 					{
@@ -1745,7 +1745,7 @@
 			{
 				"name": "Civics Complete",
 				"uniques": [
-					"Will not be displayed in Civilopedia",
+					
 					"Comment [Only able to select one civic at a time]"
 				]
 			}
