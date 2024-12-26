@@ -3,7 +3,7 @@
         "name": "Shift of Ideology",
         "cost": 0,
         "uniques": [
-		"Comment [Allows Ideology Change]",
+		"Comment [Allows Ideology Change]","Free Social Policy",
             "Can be purchased with [Gold] [in all cities]",
 					"Remove [Socialist Realism] <hidden from users>",
 					"Remove [Patriotic War] <hidden from users>",
