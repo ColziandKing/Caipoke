@@ -1750,7 +1750,7 @@ PolicyIcons/People's Army1
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mobilization1
+PolicyIcons/Mobilization
   rotate: false
   xy: 1056, 676
   size: 50, 50
