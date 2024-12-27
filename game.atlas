@@ -1932,7 +1932,7 @@ PolicyBranchIcons/World
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Civics
+PolicyBranchIcons/Ideology 
   rotate: false
   xy: 1114, 676
   size: 50, 50
