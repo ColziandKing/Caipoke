@@ -99,7 +99,7 @@
         "era": "Ancient era",
         "uniques": [
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>","[+1 Culture] [in all cities]", 
-		"Free Social Policy", "Adopt [Free Speech]", "Comment [Unlocks [Pyramids]]","Provides [1] [Policies]","Remove [Barbarism] <hidden from users>"
+		"Free Social Policy", "Adopt [Free Speech]", "Comment [Unlocks [The Pyramids]]","Provides [1] [Policies]","Remove [Barbarism] <hidden from users>"
         ],
         "policies": [
 		{
