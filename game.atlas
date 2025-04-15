@@ -69,7 +69,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-ImprovementIcons/Dry Dock
+ImprovementIcons/Dry Dock1
   rotate: false
   xy: 946, 1152
   size: 100, 100
@@ -1694,7 +1694,7 @@ PolicyIcons/Humanity
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Double Agents
+PolicyIcons/Ideology
   rotate: false
   xy: 1164, 734
   size: 50, 50
@@ -1932,7 +1932,7 @@ PolicyBranchIcons/World
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Ideology 
+TechIcons/Hunting & Gathering
   rotate: false
   xy: 1114, 676
   size: 50, 50
