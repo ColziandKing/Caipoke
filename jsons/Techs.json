@@ -1,4 +1,22 @@
 [
+	{
+		"columnNumber": -1,
+		"era": "Prehistoric era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Hunting & Gathering",
+				"row": 6,
+				"quote": "'Before much was known, much simple and yet difficult life our ancestors had.' - Colziand",
+				"uniques": ["Starting tech",
+                    "Adopt [Tradition]",
+                    "Adopt [Liberty]",
+                    "Adopt [Honor]"]
+			}
+		]
+	},
     {
         "columnNumber": 0,
         "era": "Ancient era",
@@ -11,7 +29,6 @@
                 "row": 5,
                 "quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
                 "uniques": [
-                    "Starting tech",
                     "Adopt [Chiefdom] <hidden from users>",
                     "Adopt [Slavery] <hidden from users>",
                     "Adopt [Civics] <hidden from users>",
