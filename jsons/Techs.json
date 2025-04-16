@@ -1,24 +1,6 @@
 [
-  {
-		"columnNumber": 0,
-		"era": "Prehistoric era",
-		"techCost": 5,
-		"buildingCost": 10,
-		"wonderCost": 15,
-		"techs": [
-			{
-				"name": "Hunting & Gathering",
-				"row": 5,
-				"quote": "'Before much was known, much simple and yet difficult was the life our ancestors had.' - Colziand",
-				"uniques": ["Starting tech",
-                    "Adopt [Tradition]",
-                    "Adopt [Liberty]",
-                    "Adopt [Honor]"]
-			}
-		]
-	},
     {
-        "columnNumber": 1,
+        "columnNumber": 0,
         "era": "Ancient era",
         "techCost": 20,
         "buildingCost": 40,
@@ -27,16 +9,18 @@
             {
                 "name": "Agriculture",
                 "row": 5,
-                "prerequisites": ["Hunting & Gathering"],
                 "quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
                 "uniques": [
-                    "Notified of new Barbarian encampments"
+                    "Notified of new Barbarian encampments",
+			"Adopt [Tradition]",
+                    "Adopt [Liberty]",
+                    "Adopt [Honor]"
                 ]
             }
         ]
     },
     {
-        "columnNumber": 2,
+        "columnNumber": 1,
         "era": "Ancient era",
         "techCost": 35,
         "buildingCost": 60,
@@ -70,7 +54,7 @@
         ]
     },
     {
-        "columnNumber": 3,
+        "columnNumber": 2,
         "era": "Ancient era",
         "techCost": 55,
         "buildingCost": 75,
@@ -125,7 +109,7 @@
         ]
     },
     {
-        "columnNumber": 4,
+        "columnNumber": 3,
         "era": "Classical era",
         "techCost": 105,
         "buildingCost": 75,
@@ -160,7 +144,7 @@
         ]
     },
     {
-        "columnNumber": 5,
+        "columnNumber": 4,
         "era": "Classical era",
         "techCost": 175,
         "buildingCost": 100,
@@ -203,7 +187,7 @@
         ]
     },
     {
-        "columnNumber": 6,
+        "columnNumber": 5,
         "era": "Medieval era",
         "techCost": 275,
         "buildingCost": 120,
@@ -237,7 +221,7 @@
         ]
     },
     {
-        "columnNumber": 7,
+        "columnNumber": 6,
         "era": "Medieval era",
         "techCost": 485,
         "buildingCost": 160,
@@ -290,7 +274,7 @@
         ]
     },
     {
-        "columnNumber": 8,
+        "columnNumber": 7,
         "era": "Renaissance era",
         "techCost": 780,
         "buildingCost": 200,
@@ -332,7 +316,7 @@
         ]
     },
     {
-        "columnNumber": 9,
+        "columnNumber": 8,
         "era": "Renaissance era",
         "techCost": 1150,
         "buildingCost": 250,
@@ -375,7 +359,7 @@
         ]
     },
     {
-        "columnNumber": 10,
+        "columnNumber": 9,
         "era": "Industrial era",
         "techCost": 1600,
         "buildingCost": 300,
@@ -420,7 +404,7 @@
         ]
     },
     {
-        "columnNumber": 11,
+        "columnNumber": 10,
         "era": "Industrial era",
         "techCost": 2350,
         "buildingCost": 360,
@@ -454,7 +438,7 @@
         ]
     },
     {
-        "columnNumber": 12,
+        "columnNumber": 11,
         "era": "Modern era",
         "techCost": 3100,
         "buildingCost": 500,
@@ -494,7 +478,7 @@
         ]
     },
     {
-        "columnNumber": 13,
+        "columnNumber": 12,
         "era": "Modern era",
         "techCost": 4100,
         "buildingCost": 500,
@@ -527,7 +511,7 @@
         ]
     },
     {
-        "columnNumber": 14,
+        "columnNumber": 13,
         "era": "Atomic era",
         "techCost": 5100,
         "buildingCost": 500,
@@ -561,7 +545,7 @@
         ]
     },
     {
-        "columnNumber": 15,
+        "columnNumber": 14,
         "era": "Atomic era",
         "techCost": 6400,
         "buildingCost": 500,
@@ -594,7 +578,7 @@
         ]
     },
     {
-        "columnNumber": 16,
+        "columnNumber": 15,
         "era": "Information era",
         "techCost": 8470,
         "buildingCost": 750,
@@ -640,7 +624,7 @@
         ]
     },
     {
-        "columnNumber": 17,
+        "columnNumber": 16,
         "era": "Information era",
         "techCost": 9680,
         "buildingCost": 750,
@@ -679,7 +663,7 @@
         ]
     },
     {
-        "columnNumber": 18,
+        "columnNumber": 17,
         "era": "Information era",
         "techCost": 10500,
         "buildingCost": 750,
