@@ -60,7 +60,7 @@
 	        "outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 
-		"uniqueName": "Coastal Express",
+		"uniqueName": "Naval Express",
 		"uniques": [
 			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]",
 			"Gain an extra spy <upon entering the [Atomic era]>"
@@ -95,8 +95,8 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
-				"Starts with [Colonialism] adopted","Gain an extra spy <upon entering the [Industrial era]>",
-			"Provides [1] [Porcelain]"
+				"Starts with [Colonialism] adopted","Provides [1] [Porcelain]",
+			"Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
 		],
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
