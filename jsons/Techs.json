@@ -225,13 +225,13 @@
                 "name": "Guilds",
                 "row": 7,
                 "prerequisites": ["Currency"],
-                "uniques": ["Enables conversion of city production to [Gold]"],
                 "quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
             },
             {
                 "name": "Metal Casting",
                 "row": 9,
                 "prerequisites": ["Engineering","Iron Working"],
+                "uniques": ["Enables conversion of city production to [Gold]"],
                 "quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
             }
         ]
@@ -307,6 +307,7 @@
                 "name": "Acoustics",
                 "row": 4,
                 "prerequisites": ["Education"],
+                "uniques": ["Enables conversion of city production to [Culture]"],
                 "quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
             },
             {
@@ -366,6 +367,9 @@
                 "name": "Chemistry",
                 "row": 10,
                 "prerequisites": ["Gunpowder"],
+                "uniques": [
+                            "Free [Atomic Bomb] appears"
+                ],
                 "quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
             }
         ]
