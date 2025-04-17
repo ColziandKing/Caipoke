@@ -64,8 +64,8 @@
 
 		"uniqueName": "Naval Express",
 		"uniques": [
-			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]", "Starts with [Democracy] adopted",
-                    "Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
+			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]", "Starts with [Democracy]",
+                    "Gain a free [Watch Tower] [in all cities]",
 		],
 		"spyNames": ["Uzaine", "Vassalia"],
 
@@ -278,7 +278,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Allied Rule of the Domain",
 		"uniques": [
-			"Starts with [Constitution] adopted","Provides [1] [Glass]",
+			"Provides [1] [Glass]","Starts with [Constitution]",
 			"Cannot build [Scout] units","Cannot build [Archery] units",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
