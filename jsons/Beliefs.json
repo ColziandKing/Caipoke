@@ -107,7 +107,6 @@
             "[+2 Gold, +2 Culture, +2 Faith] from every [Monastery]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Synagogue]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Meeting House]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Dar-e Mehr]",
           "May buy [Vihara] buildings for [150] [Faith] [in cities following this religion]",
           "May buy [Monastery] buildings for [200] [Faith] [in cities following this religion]",
           "May buy [Synagogue] buildings for [200] [Faith] [in cities following this religion]",
@@ -117,7 +116,6 @@
           "May buy [Gurdwara] buildings for [270] [Faith] [in cities following this religion]",
           "May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]",
           "May buy [Meeting House] buildings for [165] [Faith] [in cities following this religion]",
-          "May buy [Dar-e Mehr] buildings for [255] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
