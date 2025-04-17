@@ -26,8 +26,10 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
-		"uniques": ["Gain a free [Castle] [in capital]","Gain an extra spy <upon entering the [Renaissance era]>",
-			"Starts with [Monarchy] adopted","[+10]% [Food] <when between [20] and [50] Happiness>",
+		"uniques": ["Gain a free [Castle] [in capital]",
+			"Gain an extra spy <upon entering the [Renaissance era]>",
+			"Starts with [Monarchy] adopted",
+			"[+10]% [Food] <when between [30] and [50] Happiness>",
 			"[+10]% [Faith] <when between [-10] and [-100] Happiness>"],
     
 		"cities": ["Alnwick","Liverpool","Plymouth","Birmingham","Manchester","Southampton","Bath",
@@ -62,8 +64,8 @@
 
 		"uniqueName": "Naval Express",
 		"uniques": [
-			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]",
-			"Gain an extra spy <upon entering the [Atomic era]>"
+			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]", "Starts with [Democracy] adopted",
+                    "Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
 		],
 		"spyNames": ["Uzaine"],
 
