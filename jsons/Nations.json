@@ -65,7 +65,6 @@
 		"uniqueName": "Naval Express",
 		"uniques": [
 			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]", "Starts with [Democracy]",
-                    "Gain a free [Watch Tower] [in all cities]",
 		],
 		"spyNames": ["Uzaine", "Vassalia"],
 
