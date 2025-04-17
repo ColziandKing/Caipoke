@@ -280,8 +280,8 @@
 		"uniques": [
                     		"[+20]% [Production] from every [Stock Exchange]",
                     		"[+20]% [Gold] from every [Broadcast Tower]",
-			"Gain an extra spy <upon entering the [Information era]>",
-			"Cannot build [Scout] units","Cannot build [Archery] units","Provides [1] [Glass]",
+			"Starts with [Constitution] adopted","Provides [1] [Glass]",
+			"Cannot build [Scout] units","Cannot build [Archery] units",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
