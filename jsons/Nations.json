@@ -151,36 +151,6 @@
 			"Yogyakarta","Bima","Sorong"]
 	},
 	{
-		"name": "Colziand",
-		"leaderName": "Raymond Sheen Caballero",
-		"adjective": ["Kolzians"],
-          	"startBias": ["Coast","Grassland"],
-		"preferredVictoryType": "Diplomatic",
-	  	"favoredReligion": "Christianity",
-	  
-		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
-                "startIntroPart2": "Honored kingly Colziand, the people have long admired the steady hand of governance you wield. Will you conquer all those who oppose you, or strive for peaceful relations? Quote: 'It is much more blessed to give, than to receive.' Will you once more rule the world for the Lord's will be done?",
-	  	
-		"declaringWar": "Hence, Forth!",
-		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
-		"defeated": "Colziand is its people, me, and Him.",
-		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
-		"neutralHello": "Oh greeting high above",
-		"hateHello": "You speak in pride, I don't wanna hear it",
-		"tradeRequest": "It appears that you have a golden interest of our goods",
-		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Davao", "Ravdon Mond", "Sabert Zhang", 
-			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno", "America"],
-		"outerColor": [255,128,0],
-		"innerColor": [255,255,0], 
-		"uniqueName": "Allied Rule of the Domain",
-		"uniques": [
-			"Provides [1] [Glass]","Starts with [Constitution]",
-			"Cannot build [Scout] units","Cannot build [Archery] units",
-			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
-		],
-		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
-	},
-	{
         "name": "Ukraine",
         "leaderName": "Yaroslav I",
         "adjective": ["Ukrainian"],
