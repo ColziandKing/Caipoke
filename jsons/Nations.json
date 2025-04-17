@@ -278,8 +278,6 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Allied Rule of the Domain",
 		"uniques": [
-                    		"[+20]% [Production] from every [Stock Exchange]",
-                    		"[+20]% [Gold] from every [Broadcast Tower]",
 			"Starts with [Constitution] adopted","Provides [1] [Glass]",
 			"Cannot build [Scout] units","Cannot build [Archery] units",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
