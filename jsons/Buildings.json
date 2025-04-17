@@ -4,7 +4,8 @@
         "cost": 0,
         "uniques": [
 		"Comment [Allows Ideology Change]","Free Social Policy",
-            "Can be purchased with [Gold] [in all cities]",
+            "Can be purchased with [Gold] [in all cities]","Unbuildable","Unsellable",
+            "Can be purchased for [150] [Faith] [in all cities]",
 					"Remove [Socialist Realism] <hidden from users>",
 					"Remove [Patriotic War] <hidden from users>",
 					"Remove [Capitalism] <hidden from users>",
