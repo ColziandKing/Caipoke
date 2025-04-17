@@ -27,7 +27,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Castle] [in capital]",
-			"Gain an extra spy <upon entering the [Renaissance era]>",
+			"Gain an extra spy <upon entering the [Medieval era]>",
 			"Starts with [Monarchy] adopted",
 			"[+10]% [Food] <when between [30] and [50] Happiness>",
 			"[+10]% [Faith] <when between [-10] and [-100] Happiness>"],
@@ -67,7 +67,7 @@
 			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]", "Starts with [Democracy] adopted",
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
 		],
-		"spyNames": ["Uzaine"],
+		"spyNames": ["Uzaine", "Vassalia"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
@@ -276,10 +276,12 @@
 			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno", "America"],
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
-		"uniqueName": "Domain Rule",
+		"uniqueName": "Allied Rule of the Domain",
 		"uniques": [
-			"Starts with [Landed Elite] adopted","Provides [1] [Glass]","Gain an extra spy <upon entering the [Information era]>",
-			    "Military Units gifted from City-States start with [+1000] XP","Cannot build [Scout] units","Cannot build [Archery] units",
+                    		"[+20]% [Production] from every [Stock Exchange]",
+                    		"[+20]% [Gold] from every [Broadcast Tower]",
+			"Gain an extra spy <upon entering the [Information era]>",
+			"Cannot build [Scout] units","Cannot build [Archery] units","Provides [1] [Glass]",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
