@@ -1694,7 +1694,7 @@ PolicyIcons/Humanity
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Ideology
+PolicyBranchIcons/Ideology
   rotate: false
   xy: 1164, 734
   size: 50, 50
