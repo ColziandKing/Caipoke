@@ -5,7 +5,7 @@
         "uniques": [
 		"Comment [Allows Ideology Change]","Free Social Policy",
             "Can be purchased with [Gold] [in all cities]","Unbuildable","Unsellable",
-            "Can be purchased for [150] [Faith] [in all cities]",
+            "Can be purchased for [50] [Faith] [in all cities]",
 					"Remove [Socialist Realism] <hidden from users>",
 					"Remove [Patriotic War] <hidden from users>",
 					"Remove [Capitalism] <hidden from users>",
@@ -240,6 +240,8 @@
 			"Doubles Gold given to enemy if city is captured","Unbuildable",
 			"Hidden when religion is disabled","Unsellable","Provides [2] [Jewelry]",
 			"Unbuildable","Provides [1] [Porcelain]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Monasteries] religion>",
 		]
 	},
     {
@@ -262,7 +264,8 @@
         "uniques": [
             "Unbuildable","Unsellable",
 		"Provides [2] [Glass]","Provides [1] [Porcelain]",
-            "Only available <when religion is enabled>"
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Meeting Houses] religion>",
         ]
     },
 	//yss
