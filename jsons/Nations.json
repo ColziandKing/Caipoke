@@ -25,7 +25,7 @@
 		"uniques": [
 			"Starts with [Constitution] adopted","When defeating a [Military] unit, earn [50] Gold and recruit it <with [50]% chance>",
 			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
-			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]",
+			"May buy [Edukasa] buildings for [145] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
