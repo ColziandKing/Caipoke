@@ -239,7 +239,7 @@
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"Doubles Gold given to enemy if city is captured","Unbuildable",
 			"Hidden when religion is disabled","Unsellable","Provides [2] [Jewelry]",
-			"Unbuildable","Provides [1] [Porcelain]",
+            "Can be purchased for [225] [Faith] [in all cities]",
             "Only available <when religion is enabled>",
             "Only available <in cities with a [Monasteries] religion>",
 		]
@@ -262,10 +262,45 @@
         "faith": 3,
         "production": 2,
         "uniques": [
-            "Unbuildable","Unsellable",
-		"Provides [2] [Glass]","Provides [1] [Porcelain]",
+            "Unsellable",
+            "Can be purchased for [170] [Faith] [in all cities]",
+		"Provides [2] [Glass]",
             "Only available <when religion is enabled>",
             "Only available <in cities with a [Meeting Houses] religion>",
+        ]
+    },
+    {
+        "name": "Georgian Meeting House",
+        "replaces": "Meeting House",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+        "culture": 1,
+        "faith": 2,
+        "production": 3,
+        "uniques": [
+            "Unsellable",
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Synagogues] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Monastery",
+        "replaces": "Monastery",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+        "culture": 2,
+        "faith": 2,
+        "production": 2,
+        "uniques": [
+            "Unsellable",
+		"[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"Doubles Gold given to enemy if city is captured","Unbuildable",
+			"Hidden when religion is disabled","Provides [2] [Jewelry]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Synagogues] religion>",
+            "Will not be displayed in Civilopedia"
         ]
     },
 	//yss
