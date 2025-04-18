@@ -275,13 +275,13 @@
         "uniqueTo": "Georgia",
         "cost": 100,
         "culture": 1,
-        "faith": 2,
-        "production": 3,
+        "faith": 3,
+        "production": 2,
         "uniques": [
             "Unsellable",
-            "[+15]% Production when constructing [All] buildings [in this city]",
+		"Provides [2] [Glass]",
             "Only available <when religion is enabled>",
-            "Only available <in cities with a [Synagogues] religion>",
+            "Only available <in cities with a [Meeting Houses] religion>",
             "Will not be displayed in Civilopedia"
         ]
     },
