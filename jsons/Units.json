@@ -97,8 +97,6 @@
 	{
 		"name": "Slinger",
 		"unitType": "Archery",
-		"uniqueTo": "Inca",
-		"replaces": "Archer",
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 10,
@@ -440,7 +438,7 @@
     },
   {
 		"name": "Battering Ram",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "England",
 		"replaces": "Longswordsman",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"movement": 3,
