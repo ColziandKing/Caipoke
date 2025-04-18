@@ -2,7 +2,7 @@
 	{
 		"name": "Colziand",
 		"leaderName": "Raymond Sheen Caballero",
-		"adjective": ["Kolzians"],
+		"adjective": ["Colzians"],
           	"startBias": ["Coast","Grassland"],
 		"preferredVictoryType": "Diplomatic",
 	  	"favoredReligion": "Christianity",
@@ -21,13 +21,10 @@
 			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno", "America"],
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
-		"uniqueName": "Allied Rule of the Domain",
+		"uniqueName": "Allied Domain Rule",
 		"uniques": [
-			"Provides [1] [Glass]",
-			"Starts with [Educated Elite] adopted",
-			"Gain an extra spy <upon entering the [Modern era]>",
-			"Cannot build [Scout] units","Cannot build [Archery] units",
-			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]"
+			"Provides [1] [Glass]","Cannot build [Scout] units","Cannot build [Archery] units",
+			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
@@ -96,9 +93,8 @@
 		"uniqueName": "Naval Express",
 		"uniques": [
 			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]",
-			"Gain an extra spy <upon entering the [Atomic era]>",
 		],
-		"spyNames": ["Uzaine", "Vassalia"],
+		"spyNames": ["Uzaine", "Vassalia",],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
