@@ -56,7 +56,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Reislaufer
+BuildingIcons/Edukasa
   rotate: false
   xy: 500, 100
   size: 100, 100
