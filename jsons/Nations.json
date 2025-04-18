@@ -23,7 +23,8 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Allied Domain Rule",
 		"uniques": [
-			"Provides [1] [Glass]","Cannot build [Scout] units","Cannot build [Archery] units",
+			"Starts with [Constitution] adopted","When defeating a [Military] unit, earn [50] Gold and recruit it <with [50]% chance>",
+			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
 			"May buy [Meeting House] buildings for [145] [Faith] [in cities following this religion]",
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
@@ -91,9 +92,10 @@
 
 		"uniqueName": "Naval Express",
 		"uniques": [
-			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]",
+			   "Starts with [Maritime Infrastructure] adopted","Provides [1] [Jewelry]","[+1 Culture] per [4] population [in all cities]",
+			"Science gained from research agreements [+25]%","When declaring friendship, both parties gain a [25]% boost to great person generation",
 		],
-		"spyNames": ["Uzaine", "Vassalia",],
+		"spyNames": ["Uzaine", "Vassalia"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
@@ -123,6 +125,7 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
+			"[-50]% maintenance costs <for [Military] units> <in [City center] tiles>",
 				"Military Units gifted from City-States start with [+500] XP","Provides [1] [Porcelain]",
 			"Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
 		],
