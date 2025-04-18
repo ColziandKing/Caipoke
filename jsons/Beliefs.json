@@ -58,7 +58,7 @@
   {
         "name": "Meeting Houses",
         "type": "Follower",
-        "uniques": ["Comment [Unlocks [Meeting House] [in cities following this religion]]""]
+        "uniques": ["Comment [Unlocks [Meeting House] [in cities following this religion]]"]
     },
   {
         "name": "Monasteries",
