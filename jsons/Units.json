@@ -403,10 +403,10 @@
   {
 		"name": "Battering Ram",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
-		"movement": 3,
+		"movement": 2,
 		"strength": 15,
 		"cost": 105,
-		"requiredTech": "Theology",
+		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
