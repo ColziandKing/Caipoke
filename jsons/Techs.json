@@ -632,7 +632,7 @@
         "techs": [
             {
                 "name": "Globalization",
-                "row": 1,
+                "row": 2,
                 "prerequisites": ["Telecommunications"],
                 "quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
             },
@@ -672,7 +672,7 @@
             {
                 "name": "Future Tech",
                 "row": 5,
-                "prerequisites": ["Nanotechnology","Particle Physics","Nuclear Fusion","Stealth"],
+                "prerequisites": ["Globalization","Nanotechnology","Particle Physics","Nuclear Fusion","Stealth"],
                 "uniques": ["Comment [Who knows what the future holds?]","Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush"
             }
