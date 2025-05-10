@@ -432,7 +432,7 @@
             {
                 "name": "Educated Elite",
                 "uniques": [
-                    "Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
+                    "Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
 			"Allied City-States will occasionally gift Great People","Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Diplomacy","United Front"],
