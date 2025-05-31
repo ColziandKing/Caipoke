@@ -186,7 +186,7 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 35,
 		"science": 1,
-		"maintenance": 3,
+		"maintenance": 5,
 		"uniques": [
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion",
 			"All newly-trained [relevant] units [in this city] receive the [Logistics] promotion",
