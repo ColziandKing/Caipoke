@@ -115,7 +115,7 @@
             "Must be next to [Coast]",
             "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
             "[+1 Gold] from [Water resource] tiles [in this city]",
-            "New [Water] units start with [15] Experience [in this city]"
+            "New [Water] units start with [15] XP [in this city]"
         ],
         "requiredTech": "Optics"
     },
@@ -190,7 +190,7 @@
 		"uniques": [
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion",
 			"All newly-trained [relevant] units [in this city] receive the [Logistics] promotion",
-			"New [Military] units start with [500] Experience [in this city]","Destroyed when the city is captured"
+			"New [Military] units start with [500] XP [in this city]","Destroyed when the city is captured"
 			],
 		"requiredTech": "Bronze Working"
 	},
