@@ -845,19 +845,6 @@
         "cities": ["Mohenjo-Daro"]
     },
     {
-        "name": "Singapore",
-        "adjective": ["Singaporean"],
-        "cityStateType": "Mercantile",
-        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
-        "attacked": "Very well, we will kick you back to the ancient era!",
-        "defeated": "This isn't how it is supposed to be!",
-        "outerColor": [0, 0, 0],
-        "innerColor": [255, 255, 128],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
-        "cities": ["Singapore"]
-    },
-    {
         "name": "Tallinn",
         "adjective": ["Tallinner"],
         "cityStateType": "Mercantile",
