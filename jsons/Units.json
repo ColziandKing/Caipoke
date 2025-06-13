@@ -263,11 +263,11 @@
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"movement": 2,
 		"strength": 15,
-		"cost": 105,
+		"cost": 155,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units"],
 		"promotions":  ["Cover I","Cover II"],
 		"attackSound": "throw"
